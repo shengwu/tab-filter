@@ -1,3 +1,4 @@
+import json
 from bs4 import BeautifulSoup, Tag
 
 def is_valid_row(row):
@@ -33,14 +34,26 @@ def process_play_links(links):
     pass
 
 def process_row(row):
+    '''Processes the information for a single tab.
+
+    Args:
+      row: a bs4 Tag object from banjo hangout
+
+    Returns:
+      a dictionary containing information about a tab'''
     title = row.find_all('a')[0].string
     meta = process_meta(row.find_all('span')[0].string)
     download_links = process_download_links(row.find_all('span')[2])
     play_links = process_play_links(row.find_all('span')[2])
-    return {
+    data = {
         'title': title,
-        'meta': meta
+        'meta': meta,
     }
+
+    # Optional attributes
+    if len(row.find_all('i')) > 0:
+        data['desc'] = desc = row.find_all('i')[0].string
+    return data
 
 def main():
     soup = BeautifulSoup(open('all_tabs_table_20170503.html'), 'html.parser')
@@ -49,7 +62,8 @@ def main():
     for row in tab_table:
         if is_valid_row(row):
             tabs.append(process_row(row))
-    print tabs
+    with open('tabs.json', 'w+') as f:
+        json.dump(tabs, f, indent=4)
 
 if __name__ == '__main__':
     main()
