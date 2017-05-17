@@ -155,9 +155,8 @@ def main():
     for row in tab_table:
         if is_valid_row(row):
             tabs.append(process_row(row))
-    with open('tabs.json', 'w+') as f:
-        json.dump(tabs, f, indent=4)
-
+    with open('tabs.js', 'w+') as f:
+        f.write('var TABS = {};'.format(json.dumps(tabs, indent=4)))
 
 if __name__ == '__main__':
     main()
