@@ -22,7 +22,7 @@ function Tab(props) {
     <div className="tab">
       <h3>{props.name}</h3>
       {downloads}
-      <p>{props.desc}</p>
+      <p dangerouslySetInnerHTML={{__html: props.desc}}></p>
     </div>
   );
       //<Linkify tagName="p">{props.desc}</Linkify>

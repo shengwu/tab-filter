@@ -152,7 +152,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/other/tab-1-4-1-5-1-tag-e-21039-435616722015.pdf"
             ]
         }, 
-        "desc": "Notes: Here is a steel guitar ending that Allen Shelton frequently played on banjo.  It became a part of the Jim & Jesse sound and was used by their later banjo players as well.  If you just remember \"1-4-1-5-1,\" you can use this in any major key.  The timing is the same as most standard endings; only the chord progression in different."
+        "desc": "Notes: Here is a steel guitar ending that Allen Shelton frequently played on banjo.  It became a part of the Jim &amp; Jesse sound and was used by their later banjo players as well.  If you just remember \"1-4-1-5-1,\" you can use this in any major key.  The timing is the same as most standard endings; only the chord progression in different."
     }, 
     {
         "download": {
@@ -192,7 +192,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/other/tab-1952-vincent-bl-17039-3020163132012.tef"
             ]
         }, 
-        "desc": "Notes: Based on playing of Carson McKee (guitar) and Josh Turner (banjo) from their Youtube version http://www.youtube.com/watch?v=fQK2xFOAxrI&feature=g-hist&context=G224e38fAHT20pXQAAAA\nBanjo tuned down one whole step, guitar capoed at 3rd fret.  Key of Bb."
+        "desc": "Notes: Based on playing of Carson McKee (guitar) and Josh Turner (banjo) from their Youtube version <a href=\"http://www.youtube.com/watch?v=fQK2xFOAxrI&amp;feature=g-hist&amp;context=G224e38fAHT20pXQAAAA\" target=\"_blank\">http://www.youtube.com/watch?v=fQK2xFOAxrI&amp;feature=g-hist&amp;context=G224e38fAHT20pXQAAAA</a>\nBanjo tuned down one whole step, guitar capoed at 3rd fret.  Key of Bb."
     }, 
     {
         "download": {
@@ -440,7 +440,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/other/tab-8th-of-january-11778-462816692009.tef"
             ]
         }, 
-        "desc": "Notes: The old fiddle tune, the 8th of January arranged for melodic style banjo. The first two breaks are exactly the same, and are in the melodic style with some slight variation on the melody. The third break presents an alternate way to play the melody, in single string style, as well as some more slight variations. Has a Rhythm Guitar & Bass backup track."
+        "desc": "Notes: The old fiddle tune, the 8th of January arranged for melodic style banjo. The first two breaks are exactly the same, and are in the melodic style with some slight variation on the melody. The third break presents an alternate way to play the melody, in single string style, as well as some more slight variations. Has a Rhythm Guitar &amp; Bass backup track."
     }, 
     {
         "download": {
@@ -535,7 +535,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/other/tab-99-years---noam-20682-5346202782014.pdf"
             ]
         }, 
-        "desc": "Notes: This is my attempt at transcribing Noam's solo break from this Punch Bros youtube video...\n\nhttps://www.youtube.com/watch?v=U8JA8AUnRxc\n\nThe solo comes in at 3:00 or so. I don't have Tabledit and did this in Sibelius so the slides/bends/etc. aren't as polished but you get the idea! Capo up to B to play with the video."
+        "desc": "Notes: This is my attempt at transcribing Noam's solo break from this Punch Bros youtube video...\n\n<a href=\"https://www.youtube.com/watch?v=U8JA8AUnRxc\" target=\"_blank\">https://www.youtube.com/watch?v=U8JA8AUnRxc</a>\n\nThe solo comes in at 3:00 or so. I don't have Tabledit and did this in Sibelius so the slides/bends/etc. aren't as polished but you get the idea! Capo up to B to play with the video."
     }, 
     {
         "play": {
@@ -605,7 +605,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-a-beautiful-lif-16955-1737201032012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2015-10-25T06:18:00", 
@@ -813,7 +813,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-a-mighty-fortre-18976-4742142172013.tef"
             ]
         }, 
-        "desc": "Notes: Here is Bill Keith's arrangement of \"A Mighty Fortress\" by Martin Luther. This was taken from his performance at the Grey Fox Bluegrass Festival in 2010, which was posted to YouTube: http://www.youtube.com/watch?v=Af5kVilTYms\nHe makes a comment that he \"Can't play this standing up\". It requires very large and/or extremely flexible hands. I can't really play it sitting down."
+        "desc": "Notes: Here is Bill Keith's arrangement of \"A Mighty Fortress\" by Martin Luther. This was taken from his performance at the Grey Fox Bluegrass Festival in 2010, which was posted to YouTube: <a href=\"http://www.youtube.com/watch?v=Af5kVilTYms\" target=\"_blank\">http://www.youtube.com/watch?v=Af5kVilTYms</a>\nHe makes a comment that he \"Can't play this standing up\". It requires very large and/or extremely flexible hands. I can't really play it sitting down."
     }, 
     {
         "play": {
@@ -938,7 +938,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-a-place-in-the--19289-543911692013.pdf"
             ]
         }, 
-        "desc": "Notes: Alternate tab and midi available under \"All God's Critters\". This tab is a combination beginner and intermediate. Very important to have a drop-thumb at least at measure 7. Alternate drop-thumbs are shown, with a link to the Celtic Thunder version, which has a Scruggs style banjo back-up. Also an entertaining Youtube version available @ http://www.youtube.com/watch?v=aqm-S9J1s_k. Linked to Gospel Lover's group, although not truly Gospel, it's just inspiring. Includes lyrics. Also added to Beginner Clawhammer group."
+        "desc": "Notes: Alternate tab and midi available under \"All God's Critters\". This tab is a combination beginner and intermediate. Very important to have a drop-thumb at least at measure 7. Alternate drop-thumbs are shown, with a link to the Celtic Thunder version, which has a Scruggs style banjo back-up. Also an entertaining Youtube version available @ <a href=\"http://www.youtube.com/watch?v=aqm-S9J1s_k\" target=\"_blank\">http://www.youtube.com/watch?v=aqm-S9J1s_k</a>. Linked to Gospel Lover's group, although not truly Gospel, it's just inspiring. Includes lyrics. Also added to Beginner Clawhammer group."
     }, 
     {
         "last_updated": "2013-10-25T05:46:00", 
@@ -1471,7 +1471,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-aint-nobody-gon-16029-1601621102016.tef"
             ]
         }, 
-        "desc": "Notes: Breaks to this old warhorse by three of the greats -- and now I know where many of my \"original\" ideas came from.  The exact picking on Stover's break was hard to hear, but I think I came close to capturing it.  The chokes up the neck on Scruggs's break should be played with vigor.  It probably helps to hear the original recording, which you can find on www.sugarmegs.org.  Crowe's break ends on a whimsical statement of the melody, and you can find this concert recording also on sugarmegs."
+        "desc": "Notes: Breaks to this old warhorse by three of the greats -- and now I know where many of my \"original\" ideas came from.  The exact picking on Stover's break was hard to hear, but I think I came close to capturing it.  The chokes up the neck on Scruggs's break should be played with vigor.  It probably helps to hear the original recording, which you can find on <a href=\"http://www.sugarmegs.org\" target=\"_blank\">www.sugarmegs.org</a>.  Crowe's break ends on a whimsical statement of the melody, and you can find this concert recording also on sugarmegs."
     }, 
     {
         "download": {
@@ -1486,7 +1486,7 @@ var TABS = [
     }, 
     {
         "posted_by": "Buxton", 
-        "desc": "Notes: Banjo break.  Timing might be off a touch but the notes are pretty accurate.  You can see the source here:  http://www.youtube.com/watch?v=VBZ64W7URoE&feature=related", 
+        "desc": "Notes: Banjo break.  Timing might be off a touch but the notes are pretty accurate.  You can see the source here:  <a href=\"http://www.youtube.com/watch?v=VBZ64W7URoE&amp;feature=related\" target=\"_blank\">http://www.youtube.com/watch?v=VBZ64W7URoE&amp;feature=related</a>", 
         "last_updated": "2010-09-26T23:34:00", 
         "meta": {
             "genre": "Bluegrass", 
@@ -1516,7 +1516,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-air-charles-st--21518-538818102015.jpg"
             ]
         }, 
-        "desc": "Notes: A Quebecois tune taught by Aime Gagnon per Claude Methe. Here is a beautiful recording of Laura Risk playing it as an air: https://www.youtube.com/watch?v=nKttfdF40fE"
+        "desc": "Notes: A Quebecois tune taught by Aime Gagnon per Claude Methe. Here is a beautiful recording of Laura Risk playing it as an air: <a href=\"https://www.youtube.com/watch?v=nKttfdF40fE\" target=\"_blank\">https://www.youtube.com/watch?v=nKttfdF40fE</a>"
     }, 
     {
         "play": {
@@ -1602,7 +1602,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-alabama-jubilee-12626-184215212010.tef"
             ]
         }, 
-        "desc": "Notes: An old pop song from the 'teens, Alabama Jubilee. This is great fun to play, and an excellent tune to jam on as the chord progression lends itself well to improvisation. The two breaks presented here are the melody and a variation closely based on the melody. It has some rolls that are kinda difficult to pull off at higher speeds, mainly the \"Dixie Breakdown Roll\", so practice, of course, is in order. A rarely played gem; teach it to your local jam and you'll have a blast! Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: An old pop song from the 'teens, Alabama Jubilee. This is great fun to play, and an excellent tune to jam on as the chord progression lends itself well to improvisation. The two breaks presented here are the melody and a variation closely based on the melody. It has some rolls that are kinda difficult to pull off at higher speeds, mainly the \"Dixie Breakdown Roll\", so practice, of course, is in order. A rarely played gem; teach it to your local jam and you'll have a blast! Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "play": {
@@ -1854,7 +1854,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-all-of-me-12202-35381511112009.tef"
             ]
         }, 
-        "desc": "Notes: Here is one break to the jazz super-standard \"All Of Me\". The rhythm of the melody has been banjo-fied somewhat, though the chords (still open, Bluegrass chords) are authentic, including a flat-five chord. It's still more of a bluegrass take on a jazz tunes more than jazz banjo. Has some Reno in it. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is one break to the jazz super-standard \"All Of Me\". The rhythm of the melody has been banjo-fied somewhat, though the chords (still open, Bluegrass chords) are authentic, including a flat-five chord. It's still more of a bluegrass take on a jazz tunes more than jazz banjo. Has some Reno in it. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2014-02-27T15:10:00", 
@@ -2218,7 +2218,7 @@ var TABS = [
                 "http://banjoteacher.com/tablature/index.html"
             ]
         }, 
-        "desc": "Notes: This is one of the songs in my Gospel Songs for Banjo Book/CD/DVD at BanjoTeacher.com. Thanks, Ross Nickerson"
+        "desc": "Notes: This is one of the songs in my Gospel Songs for Banjo Book/CD/DVD at <a href=\"http://BanjoTeacher.com\" target=\"_blank\">BanjoTeacher.com</a>. Thanks, Ross Nickerson"
     }, 
     {
         "last_updated": "2012-03-10T20:36:00", 
@@ -2236,7 +2236,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-amazing-grace-16954-536201032012.pdf"
             ]
         }, 
-        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From LaynePublications.com"
+        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>"
     }, 
     {
         "last_updated": "2013-03-30T06:19:00", 
@@ -2552,7 +2552,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/photos/large/43/4317-139447842013.jpg"
             ]
         }, 
-        "desc": "Notes: The famous Irish air and lament about an 1828 boating accident near Galway town, based on Dolly MacMahon's sean-nos version in A Dorian.  This is a highly ornamented setting for advanced players, similar to the arrangements one can find in my first tune collection, Mel Bay's Complete Book of Irish & Celtic 5-String Banjo.  This tune can also be played in 3/4 and in 6/8, as a jig, known as 'The Sheep in the Boat' (Junior Crehan)."
+        "desc": "Notes: The famous Irish air and lament about an 1828 boating accident near Galway town, based on Dolly MacMahon's sean-nos version in A Dorian.  This is a highly ornamented setting for advanced players, similar to the arrangements one can find in my first tune collection, Mel Bay's Complete Book of Irish &amp; Celtic 5-String Banjo.  This tune can also be played in 3/4 and in 6/8, as a jig, known as 'The Sheep in the Boat' (Junior Crehan)."
     }, 
     {
         "last_updated": "2013-04-16T01:56:00", 
@@ -2606,7 +2606,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/photos/large/43/4317-1472014742013.jpg"
             ]
         }, 
-        "desc": "Notes: This is a beginner's arrangement like one would find in my most recent tune collection, Mel Bay's Easy Irish & Celtic Melodies for 5-String Banjo: Best-Loved Airs and Session Tunes. Here is a bare bones arrangement of the famous Irish air and lament about an 1828 boating accident near Galway town, based on Dolly MacMahon's sean-nos version in A Dorian.  It can also be played in 3/4 and in 6/8, as a jig, known as 'The Sheep in the Boat' (Junior Crehan).  Compare this arrangement with the highly ornamented version of 'Anach Cuain' (Air/Lament), for advanced players."
+        "desc": "Notes: This is a beginner's arrangement like one would find in my most recent tune collection, Mel Bay's Easy Irish &amp; Celtic Melodies for 5-String Banjo: Best-Loved Airs and Session Tunes. Here is a bare bones arrangement of the famous Irish air and lament about an 1828 boating accident near Galway town, based on Dolly MacMahon's sean-nos version in A Dorian.  It can also be played in 3/4 and in 6/8, as a jig, known as 'The Sheep in the Boat' (Junior Crehan).  Compare this arrangement with the highly ornamented version of 'Anach Cuain' (Air/Lament), for advanced players."
     }, 
     {
         "download": {
@@ -2675,7 +2675,7 @@ var TABS = [
                 "http://taterjoes.com/banjo/AndTheCatCameBack2.pdf"
             ]
         }, 
-        "desc": "Notes: www.TaterJoes.com. I've also posted it in a different part order, if you prefer."
+        "desc": "Notes: <a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>. I've also posted it in a different part order, if you prefer."
     }, 
     {
         "last_updated": "2013-04-04T18:13:00", 
@@ -2693,7 +2693,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-and-the-cat-cam-18525-241318442013.tef"
             ]
         }, 
-        "desc": "Notes: \u201cAnd the Cat Came Back The Very Next Day\u201d, from Doc Roberts:  I have long been an admirer of Doc\u2019s fiddling. He infuses his rich repertoire of tunes with a distinct bluesy sound characterized by powerful, yet smooth bowing and remarkably clear intonation.\nFirst, I learned to play this tune on the fiddle.  Eventually I was able to eke out a fair approximation of The Cat.  I would dust it off from time to time, but really did not fully commit to it, in part because I didn\u2019t feel fully confident in my fiddling.  But of course, it kept coming back, insisting that I give it the attention it deserved, so that now it lays curled up comfortably at the fire amongst the other familiar G tunes.\nI suppose it became jealous of my time on the banjo, so slyly crept into my clawhammer fingers, where it sits now as a banjo favorite.\nOne of the charms of Doc\u2019s fiddle version, is how the tune wanders in no obvious pattern  (at least to me) between what I am labeling the A, B, and C parts.  In order to share more easily with others, I play it as AABBCC.\nA brief bio of Doc Roberts compiled from the internet (Wikipedia and other sources)\nDock Philipine Roberts was born in 1898 near Kirksville, Madison County, and learned to play the fiddle at an early age with some help from his older brother Liebert. Doc's and Liebert's musical mentor was the African-American fiddler Owen Walker who was born in 1857, and taught Roberts most of his tunes. After finishing his studies in Berea Roberts married in 1913. In 1925, a talent scout, Dennis Taylor, recruited Roberts along with Welby Toomey and Edgar Boaz as old time recording artists for Gennet Records In early 1927, Roberts recorded with the string band, the \"Booker Family\".  Together with Dick Parman and Ted Chestnut, he formed the Kentucky Thorobreds. They recorded in April 1927 for Paramount.\nIn the fall of 1927, teamed up with Asa Martin as Martin & Roberts. They made their recording debut in May 1928 for the Gennett label. Between 1927-1934, the duo performed at fiddler's conventions, in schoolhouses, on vaudeville stages, and on radio (WHAS in Louisville, Kentucky). Martin & Roberts recorded altogether more than 200 sides on 11 different labels. Later on, with the addition of Doc Roberts' son James, the Fiddlin' Doc Roberts Trio was formed. In 1928, Roberts was hired, through the agency of Bradley Kincaid, by the National Barn Dance radio show in Chicago . He was paid $50 a week. After only two weeks he quit the show and moved back to Kentucky because he was unable to sleep due to the noise of the big city. The Doc Roberts Trio lasted until 1934 when Roberts retired as a recording artist. During the next 4 decades, he continued to make personal appearances and occasional radio works.\nHe died at the age of 81 in his hometown of Richmond.\n\nThe Cat Came Back:\n\nI first heard \u201cThe Cat Came Back\u201d as a camp song.  The melody in Doc\u2019s version, seemed completely separate from my vague memory of that song, so I didn\u2019t give it much more thought. However, in preparation for this post, I conducted an internet search and quickly discovered 1) The first commercial recording of \"The Cat Came Back\" was by Fiddlin\u2019 John Carson (OKeh 40119) in April 1924. It doesn\u2019t sound at all like Doc\u2019s version \"And The Cat Came Back The Very Next Day\", recorded on Gennett 3235 on November 13, 1925.  However, the Fiddlin\u2019 John\u2019s version appears directly related the Harry S. Miller Song of 1893:  \"The Cat Came Back: A Nigger Absurdity.\" Ouch!  The racism that runs through much of American popular culture is revealed again.   I don\u2019t like reporting this, but just thought you should know.\n"
+        "desc": "Notes: \u201cAnd the Cat Came Back The Very Next Day\u201d, from Doc Roberts:  I have long been an admirer of Doc\u2019s fiddling. He infuses his rich repertoire of tunes with a distinct bluesy sound characterized by powerful, yet smooth bowing and remarkably clear intonation.\nFirst, I learned to play this tune on the fiddle.  Eventually I was able to eke out a fair approximation of The Cat.  I would dust it off from time to time, but really did not fully commit to it, in part because I didn\u2019t feel fully confident in my fiddling.  But of course, it kept coming back, insisting that I give it the attention it deserved, so that now it lays curled up comfortably at the fire amongst the other familiar G tunes.\nI suppose it became jealous of my time on the banjo, so slyly crept into my clawhammer fingers, where it sits now as a banjo favorite.\nOne of the charms of Doc\u2019s fiddle version, is how the tune wanders in no obvious pattern  (at least to me) between what I am labeling the A, B, and C parts.  In order to share more easily with others, I play it as AABBCC.\nA brief bio of Doc Roberts compiled from the internet (Wikipedia and other sources)\nDock Philipine Roberts was born in 1898 near Kirksville, Madison County, and learned to play the fiddle at an early age with some help from his older brother Liebert. Doc's and Liebert's musical mentor was the African-American fiddler Owen Walker who was born in 1857, and taught Roberts most of his tunes. After finishing his studies in Berea Roberts married in 1913. In 1925, a talent scout, Dennis Taylor, recruited Roberts along with Welby Toomey and Edgar Boaz as old time recording artists for Gennet Records In early 1927, Roberts recorded with the string band, the \"Booker Family\".  Together with Dick Parman and Ted Chestnut, he formed the Kentucky Thorobreds. They recorded in April 1927 for Paramount.\nIn the fall of 1927, teamed up with Asa Martin as Martin &amp; Roberts. They made their recording debut in May 1928 for the Gennett label. Between 1927-1934, the duo performed at fiddler's conventions, in schoolhouses, on vaudeville stages, and on radio (WHAS in Louisville, Kentucky). Martin &amp; Roberts recorded altogether more than 200 sides on 11 different labels. Later on, with the addition of Doc Roberts' son James, the Fiddlin' Doc Roberts Trio was formed. In 1928, Roberts was hired, through the agency of Bradley Kincaid, by the National Barn Dance radio show in Chicago . He was paid $50 a week. After only two weeks he quit the show and moved back to Kentucky because he was unable to sleep due to the noise of the big city. The Doc Roberts Trio lasted until 1934 when Roberts retired as a recording artist. During the next 4 decades, he continued to make personal appearances and occasional radio works.\nHe died at the age of 81 in his hometown of Richmond.\n\nThe Cat Came Back:\n\nI first heard \u201cThe Cat Came Back\u201d as a camp song.  The melody in Doc\u2019s version, seemed completely separate from my vague memory of that song, so I didn\u2019t give it much more thought. However, in preparation for this post, I conducted an internet search and quickly discovered 1) The first commercial recording of \"The Cat Came Back\" was by Fiddlin\u2019 John Carson (OKeh 40119) in April 1924. It doesn\u2019t sound at all like Doc\u2019s version \"And The Cat Came Back The Very Next Day\", recorded on Gennett 3235 on November 13, 1925.  However, the Fiddlin\u2019 John\u2019s version appears directly related the Harry S. Miller Song of 1893:  \"The Cat Came Back: A Nigger Absurdity.\" Ouch!  The racism that runs through much of American popular culture is revealed again.   I don\u2019t like reporting this, but just thought you should know.\n"
     }, 
     {
         "last_updated": "2011-07-31T12:03:00", 
@@ -2751,7 +2751,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-andres-a-toto-20706-1553131392014.pdf"
             ]
         }, 
-        "desc": "Notes: Qu\u00e9b\u00e9cois tune from the Olympia Quebecois session repertoire. From the repertoire of Andres Savoie. We usually start it with the B part. We shorten the B part to 8 measures by skipping  the 7th measure but I included it in the tab. In the mp3 file I recorded myself over our Olympia Q session - the mp3 starts midway through the A part and skips the 7th measure of the B part. The key signature for the A part is G and the B part is D. It is usually played very fast. Here is a youtube of Andres Brunet playing it very fast on the fiddle (this video starts on the B part): https://www.youtube.com/watch?v=8IXtOpSCcBM"
+        "desc": "Notes: Qu\u00e9b\u00e9cois tune from the Olympia Quebecois session repertoire. From the repertoire of Andres Savoie. We usually start it with the B part. We shorten the B part to 8 measures by skipping  the 7th measure but I included it in the tab. In the mp3 file I recorded myself over our Olympia Q session - the mp3 starts midway through the A part and skips the 7th measure of the B part. The key signature for the A part is G and the B part is D. It is usually played very fast. Here is a youtube of Andres Brunet playing it very fast on the fiddle (this video starts on the B part): <a href=\"https://www.youtube.com/watch?v=8IXtOpSCcBM\" target=\"_blank\">https://www.youtube.com/watch?v=8IXtOpSCcBM</a>"
     }, 
     {
         "download": {
@@ -2786,7 +2786,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-angel-band-21524-12461220102015.pdf"
             ]
         }, 
-        "desc": "Notes: This was a free download from the Jay Buckey site. www.jaybuckey.com I got it probably 7 or 8 years ago not long after I started. I can heartily recommend Jay's work as I have bought a few of his books over the years."
+        "desc": "Notes: This was a free download from the Jay Buckey site. <a href=\"http://www.jaybuckey.com\" target=\"_blank\">www.jaybuckey.com</a> I got it probably 7 or 8 years ago not long after I started. I can heartily recommend Jay's work as I have bought a few of his books over the years."
     }, 
     {
         "download": {
@@ -2838,7 +2838,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-angelina-baker-19009-5033142972013.pdf"
             ]
         }, 
-        "desc": "Notes: My variation, in double C (capo 2) for D sound. Some lyrics provided. Hammer-ons are optional but effective. Hope you enjoy my version which is a mix of other versions watered down for the beginner Clawhammer player like me. Melody in D can be found @\n\nhttp://www.youtube.com/watch?v=ynr8gp1j50g"
+        "desc": "Notes: My variation, in double C (capo 2) for D sound. Some lyrics provided. Hammer-ons are optional but effective. Hope you enjoy my version which is a mix of other versions watered down for the beginner Clawhammer player like me. Melody in D can be found @\n\n<a href=\"http://www.youtube.com/watch?v=ynr8gp1j50g\" target=\"_blank\">http://www.youtube.com/watch?v=ynr8gp1j50g</a>"
     }, 
     {
         "last_updated": "2017-03-05T06:33:00", 
@@ -3043,7 +3043,7 @@ var TABS = [
                 "http://taterjoes.com/banjo/AngelinaBaker.pdf"
             ]
         }, 
-        "desc": "Notes: www.TaterJoes.com"
+        "desc": "Notes: <a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "download": {
@@ -3553,7 +3553,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-arab-bounce-16956-4538201032012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "download": {
@@ -3585,7 +3585,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-are-you-missing-21011-236191512015.pdf"
             ]
         }, 
-        "desc": "Notes: This is my banjo solo for the song \"Are You Missing Me.\"  It's fairly straight forward, but it does occasionally depart from the typical Scruggs style licks in favor of more melodic lines.  When I was making this solo, I tried to think about how I would play if I was playing it with Jim & Jesse.  I have never done much with tablature, so I would love to hear what you all think."
+        "desc": "Notes: This is my banjo solo for the song \"Are You Missing Me.\"  It's fairly straight forward, but it does occasionally depart from the typical Scruggs style licks in favor of more melodic lines.  When I was making this solo, I tried to think about how I would play if I was playing it with Jim &amp; Jesse.  I have never done much with tablature, so I would love to hear what you all think."
     }, 
     {
         "last_updated": "2016-09-05T14:46:00", 
@@ -3694,7 +3694,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-are-you-washed--18978-563816382013.pdf"
             ]
         }, 
-        "desc": "Notes: Simplified beginner clawhammer version. Key of G, Capo 2 for Key of A. Lyrics can be found @ http://www.lyricstime.com/hymn-are-you-washed-in-the-blood-lyrics.html\nMelody @ http://www.banjohangout.org/myhangout/videos.asp?m=d&catID=0&id=17411\n"
+        "desc": "Notes: Simplified beginner clawhammer version. Key of G, Capo 2 for Key of A. Lyrics can be found @ <a href=\"http://www.lyricstime.com/hymn-are-you-washed-in-the-blood-lyrics.html\" target=\"_blank\">http://www.lyricstime.com/hymn-are-you-washed-in-the-blood-lyrics.html</a>\nMelody @ <a href=\"http://www.banjohangout.org/myhangout/videos.asp?m=d&amp;catID=0&amp;id=17411\" target=\"_blank\">http://www.banjohangout.org/myhangout/videos.asp?m=d&amp;catID=0&amp;id=17411</a>\n"
     }, 
     {
         "play": {
@@ -3834,7 +3834,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-arkansas-travel-13656-3432172972010.pdf"
             ]
         }, 
-        "desc": "Notes: I couldn't find a good melodic clawhammer version of this famous American tune online so I decided to arrange it myself. Hope you like it-Glenn Weiser. www.celticguitarmusic.com"
+        "desc": "Notes: I couldn't find a good melodic clawhammer version of this famous American tune online so I decided to arrange it myself. Hope you like it-Glenn Weiser. <a href=\"http://www.celticguitarmusic.com\" target=\"_blank\">www.celticguitarmusic.com</a>"
     }, 
     {
         "play": {
@@ -3850,7 +3850,7 @@ var TABS = [
             "tuning": "aDGBD", 
             "key": "D"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "download": {
@@ -3884,7 +3884,7 @@ var TABS = [
                 "http://taterjoes.com/banjo/ArkansasTraveler.pdf"
             ]
         }, 
-        "desc": "Notes: www.TaterJoes.com"
+        "desc": "Notes: <a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "play": {
@@ -3979,7 +3979,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-arkansas-travel-11777-19718792009.tef"
             ]
         }, 
-        "desc": "Notes: Here's the fiddle/jam standard \"Arkansas Traveller\", key of D, uncapoed. There are two breaks, the first one going to the banjo and the second one a Reno-ish guitar break, part of which is taken from Jeremy Stephens guitar part on his CD, the \"Scarlet Banjo\". This could be either an Intermediate or an Expert tab. Has a Rhythm Guitar & Bass rhythm track, as well as a backup banjo track over the Lead Guitar break."
+        "desc": "Notes: Here's the fiddle/jam standard \"Arkansas Traveller\", key of D, uncapoed. There are two breaks, the first one going to the banjo and the second one a Reno-ish guitar break, part of which is taken from Jeremy Stephens guitar part on his CD, the \"Scarlet Banjo\". This could be either an Intermediate or an Expert tab. Has a Rhythm Guitar &amp; Bass rhythm track, as well as a backup banjo track over the Lead Guitar break."
     }, 
     {
         "download": {
@@ -4031,7 +4031,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-arkansas-travel-16960-3536131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2012-07-01T10:29:00", 
@@ -4156,7 +4156,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-ashes-of-love-12325-55372122112009.tef"
             ]
         }, 
-        "desc": "Notes: Here is an example of what I offer from my site at http://www.leemarcusmusic.webs.com/"
+        "desc": "Notes: Here is an example of what I offer from my site at <a href=\"http://www.leemarcusmusic.webs.com/\" target=\"_blank\">http://www.leemarcusmusic.webs.com/</a>"
     }, 
     {
         "download": {
@@ -4254,7 +4254,7 @@ var TABS = [
                 "http://c305732.r32.cf1.rackcdn.com/Ashokan_Farewell-Banjo.zip"
             ]
         }, 
-        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From LaynePublications.com"
+        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>"
     }, 
     {
         "download": {
@@ -4395,7 +4395,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-at-calvary-16961-2039131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "play": {
@@ -4717,7 +4717,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/a/tab-away-in-a-mange-16962-949131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2014-02-21T10:54:00", 
@@ -5303,7 +5303,7 @@ var TABS = [
                 "http://taterjoes.com/banjo/BackstepCindy.pdf"
             ]
         }, 
-        "desc": "Notes: Taught by Eric Pearson\nwww.TaterJoes.com"
+        "desc": "Notes: Taught by Eric Pearson\n<a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "download": {
@@ -5732,7 +5732,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-banjo-bounce-16963-5549131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "play": {
@@ -6126,7 +6126,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-banjo-signal-16964-2750131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "download": {
@@ -6549,7 +6549,7 @@ var TABS = [
                 "http://taterjoes.com/banjo/BarlowKnife.pdf"
             ]
         }, 
-        "desc": "Notes: www.TaterJoes.com"
+        "desc": "Notes: <a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "download": {
@@ -6924,7 +6924,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-beaumont-rag-13609-10489772010.tef"
             ]
         }, 
-        "desc": "Notes: Here's a Texas fiddle favorite, \"Beaumont Rag\". I have it arranged here in my favorite key of F. Labeled \"Bluegrass (Scruggs) style, but it's mostly single string and some Reno rolls. There are 2 and a half breaks, the first 2 are adaptions of standard fiddle breaks, with the outro half-break being some doodlings of my own. It might take some convincing to get your jam to do it in F instead of the more common bluegrass keys of D or C, but it's worth it. Has a Texas-ish-style Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here's a Texas fiddle favorite, \"Beaumont Rag\". I have it arranged here in my favorite key of F. Labeled \"Bluegrass (Scruggs) style, but it's mostly single string and some Reno rolls. There are 2 and a half breaks, the first 2 are adaptions of standard fiddle breaks, with the outro half-break being some doodlings of my own. It might take some convincing to get your jam to do it in F instead of the more common bluegrass keys of D or C, but it's worth it. Has a Texas-ish-style Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "download": {
@@ -7068,7 +7068,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-beauty-in-tears-22355-432613222017.tef"
             ]
         }, 
-        "desc": "Notes: Turlough O'Carolan's Beauty in Tears resembles the old Welsh folk song The Ash Grove.  It sounds like a minuet to me and also a Christmas carol.  I made a slide show video to accompany the music with background by a cello banjo (https://www.youtube.com/watch?v=6kwDz3uS64A)."
+        "desc": "Notes: Turlough O'Carolan's Beauty in Tears resembles the old Welsh folk song The Ash Grove.  It sounds like a minuet to me and also a Christmas carol.  I made a slide show video to accompany the music with background by a cello banjo (<a href=\"https://www.youtube.com/watch?v=6kwDz3uS64A\" target=\"_blank\">https://www.youtube.com/watch?v=6kwDz3uS64A</a>)."
     }, 
     {
         "last_updated": "2009-09-05T07:52:00", 
@@ -7107,7 +7107,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bedeau-de-lenfe-22350-4511202812017.pdf"
             ]
         }, 
-        "desc": "Notes: The \u00abdeacon from hell\u00bb is a french-canadian tune that is very modal going back and forth between major and minor, it is also very crooked.   'Legend has it that Thomas Pomerleau, (the composer of this tune), promised a priest that he would throw his violin into the stove in order to receive absolution. He actually threw his violin into the stove and, having received his absolution, immediately withdrew it ... he had taken the precaution not to light the stove'. I played it here on a Gold Tone cello banjo. Here is  link to Pascal Gemme playing it on the fiddle: http://pascalgemme.com/tradquebec/page/2/"
+        "desc": "Notes: The \u00abdeacon from hell\u00bb is a french-canadian tune that is very modal going back and forth between major and minor, it is also very crooked.   'Legend has it that Thomas Pomerleau, (the composer of this tune), promised a priest that he would throw his violin into the stove in order to receive absolution. He actually threw his violin into the stove and, having received his absolution, immediately withdrew it ... he had taken the precaution not to light the stove'. I played it here on a Gold Tone cello banjo. Here is  link to Pascal Gemme playing it on the fiddle: <a href=\"http://pascalgemme.com/tradquebec/page/2/\" target=\"_blank\">http://pascalgemme.com/tradquebec/page/2/</a>"
     }, 
     {
         "download": {
@@ -7475,7 +7475,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bells-march-22000-346122272016.tef"
             ]
         }, 
-        "desc": "Notes: For the old-time Tune of the Week, 2/7/13.  This tune has history back to the Civil War.  Check out the discussion thread for TOTW:  http://www.banjohangout.org/archive/255652 ."
+        "desc": "Notes: For the old-time Tune of the Week, 2/7/13.  This tune has history back to the Civil War.  Check out the discussion thread for TOTW:  <a href=\"http://www.banjohangout.org/archive/255652\" target=\"_blank\">http://www.banjohangout.org/archive/255652</a> ."
     }, 
     {
         "download": {
@@ -7571,7 +7571,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-belle-of-lexing-22186-24521313102016.tef"
             ]
         }, 
-        "desc": "Notes: From the playing of Virginia fiddler Emmett Lundy.  For historical information check out Tom Berghan's discussion thread:  http://www.banjohangout.org/topic/322454."
+        "desc": "Notes: From the playing of Virginia fiddler Emmett Lundy.  For historical information check out Tom Berghan's discussion thread:  <a href=\"http://www.banjohangout.org/topic/322454\" target=\"_blank\">http://www.banjohangout.org/topic/322454</a>."
     }, 
     {
         "download": {
@@ -8282,7 +8282,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-big-mon-16965-751131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2012-08-21T06:41:00", 
@@ -8532,7 +8532,7 @@ var TABS = [
             ]
         }, 
         "posted_by": "rdiesel007", 
-        "desc": "Notes: A very melodic and single string take on this tune, I hope you like it. PS it's my solo from this vid:\n\nhttp://www.youtube.com/watch?v=JmhO5wv3ZCM", 
+        "desc": "Notes: A very melodic and single string take on this tune, I hope you like it. PS it's my solo from this vid:\n\n<a href=\"http://www.youtube.com/watch?v=JmhO5wv3ZCM\" target=\"_blank\">http://www.youtube.com/watch?v=JmhO5wv3ZCM</a>", 
         "last_updated": "2012-11-18T07:05:00", 
         "title": "Big Sciota"
     }, 
@@ -8576,7 +8576,7 @@ var TABS = [
                 "http://www.taterjoes.com/banjo/BigSciotaKT.pdf"
             ]
         }, 
-        "desc": "Notes: The more bluegrass-live version of the B part\nwww.TaterJoes.com"
+        "desc": "Notes: The more bluegrass-live version of the B part\n<a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "last_updated": "2014-05-09T16:54:00", 
@@ -8594,7 +8594,7 @@ var TABS = [
                 "http://www.taterjoes.com/banjo/BigSciotaEL.pdf"
             ]
         }, 
-        "desc": "Notes: The more old time version of the B part\nTaught by Evie Ladin\nwww.TaterJoes.com"
+        "desc": "Notes: The more old time version of the B part\nTaught by Evie Ladin\n<a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "last_updated": "2016-07-26T23:05:00", 
@@ -8801,7 +8801,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-big-train---don-20578-273941462014.tef"
             ]
         }, 
-        "desc": "Notes: live Porter Wagoner Show 1968\nhttps://www.youtube.com/watch?v=x572Y3JCnJ0"
+        "desc": "Notes: live Porter Wagoner Show 1968\n<a href=\"https://www.youtube.com/watch?v=x572Y3JCnJ0\" target=\"_blank\">https://www.youtube.com/watch?v=x572Y3JCnJ0</a>"
     }, 
     {
         "play": {
@@ -8881,7 +8881,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bile-them-cabag-16966-4951131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2012-03-04T12:08:00", 
@@ -8902,7 +8902,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bile-them-cabba-16907-6812432012.tef"
             ]
         }, 
-        "desc": "Notes: Basic arrangement from seanray.com"
+        "desc": "Notes: Basic arrangement from <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "download": {
@@ -9115,7 +9115,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bill-cheatham-16967-2652131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2013-05-31T11:02:00", 
@@ -9300,7 +9300,7 @@ var TABS = [
                 "http://www.taterjoes.com/banjo/BillCheatum.pdf"
             ]
         }, 
-        "desc": "Notes: www.TaterJoes.com"
+        "desc": "Notes: <a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "last_updated": "2014-01-07T07:49:00", 
@@ -9360,7 +9360,7 @@ var TABS = [
                 "http://www.taterjoes.com/banjo/BillyInTheLowGround.pdf"
             ]
         }, 
-        "desc": "Notes: www.TaterJoes.com"
+        "desc": "Notes: <a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "download": {
@@ -9438,7 +9438,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-billy-in-the-lo-16968-5952131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "download": {
@@ -9675,7 +9675,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bishline-ending-16772-523511222012.tef"
             ]
         }, 
-        "desc": "Notes: Tab request in response to thread http://www.banjohangout.org/topic/228176/#2892709\nSee the video at: http://www.bishlinebanjos.com/wp/models/cimarron/\n"
+        "desc": "Notes: Tab request in response to thread <a href=\"http://www.banjohangout.org/topic/228176/#2892709\" target=\"_blank\">http://www.banjohangout.org/topic/228176/#2892709</a>\nSee the video at: <a href=\"http://www.bishlinebanjos.com/wp/models/cimarron/\" target=\"_blank\">http://www.bishlinebanjos.com/wp/models/cimarron/</a>\n"
     }, 
     {
         "download": {
@@ -9898,7 +9898,7 @@ var TABS = [
                 "http://www.taterjoes.com/banjo/BlackEyedSusie.pdf"
             ]
         }, 
-        "desc": "Notes: http://www.taterjoes.com"
+        "desc": "Notes: <a href=\"http://www.taterjoes.com\" target=\"_blank\">http://www.taterjoes.com</a>"
     }, 
     {
         "download": {
@@ -9961,7 +9961,7 @@ var TABS = [
                 "http://taterjoes.com/banjo/BlackJackGrove.pdf"
             ]
         }, 
-        "desc": "Notes: www.TaterJoes.com"
+        "desc": "Notes: <a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "last_updated": "2010-02-17T07:54:00", 
@@ -9979,7 +9979,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-black-mountain--12995-135471722010.tef"
             ]
         }, 
-        "desc": "Notes: The classic show-piece for fiddle, \"Black Mountain Blues/Rag\" arranged here for Scruggs/Reno style banjo (capo 2). This piece is difficult at a medium tempo, let alone the burning fast velocity it sounds best (in my opinion) at. The 2nd chorus is an example of Don Reno's continuous roll pattern, which is a forward roll with no breaks until the end of the chorus. Thus it sounds almost too syncopated, and the timing is down with a lot of pull-offs & hammer-ons. I have experimented with a triple pull-off \u00e1 la Don's \"Green Mountain Hop\", (which is this same piece albeit in the key of D), to imitate the \"crazy\" fiddle part (you have to hear the tune to know what I'm talking about). Needless to say it's quite difficult at any tempo! There are a few small single string parts in the first two A sections, which are kinda difficult to pull off cleanly. Has a Rhythm Guitar & Bass rhythm track, as well as a guitar kick-off. Have fun!"
+        "desc": "Notes: The classic show-piece for fiddle, \"Black Mountain Blues/Rag\" arranged here for Scruggs/Reno style banjo (capo 2). This piece is difficult at a medium tempo, let alone the burning fast velocity it sounds best (in my opinion) at. The 2nd chorus is an example of Don Reno's continuous roll pattern, which is a forward roll with no breaks until the end of the chorus. Thus it sounds almost too syncopated, and the timing is down with a lot of pull-offs &amp; hammer-ons. I have experimented with a triple pull-off \u00e1 la Don's \"Green Mountain Hop\", (which is this same piece albeit in the key of D), to imitate the \"crazy\" fiddle part (you have to hear the tune to know what I'm talking about). Needless to say it's quite difficult at any tempo! There are a few small single string parts in the first two A sections, which are kinda difficult to pull off cleanly. Has a Rhythm Guitar &amp; Bass rhythm track, as well as a guitar kick-off. Have fun!"
     }, 
     {
         "download": {
@@ -10104,7 +10104,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-black-mountain--20612-4823161172014.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for our TOTW: http://www.banjohangout.org/topic/287936"
+        "desc": "Notes: From Jack Baker, for our TOTW: <a href=\"http://www.banjohangout.org/topic/287936\" target=\"_blank\">http://www.banjohangout.org/topic/287936</a>"
     }, 
     {
         "download": {
@@ -10241,7 +10241,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blacks-fork-11724-491742212015.tef"
             ]
         }, 
-        "desc": "Notes: Marvellous tune from the great Matt Flinner. Capo II. Watch out for the unsquare bits! Here's a performance by the composer: http://youtu.be/Npjmp7ph0rk"
+        "desc": "Notes: Marvellous tune from the great Matt Flinner. Capo II. Watch out for the unsquare bits! Here's a performance by the composer: <a href=\"http://youtu.be/Npjmp7ph0rk\" target=\"_blank\">http://youtu.be/Npjmp7ph0rk</a>"
     }, 
     {
         "download": {
@@ -10447,7 +10447,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blackberry-blos-16969-5953131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2013-06-11T18:49:00", 
@@ -10607,7 +10607,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blackberry-blos-14847-5737133032011.tef"
             ]
         }, 
-        "desc": "Notes: A backup that works nicely for Blackberry Blossom--has a descending bassline with pinches.  If you like it you may like my banjo blog at www.banjohomeplace.blogspot.com"
+        "desc": "Notes: A backup that works nicely for Blackberry Blossom--has a descending bassline with pinches.  If you like it you may like my banjo blog at <a href=\"http://www.banjohomeplace.blogspot.com\" target=\"_blank\">www.banjohomeplace.blogspot.com</a>"
     }, 
     {
         "download": {
@@ -10695,7 +10695,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blackberry-blos-21692-522681212016.tef"
             ]
         }, 
-        "desc": "Notes: The first elegant melodic break to BB I heard was by Bill Keith on the Zap Records LP \u201cDobro and Fiddle,\u201d by Kenny Haddock and Billy Baker (one of Monroe\u2019s former fiddlers), released in 1967.  He subsequently recorded it with the supergroup Muleskinner, in 1973.  Bill\u2019s breaks were delightful and stayed close to the melody, unlike the excursions into banjo noise practised by many of his successors, and they were played at breakneck knuckle-busting speed.  For an example of the cleverness of his break, note how he used ascending scales in the first run-through of the A part and then descending scales in the second run-through.  Brilliant.  Catch the video of Muleskinner on youtube.com, to see a young and bearded Bill Keith playing some outstanding banjo on BB and a bunch of other tunes.\n\nThe tab I have posted here is pretty close to the way I hear Bill playing it, and I give you two of his endings, the first from the Billy Baker recording and the second from Muleskinner.  Note that the backup chord structure can be complex as in the tab and Muleskinner recording, or simple as in the Billy Baker recording.  Either way it\u2019s a great tune."
+        "desc": "Notes: The first elegant melodic break to BB I heard was by Bill Keith on the Zap Records LP \u201cDobro and Fiddle,\u201d by Kenny Haddock and Billy Baker (one of Monroe\u2019s former fiddlers), released in 1967.  He subsequently recorded it with the supergroup Muleskinner, in 1973.  Bill\u2019s breaks were delightful and stayed close to the melody, unlike the excursions into banjo noise practised by many of his successors, and they were played at breakneck knuckle-busting speed.  For an example of the cleverness of his break, note how he used ascending scales in the first run-through of the A part and then descending scales in the second run-through.  Brilliant.  Catch the video of Muleskinner on <a href=\"http://youtube.com\" target=\"_blank\">youtube.com</a>, to see a young and bearded Bill Keith playing some outstanding banjo on BB and a bunch of other tunes.\n\nThe tab I have posted here is pretty close to the way I hear Bill playing it, and I give you two of his endings, the first from the Billy Baker recording and the second from Muleskinner.  Note that the backup chord structure can be complex as in the tab and Muleskinner recording, or simple as in the Billy Baker recording.  Either way it\u2019s a great tune."
     }, 
     {
         "play": {
@@ -10978,7 +10978,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blackjack-21251-42198742015.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for our TOTW: http://www.banjohangout.org/topic/301997/"
+        "desc": "Notes: From Jack Baker, for our TOTW: <a href=\"http://www.banjohangout.org/topic/301997/\" target=\"_blank\">http://www.banjohangout.org/topic/301997/</a>"
     }, 
     {
         "download": {
@@ -11016,7 +11016,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blackjack-backu-19489-5047115102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "play": {
@@ -11141,7 +11141,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blind-man-stand-22390-5323111922017.pdf"
             ]
         }, 
-        "desc": "Notes: My arrangement of John Hurt's recording of Blind Man Stand In the Way and Cried.\n\nVideo here: http://www.banjohangout.org/myhangout/videos.asp?memberID=82945"
+        "desc": "Notes: My arrangement of John Hurt's recording of Blind Man Stand In the Way and Cried.\n\nVideo here: <a href=\"http://www.banjohangout.org/myhangout/videos.asp?memberID=82945\" target=\"_blank\">http://www.banjohangout.org/myhangout/videos.asp?memberID=82945</a>"
     }, 
     {
         "last_updated": "2011-09-20T21:52:00", 
@@ -11160,7 +11160,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blind-mary-15928-251212092011.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "last_updated": "2011-09-23T12:41:00", 
@@ -11178,7 +11178,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blind-mary-(5-s-15942-5041122392011.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "play": {
@@ -11199,7 +11199,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blind-mary-2-4--15935-4831112292011.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "last_updated": "2012-04-20T13:37:00", 
@@ -11341,7 +11341,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blue-christmas-16970-4754131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "download": {
@@ -11932,7 +11932,7 @@ var TABS = [
                 "http://c305732.r32.cf1.rackcdn.com/Bluegrass_Blues-Banjo.zip"
             ]
         }, 
-        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From LaynePublications.com"
+        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>"
     }, 
     {
         "download": {
@@ -12055,7 +12055,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-blueridge-cabin-16971-2255131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "download": {
@@ -12293,7 +12293,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-boatin-up-sandy-20703-410131292014.tef"
             ]
         }, 
-        "desc": "Notes: Based on the version from Thaddeus Baker heard here: www.youtube.com/watch?v=kmPKq6W4pWs"
+        "desc": "Notes: Based on the version from Thaddeus Baker heard here: <a href=\"http://www.youtube.com/watch?v=kmPKq6W4pWs\" target=\"_blank\">www.youtube.com/watch?v=kmPKq6W4pWs</a>"
     }, 
     {
         "download": {
@@ -12398,7 +12398,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bob-tailed-mule-13095-535231432010.tef"
             ]
         }, 
-        "desc": "Notes: Related to http://www.banjohangout.org/topic/173245\n\nYoutube tutorial at http://www.youtube.com/watch?v=7Tp9-Zevw58"
+        "desc": "Notes: Related to <a href=\"http://www.banjohangout.org/topic/173245\" target=\"_blank\">http://www.banjohangout.org/topic/173245</a>\n\nYoutube tutorial at <a href=\"http://www.youtube.com/watch?v=7Tp9-Zevw58\" target=\"_blank\">http://www.youtube.com/watch?v=7Tp9-Zevw58</a>"
     }, 
     {
         "last_updated": "2010-03-21T14:39:00", 
@@ -12594,7 +12594,7 @@ var TABS = [
                 "http://www.taterjoes.com/banjo/BoneYard.pdf"
             ]
         }, 
-        "desc": "Notes: From Garry Harrison's awesome, out-of-print Red Prairie Dawn recording.\nwww.TaterJoes.com"
+        "desc": "Notes: From Garry Harrison's awesome, out-of-print Red Prairie Dawn recording.\n<a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "download": {
@@ -12769,7 +12769,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-border-ride-19925-52252315122013.tef"
             ]
         }, 
-        "desc": "Notes: capo 2nd     Jim & Jessie intro and two breaks"
+        "desc": "Notes: capo 2nd     Jim &amp; Jessie intro and two breaks"
     }, 
     {
         "last_updated": "2010-08-03T07:00:00", 
@@ -13456,7 +13456,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bright-sunny-so-12980-502131522010.tef"
             ]
         }, 
-        "desc": "Notes: Dock Boggs' \"Bright Sunny South\" from his Folkways recordings. Very easy to play for any old time banjo pickers, with \"two fingers & a thumb\" (as Dock said). I have the tab in f#\u2013C#\u2013F#\u2013B\u2013C# tuning, which is the actual tuning Dock used, just G-modal down a half step"
+        "desc": "Notes: Dock Boggs' \"Bright Sunny South\" from his Folkways recordings. Very easy to play for any old time banjo pickers, with \"two fingers &amp; a thumb\" (as Dock said). I have the tab in f#\u2013C#\u2013F#\u2013B\u2013C# tuning, which is the actual tuning Dock used, just G-modal down a half step"
     }, 
     {
         "last_updated": "2016-06-03T14:30:00", 
@@ -13703,7 +13703,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-broom-of-the-co-17854-4448162592012.tef"
             ]
         }, 
-        "desc": "Notes: Capo 2. This is a basic Scruggs version of the frailing style heard on the 'Cherish the Ladies' CD. It is the same song sung by Andy Stewart as noted below:\n\nhttp://www.chivalry.com/cantaria/lyrics/broom-cowdenknowes.html\n\nNotes from Andy M. Stewart:\nThis song is easily traceable back to the early seventeenth century where it appears in a small collection as \"The Lovely Northerne Lass.\" Allan Ramsay also published a version in his \"Tea Table Miscellany\", during the 1720s. It is a moving tale of love, banishment and exile, supported by a very beautiful melody. Cowdenknowes is in Berwickshire, near to the village of Earlston, a place much associated with the 13th century poet and prophet, \"Thomas The Rhymer\".  I got this song years ago, from my friend and neighbour, Archie Fisher.\n\n\nThis example of \"The Broom of the Cowdenknowes\" is performed by Andy M. Stewart with Silly Wizard on the albums Wild and Beautiful and The Best of Silly Wizard, both available from the Chivalry Music store\nPlease refer to Cantaria's Copyright information\n\nCopyright Information\nThe purpose of Cantaria is to be an educational resource for aspiring bards and minstrels. To that end, the songs you will find here include folk songs of western Europe, (mostly the British Isles) which  come from many sources and time periods. The \"Pre-1600\" section contains songs that we have been able to verify as coming from that time period.  They are all public domain. The \"Traditional\" cetegory includes songs of questionable age for which origins have not been concretely verified. To the best of our knowledge, songs in the \"Traditional\" section are public domain, unless otherwise noted on the song page.  If we have made an error in the credits for any of these songs, or if you have more information about their origins, please inform us so we can correct the problem and add proper credits.\n"
+        "desc": "Notes: Capo 2. This is a basic Scruggs version of the frailing style heard on the 'Cherish the Ladies' CD. It is the same song sung by Andy Stewart as noted below:\n\n<a href=\"http://www.chivalry.com/cantaria/lyrics/broom-cowdenknowes.html\" target=\"_blank\">http://www.chivalry.com/cantaria/lyrics/broom-cowdenknowes.html</a>\n\nNotes from Andy M. Stewart:\nThis song is easily traceable back to the early seventeenth century where it appears in a small collection as \"The Lovely Northerne Lass.\" Allan Ramsay also published a version in his \"Tea Table Miscellany\", during the 1720s. It is a moving tale of love, banishment and exile, supported by a very beautiful melody. Cowdenknowes is in Berwickshire, near to the village of Earlston, a place much associated with the 13th century poet and prophet, \"Thomas The Rhymer\".  I got this song years ago, from my friend and neighbour, Archie Fisher.\n\n\nThis example of \"The Broom of the Cowdenknowes\" is performed by Andy M. Stewart with Silly Wizard on the albums Wild and Beautiful and The Best of Silly Wizard, both available from the Chivalry Music store\nPlease refer to Cantaria's Copyright information\n\nCopyright Information\nThe purpose of Cantaria is to be an educational resource for aspiring bards and minstrels. To that end, the songs you will find here include folk songs of western Europe, (mostly the British Isles) which  come from many sources and time periods. The \"Pre-1600\" section contains songs that we have been able to verify as coming from that time period.  They are all public domain. The \"Traditional\" cetegory includes songs of questionable age for which origins have not been concretely verified. To the best of our knowledge, songs in the \"Traditional\" section are public domain, unless otherwise noted on the song page.  If we have made an error in the credits for any of these songs, or if you have more information about their origins, please inform us so we can correct the problem and add proper credits.\n"
     }, 
     {
         "last_updated": "2016-10-02T15:56:00", 
@@ -13879,7 +13879,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-buckin-mule-22545-5339222542017.pdf"
             ]
         }, 
-        "desc": "Notes: Classic Dillards version of this old song, I include all of the banjo breaks and backup to the mando breaks and to the vocals. There are Chords for your guitar buddy too at no additional charge. Check out this track from The Dillards Live!!! Almost!! LP: https://www.youtube.com/watch?v=59MoVqcEYcs"
+        "desc": "Notes: Classic Dillards version of this old song, I include all of the banjo breaks and backup to the mando breaks and to the vocals. There are Chords for your guitar buddy too at no additional charge. Check out this track from The Dillards Live!!! Almost!! LP: <a href=\"https://www.youtube.com/watch?v=59MoVqcEYcs\" target=\"_blank\">https://www.youtube.com/watch?v=59MoVqcEYcs</a>"
     }, 
     {
         "download": {
@@ -14168,7 +14168,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-bugle-call-rag--19493-210135102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "download": {
@@ -14318,7 +14318,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-burning-of-the--20818-48142129102014.pdf"
             ]
         }, 
-        "desc": "Notes: According to thesession.org,  this tune comes from the mid 1700s when England was actively stomping out the culture of the Scottish Highlands. Sheet music is available at http://thesession.org/tunes/\n\nAccording to http://www.nigelgatherer.com/whistle/tut_8/8-4.html:\n\"The English general Cumberland received the sobriquet 'Butcher' after the defeat of the Jacobite forces of Bonnie Prince Charlie at Culloden in 1746, such was the savagery of his reprisals and cruelty toward prisoners of the engagement. In the aftermath of the rising a series of laws were passed which aimed to suppress the Highland culture and break forever the power of the ancient clans in order to prevent any such rebellion from again happening. Thus, highland dress and the wearing of clan tartan was prohibited on pain of death, arms were banned, and, attesting to the power of traditional music to evoke emotion, pipers were outlawed. In fact, reports Williamson, the kilt continued to be prohibited until 1782, forcing the Highlanders to wear trews. Any clergyman who did not pray in church expressly for George of Hanover could be transported for life, and those who attended such services were liable to fine and imprisonment. This was in force till 1792. The Burning of the Piper's Hut probably refers to these times.\""
+        "desc": "Notes: According to <a href=\"http://thesession.org\" target=\"_blank\">thesession.org</a>,  this tune comes from the mid 1700s when England was actively stomping out the culture of the Scottish Highlands. Sheet music is available at <a href=\"http://thesession.org/tunes/\" target=\"_blank\">http://thesession.org/tunes/</a>\n\nAccording to <a href=\"http://www.nigelgatherer.com/whistle/tut_8/8-4.html:\" target=\"_blank\">http://www.nigelgatherer.com/whistle/tut_8/8-4.html:</a>\n\"The English general Cumberland received the sobriquet 'Butcher' after the defeat of the Jacobite forces of Bonnie Prince Charlie at Culloden in 1746, such was the savagery of his reprisals and cruelty toward prisoners of the engagement. In the aftermath of the rising a series of laws were passed which aimed to suppress the Highland culture and break forever the power of the ancient clans in order to prevent any such rebellion from again happening. Thus, highland dress and the wearing of clan tartan was prohibited on pain of death, arms were banned, and, attesting to the power of traditional music to evoke emotion, pipers were outlawed. In fact, reports Williamson, the kilt continued to be prohibited until 1782, forcing the Highlanders to wear trews. Any clergyman who did not pray in church expressly for George of Hanover could be transported for life, and those who attended such services were liable to fine and imprisonment. This was in force till 1792. The Burning of the Piper's Hut probably refers to these times.\""
     }, 
     {
         "last_updated": "2011-08-23T08:47:00", 
@@ -14335,7 +14335,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/b/tab-burry-beneath-t-15840-344782382011.tef"
             ]
         }, 
-        "desc": "Notes: tabbed to guitar pro from http://rickmckeon.com/banjotabs.html"
+        "desc": "Notes: tabbed to guitar pro from <a href=\"http://rickmckeon.com/banjotabs.html\" target=\"_blank\">http://rickmckeon.com/banjotabs.html</a>"
     }, 
     {
         "play": {
@@ -14387,7 +14387,7 @@ var TABS = [
                 "http://banjoteacher.com/tablature/index.html"
             ]
         }, 
-        "desc": "Notes: An easy version of Bury Me Beneath the Willow from the free tab page at BanjoTeacher.com\n"
+        "desc": "Notes: An easy version of Bury Me Beneath the Willow from the free tab page at <a href=\"http://BanjoTeacher.com\" target=\"_blank\">BanjoTeacher.com</a>\n"
     }, 
     {
         "last_updated": "2012-03-10T20:21:00", 
@@ -14405,7 +14405,7 @@ var TABS = [
                 "http://c305732.r32.cf1.rackcdn.com/Bury_Me_Beneath_The_Willow-Banjo.zip"
             ]
         }, 
-        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From LaynePublications.com"
+        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>"
     }, 
     {
         "last_updated": "2013-08-06T13:43:00", 
@@ -14883,7 +14883,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-callahan-17441-174561762012.jpg"
             ]
         }, 
-        "desc": "Notes: Based upon Norm Edmunds version: http://slippery-hill.com/M-K/AEAE/Callahan-Edmonds.mp3. This is crooked and I don't know how to represent that in Tab - so where I hear the extra notes, I've added a note in the tab. Just play right through that and it should work out. Capo or tune to A."
+        "desc": "Notes: Based upon Norm Edmunds version: <a href=\"http://slippery-hill.com/M-K/AEAE/Callahan-Edmonds.mp3\" target=\"_blank\">http://slippery-hill.com/M-K/AEAE/Callahan-Edmonds.mp3</a>. This is crooked and I don't know how to represent that in Tab - so where I hear the extra notes, I've added a note in the tab. Just play right through that and it should work out. Capo or tune to A."
     }, 
     {
         "play": {
@@ -15479,7 +15479,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-carolans-draugh-20597-454853062014.jpg"
             ]
         }, 
-        "desc": "Notes: Similar to the rendition on my recording for Complete Book of Irish & Celtic 5-String Banjo, and in my BHO Music Files. Note fretting-hand fingerings: index (i), middle (m), ring (r), and pinky (p) fingers. I could have used (l) for little finger, but it looks too much like the \"i\" for index, so I opted for \"p\" (pinky)."
+        "desc": "Notes: Similar to the rendition on my recording for Complete Book of Irish &amp; Celtic 5-String Banjo, and in my BHO Music Files. Note fretting-hand fingerings: index (i), middle (m), ring (r), and pinky (p) fingers. I could have used (l) for little finger, but it looks too much like the \"i\" for index, so I opted for \"p\" (pinky)."
     }, 
     {
         "download": {
@@ -15724,7 +15724,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-carry-on-my-way-20683-5737112982014.tef"
             ]
         }, 
-        "desc": "Notes: an example of a raw midi input to tabled it from Guitarpro with no tweaks to make it more banjoistic for thread\nhttp://www.banjohangout.org/topic/290503/"
+        "desc": "Notes: an example of a raw midi input to tabled it from Guitarpro with no tweaks to make it more banjoistic for thread\n<a href=\"http://www.banjohangout.org/topic/290503/\" target=\"_blank\">http://www.banjohangout.org/topic/290503/</a>"
     }, 
     {
         "last_updated": "2014-03-31T12:35:00", 
@@ -15742,7 +15742,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-casey-jones---b-20302-5335123132014.tef"
             ]
         }, 
-        "desc": "Notes: This is Bobby Thompson's cut of Casey Jones.\nwww.youtube.com/watch?v=hLCyvuY9Ujs"
+        "desc": "Notes: This is Bobby Thompson's cut of Casey Jones.\n<a href=\"http://www.youtube.com/watch?v=hLCyvuY9Ujs\" target=\"_blank\">www.youtube.com/watch?v=hLCyvuY9Ujs</a>"
     }, 
     {
         "download": {
@@ -15931,7 +15931,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-catharsis-22300-592919212017.pdf"
             ]
         }, 
-        "desc": "Notes: 'Catharsis' is composed by Amy Cann. The dots are in Portland Collection vol 1. The mp3 is me playing it on a Gold Tone cello banjo. This you tube video shows someone playing a different arrangement on tenor banjo: https://youtu.be/TpiyqHLEC9I"
+        "desc": "Notes: 'Catharsis' is composed by Amy Cann. The dots are in Portland Collection vol 1. The mp3 is me playing it on a Gold Tone cello banjo. This you tube video shows someone playing a different arrangement on tenor banjo: <a href=\"https://youtu.be/TpiyqHLEC9I\" target=\"_blank\">https://youtu.be/TpiyqHLEC9I</a>"
     }, 
     {
         "last_updated": "2016-10-31T11:48:00", 
@@ -16499,7 +16499,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cherokee-shuffl-20620-2032121872014.tef"
             ]
         }, 
-        "desc": "Notes: For the TOTW: http://www.banjohangout.org/topic/288316"
+        "desc": "Notes: For the TOTW: <a href=\"http://www.banjohangout.org/topic/288316\" target=\"_blank\">http://www.banjohangout.org/topic/288316</a>"
     }, 
     {
         "download": {
@@ -16650,7 +16650,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-chesters-tune-21872-1559122142016.tef"
             ]
         }, 
-        "desc": "Notes: This is the first track on Dave Hum's album \"Traveling Light\". It's called Chester's Tune. YouTube video > https://www.youtube.com/watch?v=O6wveoDC2lg"
+        "desc": "Notes: This is the first track on Dave Hum's album \"Traveling Light\". It's called Chester's Tune. YouTube video &gt; <a href=\"https://www.youtube.com/watch?v=O6wveoDC2lg\" target=\"_blank\">https://www.youtube.com/watch?v=O6wveoDC2lg</a>"
     }, 
     {
         "last_updated": "2016-12-26T06:03:00", 
@@ -16671,7 +16671,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-chesters-tune-p-21873-60132142016.tef"
             ]
         }, 
-        "desc": "Notes: This is the first track on Dave Hum's album \"Traveling Light\". It's called Chester's Tune. YouTube video > https://www.youtube.com/watch?v=O6wveoDC2lg"
+        "desc": "Notes: This is the first track on Dave Hum's album \"Traveling Light\". It's called Chester's Tune. YouTube video &gt; <a href=\"https://www.youtube.com/watch?v=O6wveoDC2lg\" target=\"_blank\">https://www.youtube.com/watch?v=O6wveoDC2lg</a>"
     }, 
     {
         "last_updated": "2016-05-25T08:31:00", 
@@ -16876,7 +16876,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-chicken-reel-14211-58391413112010.tef"
             ]
         }, 
-        "desc": "Notes: Source: Jim & Jesse, In The Traditon, Rounder 1987"
+        "desc": "Notes: Source: Jim &amp; Jesse, In The Traditon, Rounder 1987"
     }, 
     {
         "play": {
@@ -16900,7 +16900,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-chicken-reel-16735-425612222012.tef"
             ]
         }, 
-        "desc": "Notes: Here is my 3 part arrangement of this lively tune - I also play this in the video section on my BHO homepage - though in the video I am capoed on the second fret for key of A - more tabs at www.davehum.com"
+        "desc": "Notes: Here is my 3 part arrangement of this lively tune - I also play this in the video section on my BHO homepage - though in the video I am capoed on the second fret for key of A - more tabs at <a href=\"http://www.davehum.com\" target=\"_blank\">www.davehum.com</a>"
     }, 
     {
         "download": {
@@ -16935,7 +16935,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-chicken-reel-16972-5555131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "play": {
@@ -17142,7 +17142,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-chinese-breakdo-22446-5828232842017.tef"
             ]
         }, 
-        "desc": "Notes: Reno and Smiley's \"Chinese Breakdown.\"  Recorded in G#.  Complete song including back-up.  Source can be found here:  https://www.youtube.com/watch?v=EpSFvyMoES8"
+        "desc": "Notes: Reno and Smiley's \"Chinese Breakdown.\"  Recorded in G#.  Complete song including back-up.  Source can be found here:  <a href=\"https://www.youtube.com/watch?v=EpSFvyMoES8\" target=\"_blank\">https://www.youtube.com/watch?v=EpSFvyMoES8</a>"
     }, 
     {
         "last_updated": "2011-10-14T12:17:00", 
@@ -17232,7 +17232,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-chinquapin-hunt-21021-225122112015.tef"
             ]
         }, 
-        "desc": "Notes: There are two completely different tunes called Chinquapin Hunting that are doing the rounds. Back in 2009 I uploaded a tab for the 2 part tune in D and this is the other one, a wonderfully unsquare three parter in A. It is actually only the 1st part that is unsquare, although none of it sounds very straight on first hearing. Capo II for the correct pitch. There is a rip roaring version of this by Bruce Molsky and pals on YouTube here: http://youtu.be/TYS7xyNW8Mc\nEnjoy..."
+        "desc": "Notes: There are two completely different tunes called Chinquapin Hunting that are doing the rounds. Back in 2009 I uploaded a tab for the 2 part tune in D and this is the other one, a wonderfully unsquare three parter in A. It is actually only the 1st part that is unsquare, although none of it sounds very straight on first hearing. Capo II for the correct pitch. There is a rip roaring version of this by Bruce Molsky and pals on YouTube here: <a href=\"http://youtu.be/TYS7xyNW8Mc\" target=\"_blank\">http://youtu.be/TYS7xyNW8Mc</a>\nEnjoy..."
     }, 
     {
         "last_updated": "2012-07-31T13:40:00", 
@@ -17528,7 +17528,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cincinnati-rag-11773-73214692009.tef"
             ]
         }, 
-        "desc": "Notes: Here's a fiddle tune for the banjo, Cincinnati Rag. There's a little bit of cross-picking (crossing one right-hand finger over another) to accommodate the melody. The descending part over the \"A\" chord in the first section is also kinda hard. This version goes to an E-minor chord one time in the second part. This is the way Kenny Baker (among a few others) played it. I label this \"Scruggs\" style, but there is also melodic & single string in there."
+        "desc": "Notes: Here's a fiddle tune for the banjo, Cincinnati Rag. There's a little bit of cross-picking (crossing one right-hand finger over another) to accommodate the melody. The descending part over the \"A\" chord in the first section is also kinda hard. This version goes to an E-minor chord one time in the second part. This is the way Kenny Baker (among a few others) played it. I label this \"Scruggs\" style, but there is also melodic &amp; single string in there."
     }, 
     {
         "last_updated": "2015-05-25T11:41:00", 
@@ -18174,7 +18174,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-clinch-mountain-19495-5715185102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "play": {
@@ -18195,7 +18195,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-clinch-mountain-11693-35062982009.pdf"
             ]
         }, 
-        "desc": "Notes: This is the version McEuen played on the old Nitty Gritty Dird Band recording \"Uncle Charlie & His Dog Teddy\".  Standard G tuning, capo at the second fret."
+        "desc": "Notes: This is the version McEuen played on the old Nitty Gritty Dird Band recording \"Uncle Charlie &amp; His Dog Teddy\".  Standard G tuning, capo at the second fret."
     }, 
     {
         "play": {
@@ -19309,7 +19309,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-come-on-boys-an-19368-4912141792013.pdf"
             ]
         }, 
-        "desc": "Notes: This tune is in Sawmill tuning, with some drop-thumb. I don't know what key Sawmill is in, I suppose it is G modal, so I'm calling it G. Capo 2 and it's played in A modal (AEADE). I\"ve linked the mp3 within the PDF file, but can be located at the middle of the URL link @ http://stringband.mossyroof.com/"
+        "desc": "Notes: This tune is in Sawmill tuning, with some drop-thumb. I don't know what key Sawmill is in, I suppose it is G modal, so I'm calling it G. Capo 2 and it's played in A modal (AEADE). I\"ve linked the mp3 within the PDF file, but can be located at the middle of the URL link @ <a href=\"http://stringband.mossyroof.com/\" target=\"_blank\">http://stringband.mossyroof.com/</a>"
     }, 
     {
         "last_updated": "2011-05-31T20:59:00", 
@@ -19327,7 +19327,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-come-on-home-15231-3115182652011.tef"
             ]
         }, 
-        "desc": "Notes: This is just the verse , all the breaks in the song were from the verse.This song is from the Dueling Hearts Cd , If the Lord be Willing. www.duelinghearts.net"
+        "desc": "Notes: This is just the verse , all the breaks in the song were from the verse.This song is from the Dueling Hearts Cd , If the Lord be Willing. <a href=\"http://www.duelinghearts.net\" target=\"_blank\">www.duelinghearts.net</a>"
     }, 
     {
         "download": {
@@ -19593,7 +19593,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cora-is-gone-21345-528151852015.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker for our TOTW http://www.banjohangout.org/topic/303792"
+        "desc": "Notes: From Jack Baker for our TOTW <a href=\"http://www.banjohangout.org/topic/303792\" target=\"_blank\">http://www.banjohangout.org/topic/303792</a>"
     }, 
     {
         "play": {
@@ -19880,7 +19880,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-country-blues-12982-1833131522010.tef"
             ]
         }, 
-        "desc": "Notes: Dock Boggs' \"Country Blues\", from his original 1927 recording (he also recorded a similar version for Folkways in the 1960's). One of the finest old-time banjo & singing records ever. This is his second break to the tune (slightly more audible than the first break, which is probably the same). Tuning is D-Modal low bass, f#CGAD. A fairly quick old time number. Not too hard, and not too easy, either."
+        "desc": "Notes: Dock Boggs' \"Country Blues\", from his original 1927 recording (he also recorded a similar version for Folkways in the 1960's). One of the finest old-time banjo &amp; singing records ever. This is his second break to the tune (slightly more audible than the first break, which is probably the same). Tuning is D-Modal low bass, f#CGAD. A fairly quick old time number. Not too hard, and not too easy, either."
     }, 
     {
         "last_updated": "2013-03-19T20:45:00", 
@@ -20158,7 +20158,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-crab-waltz-16484-20201012017.tef"
             ]
         }, 
-        "desc": "Notes: This tab is my interpretation of how Bill Keith played the tune on the \"Bill Keith and Jim Collier\" album. The tab is written such that you can follow along with the record. Note that the first half of the second banjo solo appears to have been overdubbed using a banjo with a capo at the 6th fret (& 11th fret for the 5th string). However, this tab was written such that one can play the entire tune without a capo. See the notes on the last page of the tab for more info. Adjust settings so that chords are displayed as letter names only and tab is displayed at 4 bars per line."
+        "desc": "Notes: This tab is my interpretation of how Bill Keith played the tune on the \"Bill Keith and Jim Collier\" album. The tab is written such that you can follow along with the record. Note that the first half of the second banjo solo appears to have been overdubbed using a banjo with a capo at the 6th fret (&amp; 11th fret for the 5th string). However, this tab was written such that one can play the entire tune without a capo. See the notes on the last page of the tab for more info. Adjust settings so that chords are displayed as letter names only and tab is displayed at 4 bars per line."
     }, 
     {
         "download": {
@@ -20265,7 +20265,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-crazy-finger-bl-12349-1811925112009.tef"
             ]
         }, 
-        "desc": "Notes: Here is the Don Reno banjo tune \"Crazy Finger Blues\". I believe Don \"invented\" the unique tuning used for the song, g#EG#BC#, or open D (\"Reuben\") tuning up a whole step with the 1st string lowered. It's a fun, pretty simple & fairly easy banjo tune that is impressive. The \"Crazy Finger\" part is almost slap-your-self-in-the-forehead easy. But it sounds hard. I've also included most of the other variations Don does in the tune. Be sure to check out the original recording by Reno & Smiley; it's great! For the part where the banjo & the fiddle split the break, just barre @ the 12th for the E chord, 5th for the A chord, & 7th for the B chord, & it's thumb \u2014index/middle on the 3rd and 2nd/1st strings, played to the rhythm of the song. An excellent \"Jam\" tune. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is the Don Reno banjo tune \"Crazy Finger Blues\". I believe Don \"invented\" the unique tuning used for the song, g#EG#BC#, or open D (\"Reuben\") tuning up a whole step with the 1st string lowered. It's a fun, pretty simple &amp; fairly easy banjo tune that is impressive. The \"Crazy Finger\" part is almost slap-your-self-in-the-forehead easy. But it sounds hard. I've also included most of the other variations Don does in the tune. Be sure to check out the original recording by Reno &amp; Smiley; it's great! For the part where the banjo &amp; the fiddle split the break, just barre @ the 12th for the E chord, 5th for the A chord, &amp; 7th for the B chord, &amp; it's thumb \u2014index/middle on the 3rd and 2nd/1st strings, played to the rhythm of the song. An excellent \"Jam\" tune. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "download": {
@@ -20654,7 +20654,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cripple-creek-16973-4356131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2015-03-17T09:52:00", 
@@ -20708,7 +20708,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cripple-creek-22413-4776532017.pdf"
             ]
         }, 
-        "desc": "Notes: 1st & 3rd lines are super easy; 2nd & 4th lines are an advanced beginner version"
+        "desc": "Notes: 1st &amp; 3rd lines are super easy; 2nd &amp; 4th lines are an advanced beginner version"
     }, 
     {
         "last_updated": "2014-03-14T03:17:00", 
@@ -20795,7 +20795,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cripple-creek-b-19496-5516185102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "play": {
@@ -21031,7 +21031,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-crossing-the-cu-13482-1501962010.tef"
             ]
         }, 
-        "desc": "Notes: I have tried to accurately transcribe the playing of Alan Bryant on the Nashville Bluegrass Band's recording of this song [on their album \"Twenty Year Blues\"] although there are a couple of places where I remain unsure of exactly what he played [bars 28 & 29 being one!]. Most of it is bona fide though, I would say, with a melodic A part and single string B part. A great medium paced tune with lovely cascading melodies. Enjoy!"
+        "desc": "Notes: I have tried to accurately transcribe the playing of Alan Bryant on the Nashville Bluegrass Band's recording of this song [on their album \"Twenty Year Blues\"] although there are a couple of places where I remain unsure of exactly what he played [bars 28 &amp; 29 being one!]. Most of it is bona fide though, I would say, with a melodic A part and single string B part. A great medium paced tune with lovely cascading melodies. Enjoy!"
     }, 
     {
         "last_updated": "2015-03-13T17:38:00", 
@@ -21550,7 +21550,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cumberland-gap-13637-117161672010.jpg"
             ]
         }, 
-        "desc": "Notes: Web Link to hear this played by Tom Berghan http://www.hangoutstorage.com/jukebox.asp?site=Banjo+Hangout&URL=http%3A%2F%2Fwww%2Ebanjohangout%2Eorg%2Fmyhangout%2Fmedia%2Dplayer%2Faudio%5Fplayer%2Easp%3Fisjukebox%3Dno%26musicID%3D17833"
+        "desc": "Notes: Web Link to hear this played by Tom Berghan <a href=\"http://www.hangoutstorage.com/jukebox.asp?site=Banjo+Hangout&amp;URL=http%3A%2F%2Fwww%2Ebanjohangout%2Eorg%2Fmyhangout%2Fmedia%2Dplayer%2Faudio%5Fplayer%2Easp%3Fisjukebox%3Dno%26musicID%3D17833\" target=\"_blank\">http://www.hangoutstorage.com/jukebox.asp?site=Banjo+Hangout&amp;URL=http%3A%2F%2Fwww%2Ebanjohangout%2Eorg%2Fmyhangout%2Fmedia%2Dplayer%2Faudio%5Fplayer%2Easp%3Fisjukebox%3Dno%26musicID%3D17833</a>"
     }, 
     {
         "download": {
@@ -21601,7 +21601,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cumberland-gap-16974-1257131132012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2012-08-19T07:26:00", 
@@ -21725,7 +21725,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/c/tab-cumberland-gap--19497-2518185102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "last_updated": "2011-01-21T22:11:00", 
@@ -21834,7 +21834,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-d-licks-in-the--21475-4535142982015.tef"
             ]
         }, 
-        "desc": "Notes: Here are 5 licks that you can use for a G-D-G turnaround.  The first 4 are originals of mine.  The first employs a chordal approach.  The second substitutes a Bb chord for the D, to provide a kind of bluesy effect that is unexpected and punchy.  The third is one of my default licks, which I have used in a variety of tunes.  The fourth I have also used in many tunes, including \"Are You Missing Me,\" which you can hear on my BHO page, at http://www.banjohangout.org/myhangout/media-player/audio_player2.asp?musicid=9864&archived=    I have to tell you that for years I struggled with tabbing the correct timing on this one, and the solution came to me while I was sleeping -- I kid you not.  The last one is a wonderful Bill Emerson lick.  It is constructed beautifully, and I feel a sense of peace and oneness with the universe when I hear it.  Okay, perhaps that's overstating it somewhat.  But it is a great lick, which is anchored in the repetitive use of the C note, the flatted 7th, on the second string, with the melody notes doing a lovely walk up the first string."
+        "desc": "Notes: Here are 5 licks that you can use for a G-D-G turnaround.  The first 4 are originals of mine.  The first employs a chordal approach.  The second substitutes a Bb chord for the D, to provide a kind of bluesy effect that is unexpected and punchy.  The third is one of my default licks, which I have used in a variety of tunes.  The fourth I have also used in many tunes, including \"Are You Missing Me,\" which you can hear on my BHO page, at <a href=\"http://www.banjohangout.org/myhangout/media-player/audio_player2.asp?musicid=9864&amp;archived=\" target=\"_blank\">http://www.banjohangout.org/myhangout/media-player/audio_player2.asp?musicid=9864&amp;archived=</a>    I have to tell you that for years I struggled with tabbing the correct timing on this one, and the solution came to me while I was sleeping -- I kid you not.  The last one is a wonderful Bill Emerson lick.  It is constructed beautifully, and I feel a sense of peace and oneness with the universe when I hear it.  Okay, perhaps that's overstating it somewhat.  But it is a great lick, which is anchored in the repetitive use of the C note, the flatted 7th, on the second string, with the melody notes doing a lovely walk up the first string."
     }, 
     {
         "last_updated": "2016-07-23T11:50:00", 
@@ -22129,7 +22129,7 @@ var TABS = [
             ]
         }, 
         "posted_by": "rdiesel007", 
-        "desc": "Notes: Melodic and single string explorations de fiddle tune\n\nVideo:\n\nhttp://youtu.be/OsTDkKiDO8k\n\nLike my page on Facebook!\n\nhttps://www.facebook.com/RickyMierMusic", 
+        "desc": "Notes: Melodic and single string explorations de fiddle tune\n\nVideo:\n\n<a href=\"http://youtu.be/OsTDkKiDO8k\" target=\"_blank\">http://youtu.be/OsTDkKiDO8k</a>\n\nLike my page on Facebook!\n\n<a href=\"https://www.facebook.com/RickyMierMusic\" target=\"_blank\">https://www.facebook.com/RickyMierMusic</a>", 
         "last_updated": "2014-04-14T13:23:00", 
         "title": "Daley's Reel"
     }, 
@@ -22282,7 +22282,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dance-of-the-su-16983-1431151232012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "download": {
@@ -22478,7 +22478,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dark-hollow-16984-132151232012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "play": {
@@ -22516,7 +22516,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dark-hollow-20635-1035152872014.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for this week's TOTW (http://www.banjohangout.org/topic/288856)"
+        "desc": "Notes: From Jack Baker, for this week's TOTW (<a href=\"http://www.banjohangout.org/topic/288856\" target=\"_blank\">http://www.banjohangout.org/topic/288856</a>)"
     }, 
     {
         "play": {
@@ -22742,7 +22742,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-davy-crockett-20093-383423112014.tef"
             ]
         }, 
-        "desc": "Notes: http://www.youtube.com/watch?v=BAhAarI1Zig              Capo 4th"
+        "desc": "Notes: <a href=\"http://www.youtube.com/watch?v=BAhAarI1Zig\" target=\"_blank\">http://www.youtube.com/watch?v=BAhAarI1Zig</a>              Capo 4th"
     }, 
     {
         "play": {
@@ -22919,7 +22919,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-daybreak-in-dix-22538-392112242017.pdf"
             ]
         }, 
-        "desc": "Notes: 2-4-1 Happy Hour. Two different versions of Ralph Stanley's version of Daybreak in Dixie. One is from the original Mercury recording and the other is the one where he added a chord into the mix. Here are some links for reference to the two versions, Have fun:      https://www.youtube.com/watch?v=OBigCLwiXH8      and   https://www.youtube.com/watch?v=CJmCa_lfiMQ"
+        "desc": "Notes: 2-4-1 Happy Hour. Two different versions of Ralph Stanley's version of Daybreak in Dixie. One is from the original Mercury recording and the other is the one where he added a chord into the mix. Here are some links for reference to the two versions, Have fun:      <a href=\"https://www.youtube.com/watch?v=OBigCLwiXH8\" target=\"_blank\">https://www.youtube.com/watch?v=OBigCLwiXH8</a>      and   <a href=\"https://www.youtube.com/watch?v=CJmCa_lfiMQ\" target=\"_blank\">https://www.youtube.com/watch?v=CJmCa_lfiMQ</a>"
     }, 
     {
         "last_updated": "2014-07-27T10:28:00", 
@@ -23152,7 +23152,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dear-old-dixie--19499-129116102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "play": {
@@ -23403,7 +23403,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-deck-the-halls-16985-3232151232012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2013-10-19T08:03:00", 
@@ -23596,7 +23596,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-desperado---ric-15989-484088102011.pdf"
             ]
         }, 
-        "desc": "Notes: Notes: This is my arrangement of The Eagles' \"Desperado\" for solo fingerstyle banjo. You are free to use this arrangement for noncommercial purposes only. For other possible uses please contact the author - Ric Hollander (ric.hollander@gmail.com) www.richollander.com"
+        "desc": "Notes: Notes: This is my arrangement of The Eagles' \"Desperado\" for solo fingerstyle banjo. You are free to use this arrangement for noncommercial purposes only. For other possible uses please contact the author - Ric Hollander (ric.hollander@gmail.com) <a href=\"http://www.richollander.com\" target=\"_blank\">www.richollander.com</a>"
     }, 
     {
         "last_updated": "2011-11-10T05:06:00", 
@@ -23778,7 +23778,7 @@ var TABS = [
             "tuning": "Standard Open G (gDGBD)", 
             "key": "A"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "last_updated": "2012-03-12T15:33:00", 
@@ -23796,7 +23796,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-devils-dream-16986-833151232012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "last_updated": "2015-11-19T15:36:00", 
@@ -23964,7 +23964,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dickson-county--11797-19237792009.tef"
             ]
         }, 
-        "desc": "Notes: Ralph Stanley's \"Dickson County Breakdown\", a banjo breakdown that is basically a lot of common banjo licks over a simple melody, nonetheless great sounding and fun to play. Although rather close to Ralph's break, neither of the breaks are replicas of his own; they are fully my own interpretations. He doesn't do the up the neck break, but I thought it was fun so I threw it in there. Has useful, standard key of \"G\" introduction & ending that can fit on many songs. Includes a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Ralph Stanley's \"Dickson County Breakdown\", a banjo breakdown that is basically a lot of common banjo licks over a simple melody, nonetheless great sounding and fun to play. Although rather close to Ralph's break, neither of the breaks are replicas of his own; they are fully my own interpretations. He doesn't do the up the neck break, but I thought it was fun so I threw it in there. Has useful, standard key of \"G\" introduction &amp; ending that can fit on many songs. Includes a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2016-07-23T14:03:00", 
@@ -24178,7 +24178,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dixie-16987-3133151232012.pdf"
             ]
         }, 
-        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at LaynePublications.com."
+        "desc": "Notes: Get the Backing Track, MP3 and Chord Chart at <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>."
     }, 
     {
         "download": {
@@ -24407,7 +24407,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dixie-hoedown-b-13066-13105232010.tef"
             ]
         }, 
-        "desc": "Notes: View instruction video on YouTube. Enter Keywords: banjo peter noorman.\nOr visit my website for tabs and instruction videos: www.peternoorman.nl/banjo"
+        "desc": "Notes: View instruction video on YouTube. Enter Keywords: banjo peter noorman.\nOr visit my website for tabs and instruction videos: <a href=\"http://www.peternoorman.nl/banjo\" target=\"_blank\">www.peternoorman.nl/banjo</a>"
     }, 
     {
         "last_updated": "2016-05-22T09:15:00", 
@@ -24564,7 +24564,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-do-wrong-right-19100-553723192013.txt"
             ]
         }, 
-        "desc": "Notes: Do Wrong Right - as performed by The Devil Makes Three\n\nOriginally written and performed by Jim Jones' Original Fryin' Pan\n-------------------------------------------------------------------------------\nTabbed by:Jeremy Williams\nE-mail:interrogationpro@gmail.com\nyoutube.com/ediblegod"
+        "desc": "Notes: Do Wrong Right - as performed by The Devil Makes Three\n\nOriginally written and performed by Jim Jones' Original Fryin' Pan\n-------------------------------------------------------------------------------\nTabbed by:Jeremy Williams\nE-mail:interrogationpro@gmail.com\n<a href=\"http://youtube.com/ediblegod\" target=\"_blank\">youtube.com/ediblegod</a>"
     }, 
     {
         "last_updated": "2010-02-17T07:59:00", 
@@ -24715,7 +24715,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-doin-my-time-20768-47581013102014.tef"
             ]
         }, 
-        "desc": "Notes: For our TOTW (http://www.banjohangout.org/topic/292753) from Jack Baker."
+        "desc": "Notes: For our TOTW (<a href=\"http://www.banjohangout.org/topic/292753\" target=\"_blank\">http://www.banjohangout.org/topic/292753</a>) from Jack Baker."
     }, 
     {
         "last_updated": "2010-07-06T19:09:00", 
@@ -24733,7 +24733,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-doin-the-uptown-13607-56419672010.tef"
             ]
         }, 
-        "desc": "Notes: Here's an old tune from the late 20's (I think), \"Doin' The Uptown Lowdown\". I learned this from a Joe Venuti and his Blue Six recording from '34, with some help from \"Joe Venuti and his Orchestra\"'s recording. It's a cool number with a not too complicated chord progression that moves right along. The bridge, IMHO, is wonderful, how it hangs on that Bb7 and is just dying to resolve. A good number to jam on. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here's an old tune from the late 20's (I think), \"Doin' The Uptown Lowdown\". I learned this from a Joe Venuti and his Blue Six recording from '34, with some help from \"Joe Venuti and his Orchestra\"'s recording. It's a cool number with a not too complicated chord progression that moves right along. The bridge, IMHO, is wonderful, how it hangs on that Bb7 and is just dying to resolve. A good number to jam on. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2017-04-17T14:42:00", 
@@ -24893,7 +24893,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dont-let-your-d-21128-02711932015.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for our TOTW (http://www.banjohangout.org/topic/300589"
+        "desc": "Notes: From Jack Baker, for our TOTW (<a href=\"http://www.banjohangout.org/topic/300589\" target=\"_blank\">http://www.banjohangout.org/topic/300589</a>"
     }, 
     {
         "download": {
@@ -25001,7 +25001,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-done-gone-12662-382216412010.tef"
             ]
         }, 
-        "desc": "Notes: Here is a fine old fiddle tune from Texas, Done Gone, in the key of Bb. There are actually 2 different versions here, both adapted from the two versions in the \"Craig Duncan Master Fiddle Solo Collection\". The first version, a three part tune, is accommodating of the lower register of the banjo note-for-note in the first and second parts, although some \"octave switching\" is needed in the third part. The second version requires the use of the upper register of the banjo, and is much more difficult. It's not a jam standard, but a fun piece to play and should you come across a fiddler who knows either version, it's an excellent tune to play. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is a fine old fiddle tune from Texas, Done Gone, in the key of Bb. There are actually 2 different versions here, both adapted from the two versions in the \"Craig Duncan Master Fiddle Solo Collection\". The first version, a three part tune, is accommodating of the lower register of the banjo note-for-note in the first and second parts, although some \"octave switching\" is needed in the third part. The second version requires the use of the upper register of the banjo, and is much more difficult. It's not a jam standard, but a fun piece to play and should you come across a fiddler who knows either version, it's an excellent tune to play. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "download": {
@@ -25246,7 +25246,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dooley-17278-3949181452012.tef"
             ]
         }, 
-        "desc": "Notes: thanks Mitch Jane & Rodney Dillard for such a great tune!\nthis is one of my favorite Andy Griffith episodes!\nscslack@juno.com"
+        "desc": "Notes: thanks Mitch Jane &amp; Rodney Dillard for such a great tune!\nthis is one of my favorite Andy Griffith episodes!\nscslack@juno.com"
     }, 
     {
         "download": {
@@ -25299,7 +25299,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-dooley-22507-3112201342017.pdf"
             ]
         }, 
-        "desc": "Notes: The Dillards Dooley from the Back Porch Bluegrass LP. I included all the breaks and backup, the whole song. There are also lyrics (the tab is the banjo backup not the melody) and chords so your guitar buddy can play along or you can vamp if you get sick of rolling. Here is a link to the song: https://www.youtube.com/watch?v=gxFYKYm3TPA\nHave fun"
+        "desc": "Notes: The Dillards Dooley from the Back Porch Bluegrass LP. I included all the breaks and backup, the whole song. There are also lyrics (the tab is the banjo backup not the melody) and chords so your guitar buddy can play along or you can vamp if you get sick of rolling. Here is a link to the song: <a href=\"https://www.youtube.com/watch?v=gxFYKYm3TPA\" target=\"_blank\">https://www.youtube.com/watch?v=gxFYKYm3TPA</a>\nHave fun"
     }, 
     {
         "play": {
@@ -26071,7 +26071,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-down-the-road-20217-17210432014.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for the TOTW - http://www.banjohangout.org/topic/279323"
+        "desc": "Notes: From Jack Baker, for the TOTW - <a href=\"http://www.banjohangout.org/topic/279323\" target=\"_blank\">http://www.banjohangout.org/topic/279323</a>"
     }, 
     {
         "download": {
@@ -26247,7 +26247,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-down-yonder-13735-2842182382010.tef"
             ]
         }, 
-        "desc": "Notes: In measures 4&5 and 16&17 I bar the first three strings at the 5th fret with my index finger and fret the other notes with my ring finger.  In measures 10&11 I bar the first three strings at the second fret with my index finger and fret the other notes with my ring finger."
+        "desc": "Notes: In measures 4&amp;5 and 16&amp;17 I bar the first three strings at the 5th fret with my index finger and fret the other notes with my ring finger.  In measures 10&amp;11 I bar the first three strings at the second fret with my index finger and fret the other notes with my ring finger."
     }, 
     {
         "last_updated": "2011-02-04T03:35:00", 
@@ -26825,7 +26825,7 @@ var TABS = [
             ]
         }, 
         "posted_by": "rdiesel007", 
-        "desc": "Notes: From the Fleck Vs. Mac video:\n\nhttp://www.youtube.com/watch?feature=endscreen&v=WTF-ZhJMie0&NR=1\n\nA highlighted section of the Mac's driving bluegrass badassery.", 
+        "desc": "Notes: From the Fleck Vs. Mac video:\n\n<a href=\"http://www.youtube.com/watch?feature=endscreen&amp;v=WTF-ZhJMie0&amp;NR=1\" target=\"_blank\">http://www.youtube.com/watch?feature=endscreen&amp;v=WTF-ZhJMie0&amp;NR=1</a>\n\nA highlighted section of the Mac's driving bluegrass badassery.", 
         "last_updated": "2012-12-04T09:15:00", 
         "title": "Dueling Banjos (Fleck Vs. Mac)"
     }, 
@@ -27244,7 +27244,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/e/tab-earls-breakdown-19500-3328166102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "download": {
@@ -27290,7 +27290,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-earls-chair-17410-434410862012.jpg"
             ]
         }, 
-        "desc": "Notes: These are A-Part Fretting and Picking-Hand exercises for the tune which appears (as a beginner version in its entirety) in my recent Mel Bay Book/CD compilation, Easy Irish & Celtic Session Tunes for 5-String Banjo:  Best-Loved Jigs and Reels (MB21597BCD)."
+        "desc": "Notes: These are A-Part Fretting and Picking-Hand exercises for the tune which appears (as a beginner version in its entirety) in my recent Mel Bay Book/CD compilation, Easy Irish &amp; Celtic Session Tunes for 5-String Banjo:  Best-Loved Jigs and Reels (MB21597BCD)."
     }, 
     {
         "play": {
@@ -27534,7 +27534,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/e/tab-eatin-out-of-yo-14069-41402022102010.tef"
             ]
         }, 
-        "desc": "Notes: Here's two Don Reno banjo breaks to an old Bill Harrell classic, \"Eatin' Out Of Your Hand\". It is very close, but not quite note for note Don's two breaks to the song. The first break is the melody, fairly simple but just perfect. The second one is quite mind blowing and is really crazy. If you learn these breaks you can learn a lot about the Reno style. The first break is more of an Intermediate, fairly straightforward, but the second one is pretty hard. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here's two Don Reno banjo breaks to an old Bill Harrell classic, \"Eatin' Out Of Your Hand\". It is very close, but not quite note for note Don's two breaks to the song. The first break is the melody, fairly simple but just perfect. The second one is quite mind blowing and is really crazy. If you learn these breaks you can learn a lot about the Reno style. The first break is more of an Intermediate, fairly straightforward, but the second one is pretty hard. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "download": {
@@ -27930,7 +27930,7 @@ var TABS = [
                 "http://www.banjoteacher.com/tablature/index.html"
             ]
         }, 
-        "desc": "Notes: An easy version of Eight More Miles to Lousiville from the free tab page at BanjoTeacher.com\n"
+        "desc": "Notes: An easy version of Eight More Miles to Lousiville from the free tab page at <a href=\"http://BanjoTeacher.com\" target=\"_blank\">BanjoTeacher.com</a>\n"
     }, 
     {
         "download": {
@@ -28839,7 +28839,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-faded-love-21451-372111582015.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for our TOTW (http://www.banjohangout.org/topic/307302/)"
+        "desc": "Notes: From Jack Baker, for our TOTW (<a href=\"http://www.banjohangout.org/topic/307302/\" target=\"_blank\">http://www.banjohangout.org/topic/307302/</a>)"
     }, 
     {
         "last_updated": "2011-12-03T17:17:00", 
@@ -29050,7 +29050,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-farbenlied-15050-313332642011.pdf"
             ]
         }, 
-        "desc": "Notes: My first arrangement. An old German childrens song which happens to be the song we use to sing my daughter to sleep each night. It is called \"Das Farbenlied\" (the colours song) or \"Gr\u00fcn, gr\u00fcn, gr\u00fcn\" (Green, green, green). There is one colour in each verse and the lyrics repeat all the time:\n\n\"Gr\u00fcn, gr\u00fcn, gr\u00fcn sind alle meine Kleider,\ngr\u00fcn, gr\u00fcn, gr\u00fcn ist alles, was ich hab.\nDarum lieb' ich alles, was so gr\u00fcn ist,\nweil mein Schatz ein J\u00e4ger ist.\"\n\n(Green ... are all my cloths, green is everything I own, this is why I love everything green, because my darling is a hunter)\n\nIt goes on with all types of colours and matching professions, black => chimney sweeper, red => fireman, yellow => postman, blue => sailor. You get the idea..."
+        "desc": "Notes: My first arrangement. An old German childrens song which happens to be the song we use to sing my daughter to sleep each night. It is called \"Das Farbenlied\" (the colours song) or \"Gr\u00fcn, gr\u00fcn, gr\u00fcn\" (Green, green, green). There is one colour in each verse and the lyrics repeat all the time:\n\n\"Gr\u00fcn, gr\u00fcn, gr\u00fcn sind alle meine Kleider,\ngr\u00fcn, gr\u00fcn, gr\u00fcn ist alles, was ich hab.\nDarum lieb' ich alles, was so gr\u00fcn ist,\nweil mein Schatz ein J\u00e4ger ist.\"\n\n(Green ... are all my cloths, green is everything I own, this is why I love everything green, because my darling is a hunter)\n\nIt goes on with all types of colours and matching professions, black =&gt; chimney sweeper, red =&gt; fireman, yellow =&gt; postman, blue =&gt; sailor. You get the idea..."
     }, 
     {
         "download": {
@@ -29216,7 +29216,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-farewell-blues-12208-28511911112009.tef"
             ]
         }, 
-        "desc": "Notes: Farewell Blues, an old swing tune made famous as a bluegrass banjo instrumental by Earl Scruggs, in a more jazz-worthy key: Eb major, although like Earls version it has that funky b3 major chord instead of the swingy b3 diminished chord. The key should not be as much a subject of worry as is the intense hand contortions needed to get the drop-C chord (e.g. 5567, 4th to 1st strings) sound in open-G; down the neck this is a real STRECH! It took me a looottt of practising to be able to make the chords up to speed, but it is worth it; it's a real neat sound. The other hard lick is the tag lick such as the one in measures 3 & 7. This one takes a little practice. The single string licks are mostly standard Reno single string licks, although there's one of my own at the beginning of the 5th break. This tune will definitely take some practice, but it's a real firecracker once you get it right. I shamelessly like this tune in Eb much better than drop-C tuning, key of C. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Farewell Blues, an old swing tune made famous as a bluegrass banjo instrumental by Earl Scruggs, in a more jazz-worthy key: Eb major, although like Earls version it has that funky b3 major chord instead of the swingy b3 diminished chord. The key should not be as much a subject of worry as is the intense hand contortions needed to get the drop-C chord (e.g. 5567, 4th to 1st strings) sound in open-G; down the neck this is a real STRECH! It took me a looottt of practising to be able to make the chords up to speed, but it is worth it; it's a real neat sound. The other hard lick is the tag lick such as the one in measures 3 &amp; 7. This one takes a little practice. The single string licks are mostly standard Reno single string licks, although there's one of my own at the beginning of the 5th break. This tune will definitely take some practice, but it's a real firecracker once you get it right. I shamelessly like this tune in Eb much better than drop-C tuning, key of C. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2017-04-17T13:53:00", 
@@ -29234,7 +29234,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-farewell-blues-22465-153131742017.pdf"
             ]
         }, 
-        "desc": "Notes: This is a tab of all Earl's breaks on this tune, how I hear them anyway. from this video:  https://www.youtube.com/watch?v=McvTz0j_Pt0"
+        "desc": "Notes: This is a tab of all Earl's breaks on this tune, how I hear them anyway. from this video:  <a href=\"https://www.youtube.com/watch?v=McvTz0j_Pt0\" target=\"_blank\">https://www.youtube.com/watch?v=McvTz0j_Pt0</a>"
     }, 
     {
         "last_updated": "2013-10-06T16:30:00", 
@@ -29255,7 +29255,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-farewell-blues--19501-2230166102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "play": {
@@ -29292,7 +29292,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-farewell-to-eri-21539-37211427102015.tef"
             ]
         }, 
-        "desc": "Notes: My interpretation of farewell to erin played originally by Dave Hum (RIP) here's a link to Dave's play: https://www.youtube.com/watch?v=Fcuef_w4UJs\n#Dunno what key it is in cause i'm just starting with music and as you probably know you can use TablEdit even without knowing music notation, just experimenting - worked for me :)"
+        "desc": "Notes: My interpretation of farewell to erin played originally by Dave Hum (RIP) here's a link to Dave's play: <a href=\"https://www.youtube.com/watch?v=Fcuef_w4UJs\" target=\"_blank\">https://www.youtube.com/watch?v=Fcuef_w4UJs</a>\n#Dunno what key it is in cause i'm just starting with music and as you probably know you can use TablEdit even without knowing music notation, just experimenting - worked for me :)"
     }, 
     {
         "last_updated": "2013-04-24T14:34:00", 
@@ -29403,7 +29403,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-farewell-trion-22039-2630151692016.jpg"
             ]
         }, 
-        "desc": "Notes: 'Farewell Trion' - James Bryan learned Farewell Trion from Mack Blaylock (1914 \u2013 1987). They are from the same region near Lookout Mountain in Alabama. Mack learned it from his great-uncle, Joe Blaylock (born 1854) who had worked at the mill in Trion, Georgia but was laid off and walked back home to Alabama. The original tune had two parts. James added the third part in the 1980\u2019s. Several musicians have since recorded it, a notable one being Chris Coole with Ivan Rosenburg on a CD in 2010 named \u201cFarewell Trion.\u201d (thanks to Janet Barton for history of this tune)\n\nHere's Janet Barton's tab and recording of the tune: http://www.banjohangout.org/archive/297439"
+        "desc": "Notes: 'Farewell Trion' - James Bryan learned Farewell Trion from Mack Blaylock (1914 \u2013 1987). They are from the same region near Lookout Mountain in Alabama. Mack learned it from his great-uncle, Joe Blaylock (born 1854) who had worked at the mill in Trion, Georgia but was laid off and walked back home to Alabama. The original tune had two parts. James added the third part in the 1980\u2019s. Several musicians have since recorded it, a notable one being Chris Coole with Ivan Rosenburg on a CD in 2010 named \u201cFarewell Trion.\u201d (thanks to Janet Barton for history of this tune)\n\nHere's Janet Barton's tab and recording of the tune: <a href=\"http://www.banjohangout.org/archive/297439\" target=\"_blank\">http://www.banjohangout.org/archive/297439</a>"
     }, 
     {
         "play": {
@@ -29717,7 +29717,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fiddlers-blues-11820-385515792009.tef"
             ]
         }, 
-        "desc": "Notes: Here's Fiddler's Blues, an old Fiddlin' Arthur Smith tune in D. It is one of the most haunting tunes I know, making extensive use of that odd flat-five note (Ab in this case). It is quite slow, and has a march-like quality (in rhythm, not melody!), which is slightly less exaggerated in the original recording by the use of sock-rhythm guitar rather than the standard bass-chord bluegrass/old time rhythm guitar. It's not particularly hard, and because it is slow the single string parts can (and should) be played by picking repeatedly with the thumb rather than TI or TIM (I have included right-hand fingering in this tab for this reason). There are a lot of bends in this tune, to replicate the many slides Smith used in the recording. I like to put a D-tuner on the low D, set the stop down to slightly above a C, and bend from the b7 up to the D in the second part, to replicate FA Smith's slide there. I highly recommend  listening to the original recording! Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here's Fiddler's Blues, an old Fiddlin' Arthur Smith tune in D. It is one of the most haunting tunes I know, making extensive use of that odd flat-five note (Ab in this case). It is quite slow, and has a march-like quality (in rhythm, not melody!), which is slightly less exaggerated in the original recording by the use of sock-rhythm guitar rather than the standard bass-chord bluegrass/old time rhythm guitar. It's not particularly hard, and because it is slow the single string parts can (and should) be played by picking repeatedly with the thumb rather than TI or TIM (I have included right-hand fingering in this tab for this reason). There are a lot of bends in this tune, to replicate the many slides Smith used in the recording. I like to put a D-tuner on the low D, set the stop down to slightly above a C, and bend from the b7 up to the D in the second part, to replicate FA Smith's slide there. I highly recommend  listening to the original recording! Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "play": {
@@ -30091,7 +30091,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fireball-mail-20795-32191020102014.tef"
             ]
         }, 
-        "desc": "Notes: For our TOTW (http://www.banjohangout.org/topic/293104) from Jack Baker."
+        "desc": "Notes: For our TOTW (<a href=\"http://www.banjohangout.org/topic/293104\" target=\"_blank\">http://www.banjohangout.org/topic/293104</a>) from Jack Baker."
     }, 
     {
         "download": {
@@ -30163,7 +30163,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fireball-mail-b-19502-2531166102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "last_updated": "2013-10-11T10:59:00", 
@@ -30184,7 +30184,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fireball-mail-19518-2581011102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "last_updated": "2011-01-12T22:33:00", 
@@ -30320,7 +30320,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fishers-hornpip-12659-572815412010.tef"
             ]
         }, 
-        "desc": "Notes: Here is an excellent old fiddle tune, \"Fisher's Hornpipe\", arranged for melodic style banjo in the original key of F major. While not an unknown fiddle tune, it's not overly common and is one of my personal favorites. It's relatively hard, and I perpetually have trouble with the timing. There are two markedly different ways to play \"Fisher's\", one is at a medium tempo with a pronounced bounce, the other is at a relatively fast tempo with straight 8th notes. The former would be more of a dancing style, the latter a bluegrass style. There are two places in the tune which have a II7 (G7) chord, which may or may not be played by the guitarist. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is an excellent old fiddle tune, \"Fisher's Hornpipe\", arranged for melodic style banjo in the original key of F major. While not an unknown fiddle tune, it's not overly common and is one of my personal favorites. It's relatively hard, and I perpetually have trouble with the timing. There are two markedly different ways to play \"Fisher's\", one is at a medium tempo with a pronounced bounce, the other is at a relatively fast tempo with straight 8th notes. The former would be more of a dancing style, the latter a bluegrass style. There are two places in the tune which have a II7 (G7) chord, which may or may not be played by the guitarist. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2010-01-04T14:34:00", 
@@ -30338,7 +30338,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fishers-hornpip-12660-443315412010.tef"
             ]
         }, 
-        "desc": "Notes: Here is an excellent old fiddle tune, \"Fisher's Hornpipe\", arranged for melodic style banjo in the now-common key of D major. It is a straight forward, entirely melody based version of the tune. In the first part there is a quick (1/2 measure) II7 (E7) chord, which may or may not be played by the rhythm guitarist; the melody does not change, regardless. There is a little bit of \"cross-picking\" (crossing one right-hand finger over another) and dropping the middle finger down to the 2nd string. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is an excellent old fiddle tune, \"Fisher's Hornpipe\", arranged for melodic style banjo in the now-common key of D major. It is a straight forward, entirely melody based version of the tune. In the first part there is a quick (1/2 measure) II7 (E7) chord, which may or may not be played by the rhythm guitarist; the melody does not change, regardless. There is a little bit of \"cross-picking\" (crossing one right-hand finger over another) and dropping the middle finger down to the 2nd string. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2011-04-18T04:20:00", 
@@ -30356,7 +30356,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fishers-hornpip-15004-401841842011.jpg"
             ]
         }, 
-        "desc": "Notes: Okay, here's a tune from my very first book (Limited Printing First Edition - 1994), in manuscript form:  25 Traditional Irish & Celtic Tunes.  I expanded that book and made a CD, at the request of Bill Bay, to produce:  Mel Bay\u2019s Complete Book of Irish & Celtic 5-String Banjo."
+        "desc": "Notes: Okay, here's a tune from my very first book (Limited Printing First Edition - 1994), in manuscript form:  25 Traditional Irish &amp; Celtic Tunes.  I expanded that book and made a CD, at the request of Bill Bay, to produce:  Mel Bay\u2019s Complete Book of Irish &amp; Celtic 5-String Banjo."
     }, 
     {
         "last_updated": "2011-07-28T14:44:00", 
@@ -30388,7 +30388,7 @@ var TABS = [
             "tuning": "aDGBD", 
             "key": "D"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "download": {
@@ -30579,7 +30579,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-five-foot-two-e-19751-7411214112013.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "last_updated": "2013-04-21T18:37:00", 
@@ -30724,7 +30724,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-five-speed-back-19503-3932166102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "last_updated": "2011-01-09T11:02:00", 
@@ -30757,7 +30757,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-flames-upon-the-19920-28161614122013.tef"
             ]
         }, 
-        "desc": "Notes: An original modal tune, in aEADE (A Modal) inspired by the great Cuyahoga River fire.  A great discussion of the fire and the tune can be found at http://www.banjohangout.org/topic/275873\n\nA modal can be achieved by tuning the banjo to G modal (gDGCD) and adding a capo at the second fret and raising the pitch on the 5th string one step."
+        "desc": "Notes: An original modal tune, in aEADE (A Modal) inspired by the great Cuyahoga River fire.  A great discussion of the fire and the tune can be found at <a href=\"http://www.banjohangout.org/topic/275873\" target=\"_blank\">http://www.banjohangout.org/topic/275873</a>\n\nA modal can be achieved by tuning the banjo to G modal (gDGCD) and adding a capo at the second fret and raising the pitch on the 5th string one step."
     }, 
     {
         "last_updated": "2013-01-19T11:24:00", 
@@ -30830,7 +30830,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-flatbush-waltz-21635-42511224122015.jpg"
             ]
         }, 
-        "desc": "Notes: A Klezmer waltz named 'Flatbush Waltz' composed by Andy Statman. Inspired by Janet Burton's version at http://www.banjojudy.com/2015/12/flatbush-waltz-clawhammer-banjo-tab/\nSheet music is available at https://thesession.org/tunes/3809"
+        "desc": "Notes: A Klezmer waltz named 'Flatbush Waltz' composed by Andy Statman. Inspired by Janet Burton's version at <a href=\"http://www.banjojudy.com/2015/12/flatbush-waltz-clawhammer-banjo-tab/\" target=\"_blank\">http://www.banjojudy.com/2015/12/flatbush-waltz-clawhammer-banjo-tab/</a>\nSheet music is available at <a href=\"https://thesession.org/tunes/3809\" target=\"_blank\">https://thesession.org/tunes/3809</a>"
     }, 
     {
         "last_updated": "2015-12-15T09:58:00", 
@@ -30850,7 +30850,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-flatbush-waltz--21626-3357915122015.tef"
             ]
         }, 
-        "desc": "Notes: This tune was written by Andy Statman who plays Klezmer music.  Banjo Judy has begun a Klezmer Clawhammer website where this tune is included.  (See:  http://www.banjojudy.com/klezmer-music/.)"
+        "desc": "Notes: This tune was written by Andy Statman who plays Klezmer music.  Banjo Judy has begun a Klezmer Clawhammer website where this tune is included.  (See:  <a href=\"http://www.banjojudy.com/klezmer-music/\" target=\"_blank\">http://www.banjojudy.com/klezmer-music/</a>.)"
     }, 
     {
         "play": {
@@ -31258,7 +31258,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fly-around-my-p-18955-4829111472013.jpg"
             ]
         }, 
-        "desc": "Notes: Capo 2 Sawmill Tuning (2nd string C) Capoed 2, tuning is AEADE. Part B (in Double C) can be found, with melody @ EZFOLK (http://www.ezfolk.com/banjo/tab/efgh/flyround/flyround.html) by Richard Hefner with midi file. Part B would be considered Intermediate. Can be played without Capo. Substitute .jpg with .mp3 in offsite URL for another version."
+        "desc": "Notes: Capo 2 Sawmill Tuning (2nd string C) Capoed 2, tuning is AEADE. Part B (in Double C) can be found, with melody @ EZFOLK (<a href=\"http://www.ezfolk.com/banjo/tab/efgh/flyround/flyround.html\" target=\"_blank\">http://www.ezfolk.com/banjo/tab/efgh/flyround/flyround.html</a>) by Richard Hefner with midi file. Part B would be considered Intermediate. Can be played without Capo. Substitute .jpg with .mp3 in offsite URL for another version."
     }, 
     {
         "last_updated": "2011-05-10T18:09:00", 
@@ -31423,7 +31423,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-foggy-dew-21591-509151122015.pdf"
             ]
         }, 
-        "desc": "Notes: This song commemorates the Easter Rising of 1916, which ultimately resulted in the Irish Free State. I play on 5 string banjo, clawhammer style, in a aCGCD tuning.\nThe video of me playing this can be heard here:\nhttps://www.youtube.com/watch?v=4rvcC43XeZg"
+        "desc": "Notes: This song commemorates the Easter Rising of 1916, which ultimately resulted in the Irish Free State. I play on 5 string banjo, clawhammer style, in a aCGCD tuning.\nThe video of me playing this can be heard here:\n<a href=\"https://www.youtube.com/watch?v=4rvcC43XeZg\" target=\"_blank\">https://www.youtube.com/watch?v=4rvcC43XeZg</a>"
     }, 
     {
         "download": {
@@ -31538,7 +31538,7 @@ var TABS = [
                 "http://c305732.r32.cf1.rackcdn.com/Foggy_Mountain_Breakdown-Banjo.zip"
             ]
         }, 
-        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From LaynePublications.com"
+        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>"
     }, 
     {
         "last_updated": "2014-08-31T23:31:00", 
@@ -31617,7 +31617,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-foggy-mountain--19519-59581011102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "last_updated": "2013-07-18T15:00:00", 
@@ -31717,7 +31717,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-foggy-mountain--21424-364781472015.tef"
             ]
         }, 
-        "desc": "Notes: For this week's TOTW, from Jack Baker. http://www.banjohangout.org/topic/306395"
+        "desc": "Notes: For this week's TOTW, from Jack Baker. <a href=\"http://www.banjohangout.org/topic/306395\" target=\"_blank\">http://www.banjohangout.org/topic/306395</a>"
     }, 
     {
         "play": {
@@ -31763,7 +31763,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-foggy-mountain--12510-375088122009.tef"
             ]
         }, 
-        "desc": "Notes: Here is an example of what I offer from my site at http://www.leemarcusmusic.webs.com/"
+        "desc": "Notes: Here is an example of what I offer from my site at <a href=\"http://www.leemarcusmusic.webs.com/\" target=\"_blank\">http://www.leemarcusmusic.webs.com/</a>"
     }, 
     {
         "last_updated": "2011-04-13T14:22:00", 
@@ -32013,7 +32013,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-follow-the-lead-21391-381742562015.jpg"
             ]
         }, 
-        "desc": "Notes: This is based on the original Reno & Smiley recording. It's heavily syncopated and very striking: Reno accented a lot of melody notes on the offbeats, also brushing with his thumb, letting the banjo ring into the downbeat, and his staccato single-string work is legendary stuff, a bold stylistic departure from Earl's approach. This is one of Reno's signature tunes, perhaps his answer to Scruggs' 'Foggy Mountain Breakdown'. (See page 1 and 2.)"
+        "desc": "Notes: This is based on the original Reno &amp; Smiley recording. It's heavily syncopated and very striking: Reno accented a lot of melody notes on the offbeats, also brushing with his thumb, letting the banjo ring into the downbeat, and his staccato single-string work is legendary stuff, a bold stylistic departure from Earl's approach. This is one of Reno's signature tunes, perhaps his answer to Scruggs' 'Foggy Mountain Breakdown'. (See page 1 and 2.)"
     }, 
     {
         "download": {
@@ -32087,7 +32087,7 @@ var TABS = [
                 "http://banjochrille.com/media/Foochow%27s%20Shanghai-Banjochrille-Composition.pdf"
             ]
         }, 
-        "desc": "Notes: Foochow's Shanghai has been my first compostion for the tenor banjo, which I have dedicated to my good Scottish banjo friend Bill Somerville from Glasgow.\n\nIt should adapt an Chinese touch, in style to Chinatown, My Chinatown.\n\nThis tune was published in my second music book for the tenor banjo.\n\nChrille's Hot & Jazzy Melodies For The Tenor Banjo Vol. II deals with wonderful compositions for the tenor banjo, which present the banjo in all it's characteristics. These are the songs: St. Louis Blues (W.C. Handy), Pepper & Salt (Ralph Colicchio), Foochow's Shanghai (Christian Loos), The Savoy Rag (Pete Mandell), The Ghost Of The Banjo (Roy Smeck) & My Lady Jazz (A.J. Weidt). As a first impression of the book you can enjoy my composition Foochow's Shanghai.\n\nAs always you have a piano accompaniment on CD in three different speed levels.\n\nPlease visit: www.banjochrille.com\n\nContact: mail@banjochrille.com"
+        "desc": "Notes: Foochow's Shanghai has been my first compostion for the tenor banjo, which I have dedicated to my good Scottish banjo friend Bill Somerville from Glasgow.\n\nIt should adapt an Chinese touch, in style to Chinatown, My Chinatown.\n\nThis tune was published in my second music book for the tenor banjo.\n\nChrille's Hot &amp; Jazzy Melodies For The Tenor Banjo Vol. II deals with wonderful compositions for the tenor banjo, which present the banjo in all it's characteristics. These are the songs: St. Louis Blues (W.C. Handy), Pepper &amp; Salt (Ralph Colicchio), Foochow's Shanghai (Christian Loos), The Savoy Rag (Pete Mandell), The Ghost Of The Banjo (Roy Smeck) &amp; My Lady Jazz (A.J. Weidt). As a first impression of the book you can enjoy my composition Foochow's Shanghai.\n\nAs always you have a piano accompaniment on CD in three different speed levels.\n\nPlease visit: <a href=\"http://www.banjochrille.com\" target=\"_blank\">www.banjochrille.com</a>\n\nContact: mail@banjochrille.com"
     }, 
     {
         "play": {
@@ -32564,7 +32564,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-fox-on-the-run-13136-2041132632010.tef"
             ]
         }, 
-        "desc": "Notes: This version is very similar to the arrangement by Cohen and Kennison. I heard it differenly so here's my version. I think Emerson and Waldon played it capoed up in C (see http://www.youtube.com/watch?v=xjQRzH-S_JM). Enjoy!"
+        "desc": "Notes: This version is very similar to the arrangement by Cohen and Kennison. I heard it differenly so here's my version. I think Emerson and Waldon played it capoed up in C (see <a href=\"http://www.youtube.com/watch?v=xjQRzH-S_JM\" target=\"_blank\">http://www.youtube.com/watch?v=xjQRzH-S_JM</a>). Enjoy!"
     }, 
     {
         "play": {
@@ -32775,7 +32775,7 @@ var TABS = [
             ]
         }, 
         "posted_by": "rdiesel007", 
-        "desc": "Notes: Well after two long mornings, 4 cups of coffee, a crashing and burning Amazing Slow Downer, I did it. I put a lot into this, and I'm so magnanimously giving it to you... My gift to the world. Enjoy the 'heck' out this one. It is an incredible solo.\n\nHere is the actual vid:\n\nhttp://www.youtube.com/watch?v=rVl1ibykWZU\n\n-Ricky", 
+        "desc": "Notes: Well after two long mornings, 4 cups of coffee, a crashing and burning Amazing Slow Downer, I did it. I put a lot into this, and I'm so magnanimously giving it to you... My gift to the world. Enjoy the 'heck' out this one. It is an incredible solo.\n\nHere is the actual vid:\n\n<a href=\"http://www.youtube.com/watch?v=rVl1ibykWZU\" target=\"_blank\">http://www.youtube.com/watch?v=rVl1ibykWZU</a>\n\n-Ricky", 
         "last_updated": "2012-11-15T13:56:00", 
         "title": "Freeborn Man. Yes, Bela's break."
     }, 
@@ -32902,7 +32902,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/f/tab-freyers-purple--19259-4688392013.jpg"
             ]
         }, 
-        "desc": "Notes: Written by Sam Bentley.\n\nListen here: http://youtu.be/UtAFhks8ON4"
+        "desc": "Notes: Written by Sam Bentley.\n\nListen here: <a href=\"http://youtu.be/UtAFhks8ON4\" target=\"_blank\">http://youtu.be/UtAFhks8ON4</a>"
     }, 
     {
         "play": {
@@ -33349,7 +33349,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-galax-chris-pan-20902-365878122014.tef"
             ]
         }, 
-        "desc": "Notes: This is a tune by Chris Pandolfi. This is the A part of the tune, which is played twice before the B part. The song actually begins at measure 5, and that's where the backup starts. Measures 1-4 are an intro, so when repeating the A part, start the second time at measure 5. https://www.youtube.com/watch?v=SQMhT0n-h6M&feature=youtu.be"
+        "desc": "Notes: This is a tune by Chris Pandolfi. This is the A part of the tune, which is played twice before the B part. The song actually begins at measure 5, and that's where the backup starts. Measures 1-4 are an intro, so when repeating the A part, start the second time at measure 5. <a href=\"https://www.youtube.com/watch?v=SQMhT0n-h6M&amp;feature=youtu.be\" target=\"_blank\">https://www.youtube.com/watch?v=SQMhT0n-h6M&amp;feature=youtu.be</a>"
     }, 
     {
         "play": {
@@ -33370,7 +33370,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-galax-b-part-ch-20959-3913727122014.tef"
             ]
         }, 
-        "desc": "Notes: This is the B part. It is only played once, whereas the A part is played twice. https://www.youtube.com/watch?v=SQMhT0n-h6M&feature=youtu.be"
+        "desc": "Notes: This is the B part. It is only played once, whereas the A part is played twice. <a href=\"https://www.youtube.com/watch?v=SQMhT0n-h6M&amp;feature=youtu.be\" target=\"_blank\">https://www.youtube.com/watch?v=SQMhT0n-h6M&amp;feature=youtu.be</a>"
     }, 
     {
         "play": {
@@ -33601,7 +33601,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-garechs-wedding-15934-4541212192011.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "last_updated": "2010-12-12T09:43:00", 
@@ -33783,7 +33783,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-gentle-on-my-mi-19084-565612782013.tef"
             ]
         }, 
-        "desc": "Notes: This is a transcription of Hartford's break as played on his solo VHS.  You can find it on YouTube http://www.youtube.com/watch?v=dCVQ3w3sKxA.  It's in C out of open G tuning."
+        "desc": "Notes: This is a transcription of Hartford's break as played on his solo VHS.  You can find it on YouTube <a href=\"http://www.youtube.com/watch?v=dCVQ3w3sKxA\" target=\"_blank\">http://www.youtube.com/watch?v=dCVQ3w3sKxA</a>.  It's in C out of open G tuning."
     }, 
     {
         "last_updated": "2014-08-19T08:51:00", 
@@ -33801,7 +33801,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-gentle-on-my-mi-20668-545181982014.tef"
             ]
         }, 
-        "desc": "Notes: For our TOTW: http://www.banjohangout.org/topic/289226 from Jack Baker"
+        "desc": "Notes: For our TOTW: <a href=\"http://www.banjohangout.org/topic/289226\" target=\"_blank\">http://www.banjohangout.org/topic/289226</a> from Jack Baker"
     }, 
     {
         "play": {
@@ -34573,7 +34573,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-give-me-that-ol-19097-3225111082013.pdf"
             ]
         }, 
-        "desc": "Notes: Inspired from the movie \"Sargeant York\" (one of my favorites) can be heard (and seen) @:\nhttp://www.youtube.com/watch?v=f68TdgErXkE\nThis classic hymnal lyrics has many variations (I've provided a few of the better known ones. Repeat between the \" : \", 1st round through can be repeated until the melody is learned, then add hammer-on's and pull-offs when you are comfortable. Will also list it as \"Old Time Religion\" since there are no other clawhammer versions in G."
+        "desc": "Notes: Inspired from the movie \"Sargeant York\" (one of my favorites) can be heard (and seen) @:\n<a href=\"http://www.youtube.com/watch?v=f68TdgErXkE\" target=\"_blank\">http://www.youtube.com/watch?v=f68TdgErXkE</a>\nThis classic hymnal lyrics has many variations (I've provided a few of the better known ones. Repeat between the \" : \", 1st round through can be repeated until the melody is learned, then add hammer-on's and pull-offs when you are comfortable. Will also list it as \"Old Time Religion\" since there are no other clawhammer versions in G."
     }, 
     {
         "play": {
@@ -34611,7 +34611,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-give-my-regards-12942-75620822010.tef"
             ]
         }, 
-        "desc": "Notes: Here is a well known pop tune from the teens by George Cohan, \"Give My Regards To Broadway\". I have it arranged here in the key I found in a book of piano tunes, and it is a good key for the tune. Has a whole lot of inside, square (un-syncopated) rolls. Has a single string lick, and the ending is a great Don Reno \"rake\" ending, used on such tunes as his (Rural Rhythm) recording of \"Limehouse Blues\". Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is a well known pop tune from the teens by George Cohan, \"Give My Regards To Broadway\". I have it arranged here in the key I found in a book of piano tunes, and it is a good key for the tune. Has a whole lot of inside, square (un-syncopated) rolls. Has a single string lick, and the ending is a great Don Reno \"rake\" ending, used on such tunes as his (Rural Rhythm) recording of \"Limehouse Blues\". Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "download": {
@@ -35256,7 +35256,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-gold-rush-for-b-13069-345223232010.tef"
             ]
         }, 
-        "desc": "Notes: View instruction video on YouTube. Enter Keywords: banjo peter noorman.\nOr visit my website for tabs and instruction videos: www.peternoorman.nl/banjo"
+        "desc": "Notes: View instruction video on YouTube. Enter Keywords: banjo peter noorman.\nOr visit my website for tabs and instruction videos: <a href=\"http://www.peternoorman.nl/banjo\" target=\"_blank\">www.peternoorman.nl/banjo</a>"
     }, 
     {
         "last_updated": "2013-09-18T17:33:00", 
@@ -36904,7 +36904,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-ground-speed-ba-19520-1601111102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "last_updated": "2013-05-16T09:01:00", 
@@ -37149,7 +37149,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/g/tab-guitar-players--17959-2241623102012.pdf"
             ]
         }, 
-        "desc": "Notes: An article in the Banjo Newsletter in December, 1980. Two tabs, Pastures of Plenty and Darling Nelllie Grey. Article contains suggestions on playing with the banjo tuned, in a relative manner, to the top four strings of a guitar or the bottom four strings (Kyle Creed's tuning for Cumberland Gap). 5th string can be tuned to play in most any key. Chord positions are like guitar chords.\n\nAdditional words for Darling Nelly Gray (corrected spelling) - B.R. Hanby\nWhat I published in the Banjo Newsletter only shows verses 1, 2, and 5 and the two choruses.\n\n     3. One night I went to see her but \"she's gone\" the neighbors say,\nThe white man bound her with his chain,\nThey have taken her to Georgia to wear her life away,\nAs she toils in the cotton and the cane.\n\n     4. My canoe is under water and my banjo is unstrung\nI'm tired of living anymore;\nMy eyes shall look downward and my songs shall be unsung\nWhile I stay on the old Kentucky shore.\n\n     Two copies of the sheet music are available from the Library of Congress (Historic American Sheet Music; links are to Duke University Libraries, Digital Collections)\nhttp://library.duke.edu/digitalcollections/hasm_a3400/\nhttp://library.duke.edu/digitalcollections/hasm_conf0019/"
+        "desc": "Notes: An article in the Banjo Newsletter in December, 1980. Two tabs, Pastures of Plenty and Darling Nelllie Grey. Article contains suggestions on playing with the banjo tuned, in a relative manner, to the top four strings of a guitar or the bottom four strings (Kyle Creed's tuning for Cumberland Gap). 5th string can be tuned to play in most any key. Chord positions are like guitar chords.\n\nAdditional words for Darling Nelly Gray (corrected spelling) - B.R. Hanby\nWhat I published in the Banjo Newsletter only shows verses 1, 2, and 5 and the two choruses.\n\n     3. One night I went to see her but \"she's gone\" the neighbors say,\nThe white man bound her with his chain,\nThey have taken her to Georgia to wear her life away,\nAs she toils in the cotton and the cane.\n\n     4. My canoe is under water and my banjo is unstrung\nI'm tired of living anymore;\nMy eyes shall look downward and my songs shall be unsung\nWhile I stay on the old Kentucky shore.\n\n     Two copies of the sheet music are available from the Library of Congress (Historic American Sheet Music; links are to Duke University Libraries, Digital Collections)\n<a href=\"http://library.duke.edu/digitalcollections/hasm_a3400/\" target=\"_blank\">http://library.duke.edu/digitalcollections/hasm_a3400/</a>\n<a href=\"http://library.duke.edu/digitalcollections/hasm_conf0019/\" target=\"_blank\">http://library.duke.edu/digitalcollections/hasm_conf0019/</a>"
     }, 
     {
         "last_updated": "2014-02-19T18:24:00", 
@@ -37201,7 +37201,7 @@ var TABS = [
             "tuning": "Cm (gCGCEb)", 
             "key": "Cm"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "download": {
@@ -37360,7 +37360,7 @@ var TABS = [
     }, 
     {
         "posted_by": "Buxton", 
-        "desc": "Notes: As played on the Martha White show  http://www.youtube.com/watch?v=FmqfZ0k2mxQ", 
+        "desc": "Notes: As played on the Martha White show  <a href=\"http://www.youtube.com/watch?v=FmqfZ0k2mxQ\" target=\"_blank\">http://www.youtube.com/watch?v=FmqfZ0k2mxQ</a>", 
         "last_updated": "2013-02-15T23:06:00", 
         "meta": {
             "genre": "Bluegrass", 
@@ -37497,7 +37497,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hangin-dog-21662-9316612016.tef"
             ]
         }, 
-        "desc": "Notes: Adapted for 3-finger style banjo from a YouTube Video of Nancy & Norman Blake playing it on mandolin & guitar respectively [ https://youtu.be/_I_hmwUMHzE ] this is a three part tune in Em with a cute A to Am move in it, and a weird number of bars in the A part. Great to play, once you have the parts of the tune in your head!"
+        "desc": "Notes: Adapted for 3-finger style banjo from a YouTube Video of Nancy &amp; Norman Blake playing it on mandolin &amp; guitar respectively [ <a href=\"https://youtu.be/_I_hmwUMHzE\" target=\"_blank\">https://youtu.be/_I_hmwUMHzE</a> ] this is a three part tune in Em with a cute A to Am move in it, and a weird number of bars in the A part. Great to play, once you have the parts of the tune in your head!"
     }, 
     {
         "last_updated": "2012-01-20T01:34:00", 
@@ -37647,7 +37647,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hard-aint-it-ha-22434-3035101742017.pdf"
             ]
         }, 
-        "desc": "Notes: How I hear Marshall Brickman's breaks from the Deliverence Soundtrack and New Dimensions in Banjo and Bluegrass LPs. Here's the tune I am using: https://www.youtube.com/watch?v=JxQOc4RPDmA I added chords so you can play with your guitar buddy"
+        "desc": "Notes: How I hear Marshall Brickman's breaks from the Deliverence Soundtrack and New Dimensions in Banjo and Bluegrass LPs. Here's the tune I am using: <a href=\"https://www.youtube.com/watch?v=JxQOc4RPDmA\" target=\"_blank\">https://www.youtube.com/watch?v=JxQOc4RPDmA</a> I added chords so you can play with your guitar buddy"
     }, 
     {
         "download": {
@@ -37798,7 +37798,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hark-the-herald-19062-3499482013.pdf"
             ]
         }, 
-        "desc": "Notes: My beginner clawhammer version of a timeless Christmas song, played in G or A (capo 2) in G tuning. An up-tempo Scruggs version can be heard @:\nhttp://www.youtube.com/watch?v=kXEYAEtKrrQ"
+        "desc": "Notes: My beginner clawhammer version of a timeless Christmas song, played in G or A (capo 2) in G tuning. An up-tempo Scruggs version can be heard @:\n<a href=\"http://www.youtube.com/watch?v=kXEYAEtKrrQ\" target=\"_blank\">http://www.youtube.com/watch?v=kXEYAEtKrrQ</a>"
     }, 
     {
         "download": {
@@ -38006,7 +38006,7 @@ var TABS = [
     }, 
     {
         "posted_by": "Buxton", 
-        "desc": "Notes: Tab from Martha White show  https://www.youtube.com/watch?v=N6nJIcQ3KGU", 
+        "desc": "Notes: Tab from Martha White show  <a href=\"https://www.youtube.com/watch?v=N6nJIcQ3KGU\" target=\"_blank\">https://www.youtube.com/watch?v=N6nJIcQ3KGU</a>", 
         "last_updated": "2014-11-07T14:29:00", 
         "meta": {
             "genre": "Bluegrass", 
@@ -38303,7 +38303,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hector-the-hero-15930-3935112292011.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "last_updated": "2010-11-26T10:57:00", 
@@ -38392,7 +38392,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hell-and-grace--19679-295475112013.pdf"
             ]
         }, 
-        "desc": "Notes: Written by Eric Merrill for his grandmother Helen Grace.  Posted by Scott Killops as a \"Tune of the Week\" in the BHO \"Playing Advice: Clawhammer and Old-Time Styles\" forum for 11/1/2013.  You can hear a banjo version corresponding to this tab on Scott's BHO music page.  You can hear Eric Merrill play it at:\n\nhttp://ericmerrill.bandcamp.com/track/hell-and-grace"
+        "desc": "Notes: Written by Eric Merrill for his grandmother Helen Grace.  Posted by Scott Killops as a \"Tune of the Week\" in the BHO \"Playing Advice: Clawhammer and Old-Time Styles\" forum for 11/1/2013.  You can hear a banjo version corresponding to this tab on Scott's BHO music page.  You can hear Eric Merrill play it at:\n\n<a href=\"http://ericmerrill.bandcamp.com/track/hell-and-grace\" target=\"_blank\">http://ericmerrill.bandcamp.com/track/hell-and-grace</a>"
     }, 
     {
         "last_updated": "2010-03-04T14:22:00", 
@@ -38410,7 +38410,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hells-broke-loo-13071-22414432010.tef"
             ]
         }, 
-        "desc": "Notes: Here's the banjo back-up tab for an old fiddle tune, \"Hell's Broke Loose In Georgia\". The first time through is very easy, all played out of the drop-C tuning open C chord, and only one left hand ornament, a simple choke. All forward rolls. The second time through is more of an intermediate/advanced version using hammer-ons, pull-offs, and more difficult chokes as well as more varied rolls. This is in the style of banjo & fiddle. Has a mandolin melody track. Have fun!"
+        "desc": "Notes: Here's the banjo back-up tab for an old fiddle tune, \"Hell's Broke Loose In Georgia\". The first time through is very easy, all played out of the drop-C tuning open C chord, and only one left hand ornament, a simple choke. All forward rolls. The second time through is more of an intermediate/advanced version using hammer-ons, pull-offs, and more difficult chokes as well as more varied rolls. This is in the style of banjo &amp; fiddle. Has a mandolin melody track. Have fun!"
     }, 
     {
         "download": {
@@ -38508,7 +38508,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hen-scratchin-s-12343-051125112009.tef"
             ]
         }, 
-        "desc": "Notes: The Don Reno banjo instrumental \"Hen Scratchin' Stomp\". It's sort of Don's take on Katy Hill, with the second section in E instead of G. As in the 1949 Mercury recording of \"Foggy Mountain Breakdown\" by Flatt & Scruggs, the banjo plays in E minor while the backup band plays in E major. Creates a cool effect. This is a good start to learning Don's rolls, & to see where he differs from the Scruggs style even in its basic rolls. Not too hard, & an altogether fun piece to play. Try bringing it out at your next jam; very few people know it, but it's a simple tune & the others will pick it up quickly. I highly recommend listening to the Tennessee Cut-Ups original recording. It's full of energy, drive, & will give you a good idea of Don's timing."
+        "desc": "Notes: The Don Reno banjo instrumental \"Hen Scratchin' Stomp\". It's sort of Don's take on Katy Hill, with the second section in E instead of G. As in the 1949 Mercury recording of \"Foggy Mountain Breakdown\" by Flatt &amp; Scruggs, the banjo plays in E minor while the backup band plays in E major. Creates a cool effect. This is a good start to learning Don's rolls, &amp; to see where he differs from the Scruggs style even in its basic rolls. Not too hard, &amp; an altogether fun piece to play. Try bringing it out at your next jam; very few people know it, but it's a simple tune &amp; the others will pick it up quickly. I highly recommend listening to the Tennessee Cut-Ups original recording. It's full of energy, drive, &amp; will give you a good idea of Don's timing."
     }, 
     {
         "download": {
@@ -38570,7 +38570,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-here-comes-the--14712-243517132011.pdf"
             ]
         }, 
-        "desc": "Notes: This is my arrangement of George Harrison's \"Here Comes the Sun\" for solo fingerstyle banjo.\n\nYou are free to use this arrangement for noncommercial purposes only. For other possible uses please contact the author - Ric Hollander (ric.hollander@gmail.com)\n\nwww.richollander.com"
+        "desc": "Notes: This is my arrangement of George Harrison's \"Here Comes the Sun\" for solo fingerstyle banjo.\n\nYou are free to use this arrangement for noncommercial purposes only. For other possible uses please contact the author - Ric Hollander (ric.hollander@gmail.com)\n\n<a href=\"http://www.richollander.com\" target=\"_blank\">www.richollander.com</a>"
     }, 
     {
         "last_updated": "2010-01-02T15:21:00", 
@@ -38588,7 +38588,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hermans-rag-12632-12116212010.tef"
             ]
         }, 
-        "desc": "Notes: Here is a contest fiddle favorite, \"Herman's Rag\", arranged for 5-string banjo. This is a rather difficult piece, and is transcribed almost note for note from the music for fiddle from \"The Craig Duncan Master Fiddle Solo collection\", from Mel Bay. The banjo melody is an octave down from the fiddle, and I've changed the melody where it would go too low for the banjo. I've left the contest variations in, so it makes quite an interesting banjo piece. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is a contest fiddle favorite, \"Herman's Rag\", arranged for 5-string banjo. This is a rather difficult piece, and is transcribed almost note for note from the music for fiddle from \"The Craig Duncan Master Fiddle Solo collection\", from Mel Bay. The banjo melody is an octave down from the fiddle, and I've changed the melody where it would go too low for the banjo. I've left the contest variations in, so it makes quite an interesting banjo piece. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "play": {
@@ -38874,7 +38874,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-highlands-hornp-11833-292511892009.tef"
             ]
         }, 
-        "desc": "Notes: Highlands Hornpipe is a two-part Canadian fiddle tune in Bb & F major. I think there may be a third part or bridge in G minor floating around out there, but I'm not sure. The form is AABB, ending with the first part (AA). E.G., you're at a jam, the fiddle plays AABB, the mandolin plays AABB, the banjo plays AABB, and the fiddle plays AABBAA, end of tune. This is a nice smooth piece, and fortunately it's not too hard to get the real smoothness. There is some \"cross-picking\" (crossing one right-hand finger over another), and some dropping the middle finger inside. The A section is in Bb & the B section is in F. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Highlands Hornpipe is a two-part Canadian fiddle tune in Bb &amp; F major. I think there may be a third part or bridge in G minor floating around out there, but I'm not sure. The form is AABB, ending with the first part (AA). E.G., you're at a jam, the fiddle plays AABB, the mandolin plays AABB, the banjo plays AABB, and the fiddle plays AABBAA, end of tune. This is a nice smooth piece, and fortunately it's not too hard to get the real smoothness. There is some \"cross-picking\" (crossing one right-hand finger over another), and some dropping the middle finger inside. The A section is in Bb &amp; the B section is in F. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "play": {
@@ -39053,7 +39053,7 @@ var TABS = [
                 "http://banjochrille.com/media/Hindustan-Banjochrille-Arrangment.pdf"
             ]
         }, 
-        "desc": "Notes: Banjochrille's Arrangment of \"Hindustan\"\n\nTaken from the \"China Folio\", a playable collection of Oriental Fox Trots with a Far East touch.\nAs always you have for these 20 tunes in the style of Chinaboy and Chinatown wonderful piano accompaniments in three different speed levels.\n\nPlease visit: www.banjochrille.com\n\nContact: mail@banjochrille.com\n\nBanjopower!"
+        "desc": "Notes: Banjochrille's Arrangment of \"Hindustan\"\n\nTaken from the \"China Folio\", a playable collection of Oriental Fox Trots with a Far East touch.\nAs always you have for these 20 tunes in the style of Chinaboy and Chinatown wonderful piano accompaniments in three different speed levels.\n\nPlease visit: <a href=\"http://www.banjochrille.com\" target=\"_blank\">www.banjochrille.com</a>\n\nContact: mail@banjochrille.com\n\nBanjopower!"
     }, 
     {
         "last_updated": "2013-10-21T05:34:00", 
@@ -39802,7 +39802,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-honey-you-22512-1626191542017.pdf"
             ]
         }, 
-        "desc": "Notes: Another tab request for The Dead South. I have included all of the banjo parts and there is a LOT of single string in this song. The guy plays it with a flat pick but I use thumb and index for the single string parts. I have also included lyrics and the chords so you can play it with your guitar buddy. The last page is alternate fingering for the single string stuff based on this video: https://www.youtube.com/watch?v=2LzW8CHkfPo"
+        "desc": "Notes: Another tab request for The Dead South. I have included all of the banjo parts and there is a LOT of single string in this song. The guy plays it with a flat pick but I use thumb and index for the single string parts. I have also included lyrics and the chords so you can play it with your guitar buddy. The last page is alternate fingering for the single string stuff based on this video: <a href=\"https://www.youtube.com/watch?v=2LzW8CHkfPo\" target=\"_blank\">https://www.youtube.com/watch?v=2LzW8CHkfPo</a>"
     }, 
     {
         "play": {
@@ -39996,7 +39996,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/h/tab-hot-burrito-bre-16299-124415112011.tef"
             ]
         }, 
-        "desc": "Notes: This tab was transcribed by Chris Athey and was found on bluegrassbanjo.org.\nIt was converted from Tabrite to tef for someone on BHO."
+        "desc": "Notes: This tab was transcribed by Chris Athey and was found on <a href=\"http://bluegrassbanjo.org\" target=\"_blank\">bluegrassbanjo.org</a>.\nIt was converted from Tabrite to tef for someone on BHO."
     }, 
     {
         "play": {
@@ -40982,7 +40982,7 @@ var TABS = [
             "tuning": "Standard Open G (gDGBD)", 
             "key": "G"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "last_updated": "2012-06-30T10:50:00", 
@@ -41396,7 +41396,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-i-got-rhythm-au-19464-226164102013.pdf"
             ]
         }, 
-        "desc": "Notes: These are supporting files for this tenor banjo lesson: http://www.banjohangout.org/blog/30758"
+        "desc": "Notes: These are supporting files for this tenor banjo lesson: <a href=\"http://www.banjohangout.org/blog/30758\" target=\"_blank\">http://www.banjohangout.org/blog/30758</a>"
     }, 
     {
         "download": {
@@ -41550,7 +41550,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-i-know-some-day-20637-5619202972014.tef"
             ]
         }, 
-        "desc": "Notes: Jens Kruger\n http://www.youtube.com/watch?v=ekEgexDs67o"
+        "desc": "Notes: Jens Kruger\n <a href=\"http://www.youtube.com/watch?v=ekEgexDs67o\" target=\"_blank\">http://www.youtube.com/watch?v=ekEgexDs67o</a>"
     }, 
     {
         "play": {
@@ -41591,7 +41591,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-i-know-you-ride-18206-5357141312013.pdf"
             ]
         }, 
-        "desc": "Notes: Banjo tuned down 3 steps to EBEG#B -- I posted a version on http://soundcloud.com/rodeworks ."
+        "desc": "Notes: Banjo tuned down 3 steps to EBEG#B -- I posted a version on <a href=\"http://soundcloud.com/rodeworks\" target=\"_blank\">http://soundcloud.com/rodeworks</a> ."
     }, 
     {
         "download": {
@@ -41656,7 +41656,7 @@ var TABS = [
                 "http://banjochrille.com/media/I-Miss-A-Little-Miss-Banjochrille-Arrangment.pdf"
             ]
         }, 
-        "desc": "Notes: \"The Popular Folio\" copes with jazz classics, which are very comfortable to play on the tenor banjo. Useful for a band-banjoist or a solist you can play these tunes in every occasion. These are the songs: Ain't She Sweet, Blues My Naughty Sweetie Gives To Me, Carry Me Back, Chinatown, Dill Pickles Rag, Dinah, I Miss A Little Miss, I Whish't I Was In Peoria, Ice Cream, Ida, In The Shade Of The Old Apple Tree, Jazz Me Blues, Linger Awhile, Margie Medley, Nola, Petite Fleur, Rose Of Washington Square, Temptation Rag, The Teddy Bear's Picnic and When You're Smiling. Here you can look inside the book and enjoy the solo of \"I Miss A Little Miss\".\n\nAs always you have piano accompaniments (2 CDs) in three different speed levels for each tune.\n\nPlease visit: www.banjochrille.com\n\nContact: mail@banjochrille.com"
+        "desc": "Notes: \"The Popular Folio\" copes with jazz classics, which are very comfortable to play on the tenor banjo. Useful for a band-banjoist or a solist you can play these tunes in every occasion. These are the songs: Ain't She Sweet, Blues My Naughty Sweetie Gives To Me, Carry Me Back, Chinatown, Dill Pickles Rag, Dinah, I Miss A Little Miss, I Whish't I Was In Peoria, Ice Cream, Ida, In The Shade Of The Old Apple Tree, Jazz Me Blues, Linger Awhile, Margie Medley, Nola, Petite Fleur, Rose Of Washington Square, Temptation Rag, The Teddy Bear's Picnic and When You're Smiling. Here you can look inside the book and enjoy the solo of \"I Miss A Little Miss\".\n\nAs always you have piano accompaniments (2 CDs) in three different speed levels for each tune.\n\nPlease visit: <a href=\"http://www.banjochrille.com\" target=\"_blank\">www.banjochrille.com</a>\n\nContact: mail@banjochrille.com"
     }, 
     {
         "download": {
@@ -41808,7 +41808,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-i-saw-the-light-16283-20271812112011.tef"
             ]
         }, 
-        "desc": "Notes: This tab is based on Chris Talley Armstrong's video lesson of the song available on YouTube: http://www.youtube.com/watch?v=U6YW5zzi4hk"
+        "desc": "Notes: This tab is based on Chris Talley Armstrong's video lesson of the song available on YouTube: <a href=\"http://www.youtube.com/watch?v=U6YW5zzi4hk\" target=\"_blank\">http://www.youtube.com/watch?v=U6YW5zzi4hk</a>"
     }, 
     {
         "play": {
@@ -41867,7 +41867,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-i-saw-the-light-19108-1148121582013.pdf"
             ]
         }, 
-        "desc": "Notes: Beginner clawhammer version (with variations) of I Saw the Light (Hank Williams) with lyrics. The link has an embedded Tabedit file at the bottom obtained from a zip file from Phillip Mann's Bluegrassbanjo.org free site and is a variation to my simplified version with more hammer-ons and drop thumb playing."
+        "desc": "Notes: Beginner clawhammer version (with variations) of I Saw the Light (Hank Williams) with lyrics. The link has an embedded Tabedit file at the bottom obtained from a zip file from Phillip Mann's <a href=\"http://Bluegrassbanjo.org\" target=\"_blank\">Bluegrassbanjo.org</a> free site and is a variation to my simplified version with more hammer-ons and drop thumb playing."
     }, 
     {
         "last_updated": "2014-12-20T09:05:00", 
@@ -41885,7 +41885,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-i-saw-the-light-20942-66920122014.tef"
             ]
         }, 
-        "desc": "Notes: For our TOTW, from Jack Baker: http://www.banjohangout.org/topic/296360/"
+        "desc": "Notes: For our TOTW, from Jack Baker: <a href=\"http://www.banjohangout.org/topic/296360/\" target=\"_blank\">http://www.banjohangout.org/topic/296360/</a>"
     }, 
     {
         "last_updated": "2016-10-23T05:35:00", 
@@ -42589,7 +42589,7 @@ var TABS = [
                 "http://banjoteacher.com/tablature/index.html"
             ]
         }, 
-        "desc": "Notes: This is a song from my Gospel Songs for Banjo Book/CD/DVD from the free tab page at BanjoTeacher.com.  Thanks, Ross Nickerson\n"
+        "desc": "Notes: This is a song from my Gospel Songs for Banjo Book/CD/DVD from the free tab page at <a href=\"http://BanjoTeacher.com\" target=\"_blank\">BanjoTeacher.com</a>.  Thanks, Ross Nickerson\n"
     }, 
     {
         "play": {
@@ -42630,7 +42630,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-ill-fly-away-19401-2240816102013.pdf"
             ]
         }, 
-        "desc": "Notes: My attempt at \"I'll Fly Away\" as played in the movie \"Oh Brother, Where Art Thou\". This tab is in Sawmill tuning (G Modal). I capo up 2 and play in the key of C (C Modal?) which puts it into the key of D Modal, if that makes any sense. It's a simplified variation of the tab by David Marshall located @ http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-ill-fly-away-11989-211438102009.jpg\nwhich he tabbed in Double C (Double D with capo). I've also included a link to the \"Oh Brother\" version in D that can be played along with to get the timing and melody, and added a page 2 for the measure pattern to play and the complete lyrics.\nI will attach this to the Gospel Lover's group and Beginner Clawhammer group."
+        "desc": "Notes: My attempt at \"I'll Fly Away\" as played in the movie \"Oh Brother, Where Art Thou\". This tab is in Sawmill tuning (G Modal). I capo up 2 and play in the key of C (C Modal?) which puts it into the key of D Modal, if that makes any sense. It's a simplified variation of the tab by David Marshall located @ <a href=\"http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-ill-fly-away-11989-211438102009.jpg\" target=\"_blank\">http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-ill-fly-away-11989-211438102009.jpg</a>\nwhich he tabbed in Double C (Double D with capo). I've also included a link to the \"Oh Brother\" version in D that can be played along with to get the timing and melody, and added a page 2 for the measure pattern to play and the complete lyrics.\nI will attach this to the Gospel Lover's group and Beginner Clawhammer group."
     }, 
     {
         "posted_by": "afrevele", 
@@ -43184,7 +43184,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-im-gone--long-g-12247-4333912102011.tef"
             ]
         }, 
-        "desc": "Notes: This is a great old tune by Reno and Smiley.  I have tabbed out two up-the-neck breaks.  The first sticks pretty close to the melody; the second departs a bit and includes some licks that you might find useful in a variety of tunes.  If you go to the Music section on my BHO web page, you will find a track of this song, from a practice tape by my band Silver Spring, recorded in Vancouver, B.C., in the mid-1970s.  The second break in the tablature is the one on the track.  On the recording, we played in A; so just capo up 2 and play it as tabbed in G.  Note that the last D chord is a bit tricky, because it involves alternating the index and middle fingers while picking the first string.  Although difficult, the lick is worth mastering, because you can use it in lots of tunes.  The melody in the lick is played on the first string and involves a descending melodic sequence (D --> C --> B --> A --> G) embedded in a repetitive rhythmic pattern, as follows, with the melody string IN CAPITALS:  ONE--three--two--one--ONE--three--two-one---ONE-three--two--one, and so on."
+        "desc": "Notes: This is a great old tune by Reno and Smiley.  I have tabbed out two up-the-neck breaks.  The first sticks pretty close to the melody; the second departs a bit and includes some licks that you might find useful in a variety of tunes.  If you go to the Music section on my BHO web page, you will find a track of this song, from a practice tape by my band Silver Spring, recorded in Vancouver, B.C., in the mid-1970s.  The second break in the tablature is the one on the track.  On the recording, we played in A; so just capo up 2 and play it as tabbed in G.  Note that the last D chord is a bit tricky, because it involves alternating the index and middle fingers while picking the first string.  Although difficult, the lick is worth mastering, because you can use it in lots of tunes.  The melody in the lick is played on the first string and involves a descending melodic sequence (D --&gt; C --&gt; B --&gt; A --&gt; G) embedded in a repetitive rhythmic pattern, as follows, with the melody string IN CAPITALS:  ONE--three--two--one--ONE--three--two-one---ONE-three--two--one, and so on."
     }, 
     {
         "download": {
@@ -43297,7 +43297,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-im-shipping-up--14703-158112622011.tef"
             ]
         }, 
-        "desc": "Notes: Basic \"I'm Shipping Up to Boston\" tab arranged for Open G tuned 5-string Banjo from guitar tablature (found on Ultimate-Guitar.com).\n\nThis tab is well suited for Don Reno Style (aka Single String Style) picking, but will need more work to get it to Melodic or Scruggs style picking patterns."
+        "desc": "Notes: Basic \"I'm Shipping Up to Boston\" tab arranged for Open G tuned 5-string Banjo from guitar tablature (found on <a href=\"http://Ultimate-Guitar.com\" target=\"_blank\">Ultimate-Guitar.com</a>).\n\nThis tab is well suited for Don Reno Style (aka Single String Style) picking, but will need more work to get it to Melodic or Scruggs style picking patterns."
     }, 
     {
         "download": {
@@ -43839,7 +43839,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-in-hell-ill-be--22448-745131642017.pdf"
             ]
         }, 
-        "desc": "Notes: Catchy song by The Dead South from SK Canada. I added chords for your guitar buddy. You can repeat from the $ sign twice and the last time (3rd time) fade out. This is how I hear it from this Youtube video: https://www.youtube.com/watch?v=B9FzVhw8_bY"
+        "desc": "Notes: Catchy song by The Dead South from SK Canada. I added chords for your guitar buddy. You can repeat from the $ sign twice and the last time (3rd time) fade out. This is how I hear it from this Youtube video: <a href=\"https://www.youtube.com/watch?v=B9FzVhw8_bY\" target=\"_blank\">https://www.youtube.com/watch?v=B9FzVhw8_bY</a>"
     }, 
     {
         "download": {
@@ -43991,7 +43991,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/i/tab-in-the-pines-17687-28872182012.txt"
             ]
         }, 
-        "desc": "Notes: This is my interpretation of Nirvana's Unplugged cover of In the Pines (Where Did You Sleep Last Night).  3/4 timing. I play this in open F but it sounds fine in open G. F just gives it a darker sound. This is my first TAB so please let me know of any mistakes: yarnedia@gmail.com. Here's what it sounds like: http://www.youtube.com/watch?v=qqvt3wfA1JU&feature=youtu.be"
+        "desc": "Notes: This is my interpretation of Nirvana's Unplugged cover of In the Pines (Where Did You Sleep Last Night).  3/4 timing. I play this in open F but it sounds fine in open G. F just gives it a darker sound. This is my first TAB so please let me know of any mistakes: yarnedia@gmail.com. Here's what it sounds like: <a href=\"http://www.youtube.com/watch?v=qqvt3wfA1JU&amp;feature=youtu.be\" target=\"_blank\">http://www.youtube.com/watch?v=qqvt3wfA1JU&amp;feature=youtu.be</a>"
     }, 
     {
         "play": {
@@ -44311,7 +44311,7 @@ var TABS = [
             "tuning": "Standard Open G (gDGBD)", 
             "key": "G"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "last_updated": "2016-01-08T08:01:00", 
@@ -44522,7 +44522,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-jattendrai-12184-5156199112009.tef"
             ]
         }, 
-        "desc": "Notes: The old Italian/French song, \"J'attendrai\", arranged for Reno-style (labelled Scruggs, but really more Reno-ish) banjo. Also, it's labelled jazz, but it's really a Jazz tune arranged for bluegrass banjo; the chords are authentic though. Taken from Django Reinhardt, Stephane Grappelli, & the Hot Club de France's movie from 1939. The ending is played by planting the heel of the right hand behind (above) the strings, & brushing upward in rapid succession (eight notes) with the index & middle fingers; this is hard, but definitely doable with practice. The Django-style run can be played with thumb & index up to a certain speed, and can probably be played at faster speeds with all three fingers though I do not play this way. Have fun!"
+        "desc": "Notes: The old Italian/French song, \"J'attendrai\", arranged for Reno-style (labelled Scruggs, but really more Reno-ish) banjo. Also, it's labelled jazz, but it's really a Jazz tune arranged for bluegrass banjo; the chords are authentic though. Taken from Django Reinhardt, Stephane Grappelli, &amp; the Hot Club de France's movie from 1939. The ending is played by planting the heel of the right hand behind (above) the strings, &amp; brushing upward in rapid succession (eight notes) with the index &amp; middle fingers; this is hard, but definitely doable with practice. The Django-style run can be played with thumb &amp; index up to a certain speed, and can probably be played at faster speeds with all three fingers though I do not play this way. Have fun!"
     }, 
     {
         "play": {
@@ -44632,7 +44632,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-jacknife-in-11824-1312892009.tef"
             ]
         }, 
-        "desc": "Notes: This is a little-known Don Reno banjo tune, Jacknife-in'. He actually played it at only a medium tempo, but this version here is blazing fast in the manner of Jeremy Stephens, who recorded it for his CD, \"Scarlet Banjo\". Some of these breaks here are based on some of his breaks, and some are my own. Due to the tempo, single string work, and some very quick changing of positions this is quite a difficult piece. Single string work is TITI. It's labled Open G (gDGBD), but it has the 5th capoed up 2 (at the 7th fret) for aDGBD, in the key of D. Also, it's labeled \"scruggs\", but it's really \"Reno\" style. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: This is a little-known Don Reno banjo tune, Jacknife-in'. He actually played it at only a medium tempo, but this version here is blazing fast in the manner of Jeremy Stephens, who recorded it for his CD, \"Scarlet Banjo\". Some of these breaks here are based on some of his breaks, and some are my own. Due to the tempo, single string work, and some very quick changing of positions this is quite a difficult piece. Single string work is TITI. It's labled Open G (gDGBD), but it has the 5th capoed up 2 (at the 7th fret) for aDGBD, in the key of D. Also, it's labeled \"scruggs\", but it's really \"Reno\" style. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2015-09-22T13:22:00", 
@@ -46353,7 +46353,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-jingle-bells-20912-32561412122014.tef"
             ]
         }, 
-        "desc": "Notes: For our TOTW http://www.banjohangout.org/topic/295974 from Jack Baker"
+        "desc": "Notes: For our TOTW <a href=\"http://www.banjohangout.org/topic/295974\" target=\"_blank\">http://www.banjohangout.org/topic/295974</a> from Jack Baker"
     }, 
     {
         "last_updated": "2017-03-05T06:09:00", 
@@ -46663,7 +46663,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-john-brogans-21663-52357612016.tef"
             ]
         }, 
-        "desc": "Notes: A little known Celtic style tune that I learned from Cotswolds' fiddler Matt Gryspeedt, arranged for melodic style banjo. Matt believes it was written in New York by an expat Irishman, but has been unable to find absolute confirmation of its origin. The move G to Bm is fairly unusual in Irish music. Nice tune, rocks along quite well. I have uploaded the TablEdit file as well as the straight notation for the benefit of fiddle players(pdf) and the tab & chords in pdf also."
+        "desc": "Notes: A little known Celtic style tune that I learned from Cotswolds' fiddler Matt Gryspeedt, arranged for melodic style banjo. Matt believes it was written in New York by an expat Irishman, but has been unable to find absolute confirmation of its origin. The move G to Bm is fairly unusual in Irish music. Nice tune, rocks along quite well. I have uploaded the TablEdit file as well as the straight notation for the benefit of fiddle players(pdf) and the tab &amp; chords in pdf also."
     }, 
     {
         "posted_by": "Jean-Marie RENARD", 
@@ -47550,7 +47550,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-jolene---intro-20503-163661552014.tef"
             ]
         }, 
-        "desc": "Notes: Rhonda Vincent & The Rage - modal tuning  a D G A D"
+        "desc": "Notes: Rhonda Vincent &amp; The Rage - modal tuning  a D G A D"
     }, 
     {
         "last_updated": "2013-12-12T09:38:00", 
@@ -47586,7 +47586,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-jolly-old-st-ni-18975-333102172013.pdf"
             ]
         }, 
-        "desc": "Notes: Christmas Corner's 1st tab. This tab is Scruggs style, but is also availabe as a Clawhammer version @ http://www.ezfolk.com/banjo/tab/xmas/jollyo-m/jollyo-m.html (Richard Hefner) and is available free with midi files for 3 versions with melody. Tab is loosely based on a tab by Dave Daylor. Merry Christmas in July."
+        "desc": "Notes: Christmas Corner's 1st tab. This tab is Scruggs style, but is also availabe as a Clawhammer version @ <a href=\"http://www.ezfolk.com/banjo/tab/xmas/jollyo-m/jollyo-m.html\" target=\"_blank\">http://www.ezfolk.com/banjo/tab/xmas/jollyo-m/jollyo-m.html</a> (Richard Hefner) and is available free with midi files for 3 versions with melody. Tab is loosely based on a tab by Dave Daylor. Merry Christmas in July."
     }, 
     {
         "download": {
@@ -47621,7 +47621,7 @@ var TABS = [
                 "http://taterjoes.com/banjo/JonahAndTheWindstorm.pdf"
             ]
         }, 
-        "desc": "Notes: www.TaterJoes.com"
+        "desc": "Notes: <a href=\"http://www.TaterJoes.com\" target=\"_blank\">www.TaterJoes.com</a>"
     }, 
     {
         "last_updated": "2012-01-20T01:46:00", 
@@ -47692,7 +47692,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-jos-cormiers-re-14726-7411532011.tef"
             ]
         }, 
-        "desc": "Notes: Melodic arrangement of a traditional french Canadian fiddle tune. This arrangement was based on the recording of La Bottine Souriante which can be heard here\nhttp://www.youtube.com/watch?v=vMlT5cAExZ8\n\nThis is my very first arrangement, so suggestions and comments will be most welcome!\n"
+        "desc": "Notes: Melodic arrangement of a traditional french Canadian fiddle tune. This arrangement was based on the recording of La Bottine Souriante which can be heard here\n<a href=\"http://www.youtube.com/watch?v=vMlT5cAExZ8\" target=\"_blank\">http://www.youtube.com/watch?v=vMlT5cAExZ8</a>\n\nThis is my very first arrangement, so suggestions and comments will be most welcome!\n"
     }, 
     {
         "play": {
@@ -48149,7 +48149,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-jump-at-the-sun-15045-135562442011.pdf"
             ]
         }, 
-        "desc": "Notes: I originally saw the tabs for this and heard it on Cathy Moore's site \"Banjo Meets World\"(>http://banjomeetsworld.wordpress.com/category/cello-banjo/ )It was written by John irkpatrick.   I re-tabbed it for Gm tuning which gives it a nice sound and makes it real easy to play.\nfeel free to let me know your thought's on it.\n\nHappy Pickin's to ya, Eric\n\n"
+        "desc": "Notes: I originally saw the tabs for this and heard it on Cathy Moore's site \"Banjo Meets World\"(&gt;<a href=\"http://banjomeetsworld.wordpress.com/category/cello-banjo/\" target=\"_blank\">http://banjomeetsworld.wordpress.com/category/cello-banjo/</a> )It was written by John irkpatrick.   I re-tabbed it for Gm tuning which gives it a nice sound and makes it real easy to play.\nfeel free to let me know your thought's on it.\n\nHappy Pickin's to ya, Eric\n\n"
     }, 
     {
         "download": {
@@ -48252,7 +48252,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/j/tab-june-apple-11947-021222102011.tef"
             ]
         }, 
-        "desc": "Notes: A traditional fiddle tune that works well on the banjo.  Don Stover played only backup on Doc Watson's recording of June Apple, and this inspired me to work out a lead break for it.  Many years later I heard Bill Keith play it, and I modified my version slightly to incorporate one of his ideas (the following chromatic lick: second string sixth fret --> first string fourth fret --> fifth string).  The tab is in open G, and normally one would play it capoed up 2 frets, to A."
+        "desc": "Notes: A traditional fiddle tune that works well on the banjo.  Don Stover played only backup on Doc Watson's recording of June Apple, and this inspired me to work out a lead break for it.  Many years later I heard Bill Keith play it, and I modified my version slightly to incorporate one of his ideas (the following chromatic lick: second string sixth fret --&gt; first string fourth fret --&gt; fifth string).  The tab is in open G, and normally one would play it capoed up 2 frets, to A."
     }, 
     {
         "last_updated": "2011-01-23T20:42:00", 
@@ -48819,7 +48819,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/k/tab-keep-on-the-sun-20532-1030142352014.tef"
             ]
         }, 
-        "desc": "Notes: By Jack Baker, for the Tunetorial: http://www.banjohangout.org/topic/285375/"
+        "desc": "Notes: By Jack Baker, for the Tunetorial: <a href=\"http://www.banjohangout.org/topic/285375/\" target=\"_blank\">http://www.banjohangout.org/topic/285375/</a>"
     }, 
     {
         "play": {
@@ -48875,7 +48875,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/k/tab-kelly-emerson-p-18451-223751532013.tef"
             ]
         }, 
-        "desc": "Notes: INTRO - Kelly Emerson plays Deering's Golden Era and Calico banjos - YouTube\n\nhttp://www.youtube.com/watch?v=XkEiRRCU1A4"
+        "desc": "Notes: INTRO - Kelly Emerson plays Deering's Golden Era and Calico banjos - YouTube\n\n<a href=\"http://www.youtube.com/watch?v=XkEiRRCU1A4\" target=\"_blank\">http://www.youtube.com/watch?v=XkEiRRCU1A4</a>"
     }, 
     {
         "last_updated": "2012-10-16T12:10:00", 
@@ -48956,7 +48956,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/k/tab-kentucky-border-20089-451883012014.tef"
             ]
         }, 
-        "desc": "Notes: http://www.youtube.com/watch?v=aNdVhjxBjys Kenny Ingram - Rhonda Vincent and the Rage (G capo 4th = B)"
+        "desc": "Notes: <a href=\"http://www.youtube.com/watch?v=aNdVhjxBjys\" target=\"_blank\">http://www.youtube.com/watch?v=aNdVhjxBjys</a> Kenny Ingram - Rhonda Vincent and the Rage (G capo 4th = B)"
     }, 
     {
         "download": {
@@ -50434,7 +50434,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-leaning-on-the--18999-279212772013.pdf"
             ]
         }, 
-        "desc": "Notes: Beginner version of a classic hymn. Song played (real slow) in the new True Grit movie. An excellent bluegrass (scruggs) up tempo version (Grascals) can be heard at\nhttp://www.youtube.com/watch?v=Po0sNw3chkk&list=AL94UKMTqg-9A1fD9d3I9E4vOznSLr1TzC\nAdded a version with lyrics. Feel free to sing along and play with the Grascal song."
+        "desc": "Notes: Beginner version of a classic hymn. Song played (real slow) in the new True Grit movie. An excellent bluegrass (scruggs) up tempo version (Grascals) can be heard at\n<a href=\"http://www.youtube.com/watch?v=Po0sNw3chkk&amp;list=AL94UKMTqg-9A1fD9d3I9E4vOznSLr1TzC\" target=\"_blank\">http://www.youtube.com/watch?v=Po0sNw3chkk&amp;list=AL94UKMTqg-9A1fD9d3I9E4vOznSLr1TzC</a>\nAdded a version with lyrics. Feel free to sing along and play with the Grascal song."
     }, 
     {
         "download": {
@@ -50696,7 +50696,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-les-filles-de-p-21990-04121672016.jpg"
             ]
         }, 
-        "desc": "Notes: Quebecois tune written by Jean Duval. Sheet music is available at https://thesession.org/tunes/2590. Here it is played by Catherine Planet (fiddle), Dejah Leger (guitar), and Greg Pelletier (banjo) at a Quebecois jam session at the Festival of American Fiddle Tunes in Port Townsend Washington in July 2016 https://youtu.be/Z85RDwcDjso"
+        "desc": "Notes: Quebecois tune written by Jean Duval. Sheet music is available at <a href=\"https://thesession.org/tunes/2590\" target=\"_blank\">https://thesession.org/tunes/2590</a>. Here it is played by Catherine Planet (fiddle), Dejah Leger (guitar), and Greg Pelletier (banjo) at a Quebecois jam session at the Festival of American Fiddle Tunes in Port Townsend Washington in July 2016 <a href=\"https://youtu.be/Z85RDwcDjso\" target=\"_blank\">https://youtu.be/Z85RDwcDjso</a>"
     }, 
     {
         "download": {
@@ -50945,7 +50945,7 @@ var TABS = [
             "tuning": "aDGBD", 
             "key": "D"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "last_updated": "2012-02-21T17:52:00", 
@@ -51058,7 +51058,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-licks--phrases-21121-36012632015.tef"
             ]
         }, 
-        "desc": "Notes: Some random licks & phrases that go outside the usual Bluegrass realm."
+        "desc": "Notes: Some random licks &amp; phrases that go outside the usual Bluegrass realm."
     }, 
     {
         "last_updated": "2013-08-03T00:36:00", 
@@ -51366,7 +51366,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-limehouse-blues-11774-281615692009.tef"
             ]
         }, 
-        "desc": "Notes: Yes, it's Limehouse Blues (a jazz tune) and it's in Ab (without a capo), but this is a bluegrass version complete with some standard Reno variations. Has a bluegrass guitar rhythm track & a bass rhythm track. The rolling parts aren't that hard, actually, but the single string can be a little tricky. The double stops are played by brushing down on the strings with your thumb."
+        "desc": "Notes: Yes, it's Limehouse Blues (a jazz tune) and it's in Ab (without a capo), but this is a bluegrass version complete with some standard Reno variations. Has a bluegrass guitar rhythm track &amp; a bass rhythm track. The rolling parts aren't that hard, actually, but the single string can be a little tricky. The double stops are played by brushing down on the strings with your thumb."
     }, 
     {
         "download": {
@@ -51718,7 +51718,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-little-birdie-14894-49413542011.tef"
             ]
         }, 
-        "desc": "Notes: Couldn't find a decent tab on the internet, and so I transcribed it.\n\nIt's in drop C tuning, and I have only tabbed the instrumental breaks as the verses are the same minus the melody, plus I only have a demo version of tab edit, which has restrictions on the bars I can export...\n\nHave fun, and check out more tabs on my blog:\n\nhttp://banjosarecool.blogspot.com/"
+        "desc": "Notes: Couldn't find a decent tab on the internet, and so I transcribed it.\n\nIt's in drop C tuning, and I have only tabbed the instrumental breaks as the verses are the same minus the melody, plus I only have a demo version of tab edit, which has restrictions on the bars I can export...\n\nHave fun, and check out more tabs on my blog:\n\n<a href=\"http://banjosarecool.blogspot.com/\" target=\"_blank\">http://banjosarecool.blogspot.com/</a>"
     }, 
     {
         "last_updated": "2012-06-09T12:16:00", 
@@ -52145,7 +52145,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-little-maggie-22508-3231141742017.pdf"
             ]
         }, 
-        "desc": "Notes: Ralph Stanley's version of this song from the Hard Times LP. I tabbed out all three of the banjo breaks even though they are similar, and the dissappointing ending. But wait, there's more...I have included - at no extra charge - Chords for your guitar buddy to strum along...all that for one low low price!!! Here is a link to the song:https://www.youtube.com/watch?v=lWABnWMOzVE\nHave fun"
+        "desc": "Notes: Ralph Stanley's version of this song from the Hard Times LP. I tabbed out all three of the banjo breaks even though they are similar, and the dissappointing ending. But wait, there's more...I have included - at no extra charge - Chords for your guitar buddy to strum along...all that for one low low price!!! Here is a link to the song:<a href=\"https://www.youtube.com/watch?v=lWABnWMOzVE\" target=\"_blank\">https://www.youtube.com/watch?v=lWABnWMOzVE</a>\nHave fun"
     }, 
     {
         "last_updated": "2012-10-31T13:10:00", 
@@ -52483,7 +52483,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-little-red-hair-13820-83701192010.pdf"
             ]
         }, 
-        "desc": "Notes: I first heard SilasBanjo play this on You Tube (http://www.youtube.com/watch?v=NlDuk5NLprQ) and fell in love with it (It's been my ringtone ever since!)  I went in search of a TAB to help me learn it and eventually pieced together a version, just ever-so slightly different from his wonderful version.\n\nIt evolves each time I play it, but it's very catchy.  This is my latest incarnation (but one - changed the b-part to be more like the Silas one).  I believe the original writer to be Michael Fox, but correct me if I'm wrong!"
+        "desc": "Notes: I first heard SilasBanjo play this on You Tube (<a href=\"http://www.youtube.com/watch?v=NlDuk5NLprQ\" target=\"_blank\">http://www.youtube.com/watch?v=NlDuk5NLprQ</a>) and fell in love with it (It's been my ringtone ever since!)  I went in search of a TAB to help me learn it and eventually pieced together a version, just ever-so slightly different from his wonderful version.\n\nIt evolves each time I play it, but it's very catchy.  This is my latest incarnation (but one - changed the b-part to be more like the Silas one).  I believe the original writer to be Michael Fox, but correct me if I'm wrong!"
     }, 
     {
         "download": {
@@ -52663,7 +52663,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-little-satchel-14648-1835111922011.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "download": {
@@ -52903,7 +52903,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-locust-hill-2-19678-39005112013.tef"
             ]
         }, 
-        "desc": "Notes: Here is one of my favorite songs, from Dave Hum. I struggled a lot with TAB. Enjoy it!\nDave Hum version of youtube Locust Hill (2)\nhttp://www.youtube.com/watch?v=_1mwnUJvtNU"
+        "desc": "Notes: Here is one of my favorite songs, from Dave Hum. I struggled a lot with TAB. Enjoy it!\nDave Hum version of youtube Locust Hill (2)\n<a href=\"http://www.youtube.com/watch?v=_1mwnUJvtNU\" target=\"_blank\">http://www.youtube.com/watch?v=_1mwnUJvtNU</a>"
     }, 
     {
         "play": {
@@ -53817,7 +53817,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-long-journey-ho-21866-04451642016.tef"
             ]
         }, 
-        "desc": "Notes: I made this one after watching a lesson at Tony Trischkas School of Banjo at artistworks.com with him & Bill Evans about developing solos. I also like to give credits to Alan Munde. His teaching about \"Roll Logic\" is so helpful."
+        "desc": "Notes: I made this one after watching a lesson at Tony Trischkas School of Banjo at <a href=\"http://artistworks.com\" target=\"_blank\">artistworks.com</a> with him &amp; Bill Evans about developing solos. I also like to give credits to Alan Munde. His teaching about \"Roll Logic\" is so helpful."
     }, 
     {
         "download": {
@@ -53890,7 +53890,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-lord-inchiquin-20965-2936031122014.tef"
             ]
         }, 
-        "desc": "Notes: I used to play this tune years ago on the Bouzouki. Was reminded of it recently & here's a melodic clawhammer interpretation of the tune as I remember it."
+        "desc": "Notes: I used to play this tune years ago on the Bouzouki. Was reminded of it recently &amp; here's a melodic clawhammer interpretation of the tune as I remember it."
     }, 
     {
         "download": {
@@ -53982,7 +53982,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-lorena-intro----20521-5111222052014.tef"
             ]
         }, 
-        "desc": "Notes: e B E G# B youtube   http://www.youtube.com/watch?v=z0cdmHXWYr8"
+        "desc": "Notes: e B E G# B youtube   <a href=\"http://www.youtube.com/watch?v=z0cdmHXWYr8\" target=\"_blank\">http://www.youtube.com/watch?v=z0cdmHXWYr8</a>"
     }, 
     {
         "last_updated": "2014-03-24T08:29:00", 
@@ -54000,7 +54000,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-lost-all-my-mon-20284-452982432014.tef"
             ]
         }, 
-        "desc": "Notes: For the TOTW (http://www.banjohangout.org/topic/281986), from Jack Baker"
+        "desc": "Notes: For the TOTW (<a href=\"http://www.banjohangout.org/topic/281986\" target=\"_blank\">http://www.banjohangout.org/topic/281986</a>), from Jack Baker"
     }, 
     {
         "download": {
@@ -54623,7 +54623,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-lummerland-lied-15560-27239372011.pdf"
             ]
         }, 
-        "desc": "Notes: This is the title song from the children marionette theatre play \"Jim Knopf & Lukas, der Lokomotivf\u00fchrer\" (\"Jim Button & Luke the Engine Driver, see http://www.youtube.com/watch?v=xpSlht21WI4) arranged in the melodic style. I arranged this tune for several reasons: I loved to watch the series when I was a child, my daughter loves to watch it now and I have been playing some melodic style material for some time now so I decided I could arrange this tune as an exercise. Massive public demand for an arrangement of this tune certainly was not the reason... ;)"
+        "desc": "Notes: This is the title song from the children marionette theatre play \"Jim Knopf &amp; Lukas, der Lokomotivf\u00fchrer\" (\"Jim Button &amp; Luke the Engine Driver, see <a href=\"http://www.youtube.com/watch?v=xpSlht21WI4\" target=\"_blank\">http://www.youtube.com/watch?v=xpSlht21WI4</a>) arranged in the melodic style. I arranged this tune for several reasons: I loved to watch the series when I was a child, my daughter loves to watch it now and I have been playing some melodic style material for some time now so I decided I could arrange this tune as an exercise. Massive public demand for an arrangement of this tune certainly was not the reason... ;)"
     }, 
     {
         "last_updated": "2014-07-23T18:00:00", 
@@ -54971,7 +54971,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-makars-prayer---21526-059521102015.pdf"
             ]
         }, 
-        "desc": "Notes: https://www.youtube.com/watch?v=AoVMnw_Kyr4"
+        "desc": "Notes: <a href=\"https://www.youtube.com/watch?v=AoVMnw_Kyr4\" target=\"_blank\">https://www.youtube.com/watch?v=AoVMnw_Kyr4</a>"
     }, 
     {
         "download": {
@@ -56373,7 +56373,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-mighty-dark-to--21143-19041832015.pdf"
             ]
         }, 
-        "desc": "Notes: Mighty Dark to Travel as played by Charlie Cushman on this YouTube video. (http://www.youtube.com/watch?v=AJE3Vf4_2I0)\nIf you notice something wrong with the tab, please let me know.\nTabbed by Tabito (no pun intended)."
+        "desc": "Notes: Mighty Dark to Travel as played by Charlie Cushman on this YouTube video. (<a href=\"http://www.youtube.com/watch?v=AJE3Vf4_2I0\" target=\"_blank\">http://www.youtube.com/watch?v=AJE3Vf4_2I0</a>)\nIf you notice something wrong with the tab, please let me know.\nTabbed by Tabito (no pun intended)."
     }, 
     {
         "last_updated": "2011-08-23T12:29:00", 
@@ -56948,7 +56948,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-mississippi-saw-14699-4950152522011.tef"
             ]
         }, 
-        "desc": "Notes: More tabs at www.davehum.com"
+        "desc": "Notes: More tabs at <a href=\"http://www.davehum.com\" target=\"_blank\">www.davehum.com</a>"
     }, 
     {
         "download": {
@@ -57260,7 +57260,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-molly-and-tenbr-21817-3123121032016.tef"
             ]
         }, 
-        "desc": "Notes: M&T is a traditional song that Bill Monroe arranged and made his own.  A number of great banjo players have tackled it:  Earl Scruggs, Don Stover, Bill Keith, Craig Smith, J. D. Crowe, Lamar Grier, and the list goes on.  I have tabbed out 3 breaks, 2 down the neck and 1 up the neck (a la Don Stover).  Have fun."
+        "desc": "Notes: M&amp;T is a traditional song that Bill Monroe arranged and made his own.  A number of great banjo players have tackled it:  Earl Scruggs, Don Stover, Bill Keith, Craig Smith, J. D. Crowe, Lamar Grier, and the list goes on.  I have tabbed out 3 breaks, 2 down the neck and 1 up the neck (a la Don Stover).  Have fun."
     }, 
     {
         "download": {
@@ -57792,7 +57792,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-motel-henry-21186-5930212132015.jpg"
             ]
         }, 
-        "desc": "Notes: Tuning is open G capo 2 (aEAC#E). This is a Quebecois tune written by Jean-Claude Mirandette. Pascal Gemme has a nice slow fiddle tutorial for it at this link: http://pascalgemme.com/tradquebec/Louis-Cyr-motel-Henry/"
+        "desc": "Notes: Tuning is open G capo 2 (aEAC#E). This is a Quebecois tune written by Jean-Claude Mirandette. Pascal Gemme has a nice slow fiddle tutorial for it at this link: <a href=\"http://pascalgemme.com/tradquebec/Louis-Cyr-motel-Henry/\" target=\"_blank\">http://pascalgemme.com/tradquebec/Louis-Cyr-motel-Henry/</a>"
     }, 
     {
         "download": {
@@ -57871,7 +57871,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-mountain-dew-22432-2134101742017.pdf"
             ]
         }, 
-        "desc": "Notes: How I hear Marshall Brickman's breaks from the Deliverence Soundtrack and New Dimensions in Banjo and Bluegrass LPs. Here's the Tune I am using: https://www.youtube.com/watch?v=sPVx1g0w3Js"
+        "desc": "Notes: How I hear Marshall Brickman's breaks from the Deliverence Soundtrack and New Dimensions in Banjo and Bluegrass LPs. Here's the Tune I am using: <a href=\"https://www.youtube.com/watch?v=sPVx1g0w3Js\" target=\"_blank\">https://www.youtube.com/watch?v=sPVx1g0w3Js</a>"
     }, 
     {
         "play": {
@@ -58249,7 +58249,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-music-for-a-fou-18908-5653142862013.pdf"
             ]
         }, 
-        "desc": "Notes: Originally composed by Simon Jeffes of the Penguin Cafe Orchestra in the key of C. This version has been transcribed from the cover version by Irish trad group Patrick Street in the key of D. Guitar Pro & PDF versions."
+        "desc": "Notes: Originally composed by Simon Jeffes of the Penguin Cafe Orchestra in the key of C. This version has been transcribed from the cover version by Irish trad group Patrick Street in the key of D. Guitar Pro &amp; PDF versions."
     }, 
     {
         "last_updated": "2013-06-28T15:13:00", 
@@ -58455,7 +58455,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-my-best-friend-19671-401854112013.tef"
             ]
         }, 
-        "desc": "Notes: I worked up this tab of Don William's sentimental ballad in response to an appeal in the Tab Request forum.  Here's the link to the discussion:  http://www.banjohangout.org/topic/273079.  The OP described himself as a novice, so I kept the banjo at a beginner/intermediate level.  You do need to know how to move around up the neck with your basic closed chord forms, and it helps if you are a soft-hearted old goat, like the OP and I.  I based the back-up very loosely on what the piano and guitar are doing on the video that was posted in the request thread."
+        "desc": "Notes: I worked up this tab of Don William's sentimental ballad in response to an appeal in the Tab Request forum.  Here's the link to the discussion:  <a href=\"http://www.banjohangout.org/topic/273079\" target=\"_blank\">http://www.banjohangout.org/topic/273079</a>.  The OP described himself as a novice, so I kept the banjo at a beginner/intermediate level.  You do need to know how to move around up the neck with your basic closed chord forms, and it helps if you are a soft-hearted old goat, like the OP and I.  I based the back-up very loosely on what the piano and guitar are doing on the video that was posted in the request thread."
     }, 
     {
         "last_updated": "2017-01-23T09:54:00", 
@@ -58473,7 +58473,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/m/tab-my-cabin-in-car-22338-2048232212017.tef"
             ]
         }, 
-        "desc": "Notes: This is a note for note transcription of how Earl Scruggs played this tune on the \"Country Music\" album, Mercury 20358, or The Bear Family's Flatt & Scruggs 1948-1959, disc 1. All lead breaks and backup are included. One item of interest is that, several times in this tune, Earl employs a pretty wicked lick that covers 3 chord positions (inversions of the same chord) to go from a I7 chord to a IV chord, and from a V7 chord to a I chord. You have to jump all over the neck to play it, and the distance your hand has to jump changes significantly, depending which transition you are playing, because the notes are much more closely spaced in the upper part of the neck, than in the lower part. It tends to foil muscle memory. The tab is written such that you can follow along with the recording. Adjust settings so that chords are displayed as letter names only and tab is displayed at 4 bars per line. The blank 3 measures preceding each verse are skipped when the tab is played with the MIDI player, using the Reading List tool. They are only there to maintain the chord pattern such that each verse starts at the beginning of a line."
+        "desc": "Notes: This is a note for note transcription of how Earl Scruggs played this tune on the \"Country Music\" album, Mercury 20358, or The Bear Family's Flatt &amp; Scruggs 1948-1959, disc 1. All lead breaks and backup are included. One item of interest is that, several times in this tune, Earl employs a pretty wicked lick that covers 3 chord positions (inversions of the same chord) to go from a I7 chord to a IV chord, and from a V7 chord to a I chord. You have to jump all over the neck to play it, and the distance your hand has to jump changes significantly, depending which transition you are playing, because the notes are much more closely spaced in the upper part of the neck, than in the lower part. It tends to foil muscle memory. The tab is written such that you can follow along with the recording. Adjust settings so that chords are displayed as letter names only and tab is displayed at 4 bars per line. The blank 3 measures preceding each verse are skipped when the tab is played with the MIDI player, using the Reading List tool. They are only there to maintain the chord pattern such that each verse starts at the beginning of a line."
     }, 
     {
         "download": {
@@ -59313,7 +59313,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/n/tab-new-camptown-ra-11787-232817692009.tef"
             ]
         }, 
-        "desc": "Notes: The Frank Wakefield mandolin tune, \"New Camptown Races\", arranged for melodic style banjo key of Bb, uncapoed. It's very hard, IMO, to get it to sound really smooth but it still sounds really good. No fancy ending for this one :P With Rhythm Guitar & Bass rhythm track. The triplets are played by carefully brushing your thumb down across the strings in time with the triplet."
+        "desc": "Notes: The Frank Wakefield mandolin tune, \"New Camptown Races\", arranged for melodic style banjo key of Bb, uncapoed. It's very hard, IMO, to get it to sound really smooth but it still sounds really good. No fancy ending for this one :P With Rhythm Guitar &amp; Bass rhythm track. The triplets are played by carefully brushing your thumb down across the strings in time with the triplet."
     }, 
     {
         "play": {
@@ -59850,7 +59850,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/n/tab-no-mother-or-da-17752-1150202882012.pdf"
             ]
         }, 
-        "desc": "Notes: Chord-Lyrics sheet...\n\nwww.banjotom2.com"
+        "desc": "Notes: Chord-Lyrics sheet...\n\n<a href=\"http://www.banjotom2.com\" target=\"_blank\">www.banjotom2.com</a>"
     }, 
     {
         "last_updated": "2009-12-31T14:52:00", 
@@ -59931,7 +59931,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/n/tab-no-title-yet-bl-22546-1719182742017.pdf"
             ]
         }, 
-        "desc": "Notes: Great banjo tune from Eric Weissberg and some other famous guys. Crazy aBF#AD tuning, sometimes I play it in open G, but I only tab out the classics for you guys. There is really one banjo break which is played then repeated after the guitar and fiddle solos with minor changes to the first break. So play through once, let your buddies take breaks and do it all again or improv on the 2nd break (that's what I do). Have fun. Here's the audio source: https://www.youtube.com/watch?v=FqYaIqQ3VYI"
+        "desc": "Notes: Great banjo tune from Eric Weissberg and some other famous guys. Crazy aBF#AD tuning, sometimes I play it in open G, but I only tab out the classics for you guys. There is really one banjo break which is played then repeated after the guitar and fiddle solos with minor changes to the first break. So play through once, let your buddies take breaks and do it all again or improv on the 2nd break (that's what I do). Have fun. Here's the audio source: <a href=\"https://www.youtube.com/watch?v=FqYaIqQ3VYI\" target=\"_blank\">https://www.youtube.com/watch?v=FqYaIqQ3VYI</a>"
     }, 
     {
         "download": {
@@ -60290,7 +60290,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-o-canada-11894-206122192009.tef"
             ]
         }, 
-        "desc": "Notes: A version of O canada I cooked up.  Up the neck section may appear more difficult than it actually is.  Use basic major chord shapes (D shape, F shape and straight barre) and that's really all there is too it (except the very end of the up the neck where you'll use a couple of minor shapes for the last two descending chords).  You can hear it on youtube (http://www.youtube.com/watch?v=QJYiixdCN0w) or on my hangout page.  Write me if you have any questions."
+        "desc": "Notes: A version of O canada I cooked up.  Up the neck section may appear more difficult than it actually is.  Use basic major chord shapes (D shape, F shape and straight barre) and that's really all there is too it (except the very end of the up the neck where you'll use a couple of minor shapes for the last two descending chords).  You can hear it on youtube (<a href=\"http://www.youtube.com/watch?v=QJYiixdCN0w\" target=\"_blank\">http://www.youtube.com/watch?v=QJYiixdCN0w</a>) or on my hangout page.  Write me if you have any questions."
     }, 
     {
         "last_updated": "2013-03-17T15:16:00", 
@@ -60423,7 +60423,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-ocarolans-draug-21125-42589832015.tef"
             ]
         }, 
-        "desc": "Notes: A little bit different from the good Tom Hanway's tab. From abc file found on thesession.org and tabledited."
+        "desc": "Notes: A little bit different from the good Tom Hanway's tab. From abc file found on <a href=\"http://thesession.org\" target=\"_blank\">thesession.org</a> and tabledited."
     }, 
     {
         "download": {
@@ -60735,7 +60735,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-oh-death-by-gre-21966-4843221862016.pdf"
             ]
         }, 
-        "desc": "Notes: First tab ever done by ear, am a novice banjo player.\n\nTab is given in PDF form. Let me know of a better method.\n\nSource is https://www.youtube.com/watch?v=EBY5l10htqI"
+        "desc": "Notes: First tab ever done by ear, am a novice banjo player.\n\nTab is given in PDF form. Let me know of a better method.\n\nSource is <a href=\"https://www.youtube.com/watch?v=EBY5l10htqI\" target=\"_blank\">https://www.youtube.com/watch?v=EBY5l10htqI</a>"
     }, 
     {
         "download": {
@@ -61037,7 +61037,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-old-aunt-jenny--18302-277153112013.tef"
             ]
         }, 
-        "desc": "Notes: Old traditional fiddle tune from the Kentucky area. Found this tune on a Notorious CD. Edan McAdam Somer is the fiddle player. She's one of the very best ever. This tune has a couple measures in the B part that have an extra beat (measures 14 & 18)."
+        "desc": "Notes: Old traditional fiddle tune from the Kentucky area. Found this tune on a Notorious CD. Edan McAdam Somer is the fiddle player. She's one of the very best ever. This tune has a couple measures in the B part that have an extra beat (measures 14 &amp; 18)."
     }, 
     {
         "last_updated": "2012-03-19T13:39:00", 
@@ -61203,7 +61203,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-old-dan-tucker--16453-2249115122011.tef"
             ]
         }, 
-        "desc": "Notes: This is from the site http://www.j2buttonsw.co.uk/\n\nIt is based on the Mark Clifford intro on the Bruce Springsteen album"
+        "desc": "Notes: This is from the site <a href=\"http://www.j2buttonsw.co.uk/\" target=\"_blank\">http://www.j2buttonsw.co.uk/</a>\n\nIt is based on the Mark Clifford intro on the Bruce Springsteen album"
     }, 
     {
         "download": {
@@ -61282,7 +61282,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-old-dangerfield-18710-504611552013.tef"
             ]
         }, 
-        "desc": "Notes: A \"square\" arrangement with no extra bar between sections 2&3. Add it in if you prefer!"
+        "desc": "Notes: A \"square\" arrangement with no extra bar between sections 2&amp;3. Add it in if you prefer!"
     }, 
     {
         "last_updated": "2011-11-06T10:34:00", 
@@ -61461,7 +61461,7 @@ var TABS = [
             "tuning": "Standard Open G (gDGBD)", 
             "key": "Em"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "last_updated": "2009-10-11T14:30:00", 
@@ -61567,7 +61567,7 @@ var TABS = [
             ]
         }, 
         "posted_by": "rdiesel007", 
-        "desc": "Notes: My best transcription of JD's kickoff\n\nhttp://www.youtube.com/watch?v=gK0iMLvCfFM", 
+        "desc": "Notes: My best transcription of JD's kickoff\n\n<a href=\"http://www.youtube.com/watch?v=gK0iMLvCfFM\" target=\"_blank\">http://www.youtube.com/watch?v=gK0iMLvCfFM</a>", 
         "last_updated": "2011-11-10T11:58:00", 
         "title": "Old Home Place"
     }, 
@@ -61604,7 +61604,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-old-home-place-19727-439711112013.tef"
             ]
         }, 
-        "desc": "Notes: Just what the world needs: One more version of Old Home Place.  The only thing somewhat different that I introduce here is what I play on the first D chord (or whatever the \"V\" chord is if you capo this as many do). I don't recall what my inspiration was for that lick. Not claiming originality. Enjoy.  -- Old Home Place by Mitch Jayne & Dean Webb"
+        "desc": "Notes: Just what the world needs: One more version of Old Home Place.  The only thing somewhat different that I introduce here is what I play on the first D chord (or whatever the \"V\" chord is if you capo this as many do). I don't recall what my inspiration was for that lick. Not claiming originality. Enjoy.  -- Old Home Place by Mitch Jayne &amp; Dean Webb"
     }, 
     {
         "last_updated": "2011-10-23T15:46:00", 
@@ -62454,7 +62454,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-old-spinning-wh-21644-595093172016.tef"
             ]
         }, 
-        "desc": "Notes: The Old Spinning Wheel is a lovely song, words and music written by Billy Hill.  You can find numerous versions on youtube, including nice recordings by Slim Whitman and by Jimmy Wakely that provide a clear roadmap of the melody.  I first heard it played on the 5-string by Jeremy Stephens in a video of 5 prewar Gibsons in Chris Cioffi\u2019s shop: https://www.youtube.com/watch?v=ovfiyOPEvPI  His playing inspired me to work up my own version, and I borrowed several of his ideas, particularly in the up-the-neck B part."
+        "desc": "Notes: The Old Spinning Wheel is a lovely song, words and music written by Billy Hill.  You can find numerous versions on youtube, including nice recordings by Slim Whitman and by Jimmy Wakely that provide a clear roadmap of the melody.  I first heard it played on the 5-string by Jeremy Stephens in a video of 5 prewar Gibsons in Chris Cioffi\u2019s shop: <a href=\"https://www.youtube.com/watch?v=ovfiyOPEvPI\" target=\"_blank\">https://www.youtube.com/watch?v=ovfiyOPEvPI</a>  His playing inspired me to work up my own version, and I borrowed several of his ideas, particularly in the up-the-neck B part."
     }, 
     {
         "download": {
@@ -62547,7 +62547,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-old-time-religi-19098-3730111082013.pdf"
             ]
         }, 
-        "desc": "Notes: Inspired from the movie \"Sargeant York\" (one of my favorites) can be heard (and seen) @: http://www.youtube.com/watch?v=f68TdgErXkE This classic hymnal lyrics has many variations (I've provided a few of the better known ones. Repeat between the \" : \", 1st round through can be repeated until the melody is learned, then add hammer-on's and pull-offs when you are comfortable. Will also list it as \"Give me that old time religion\" since there are no other clawhammer versions in G."
+        "desc": "Notes: Inspired from the movie \"Sargeant York\" (one of my favorites) can be heard (and seen) @: <a href=\"http://www.youtube.com/watch?v=f68TdgErXkE\" target=\"_blank\">http://www.youtube.com/watch?v=f68TdgErXkE</a> This classic hymnal lyrics has many variations (I've provided a few of the better known ones. Repeat between the \" : \", 1st round through can be repeated until the melody is learned, then add hammer-on's and pull-offs when you are comfortable. Will also list it as \"Give me that old time religion\" since there are no other clawhammer versions in G."
     }, 
     {
         "play": {
@@ -62743,7 +62743,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-on-the-wings-of-22262-11411511122016.pdf"
             ]
         }, 
-        "desc": "Notes: \"Michael Ferrie wrote this tune after watching the family\u2019s new kitten playing in the garden. The kitten bravely decided to tackle a large skorie (Herring Gull) and jumped on it\u2019s back. The skorie not much impressed, took flight with the kitten aboard. Luckily for the kitten it managed to escape but not until the bird had flown several hundred yards down the field.\" Notes from the album Da Farder Ben Da Welcomer\" by Fiddler\u2019s Bid.\n\nI played it here on two banjos - Goldtone cello banjo and Ramsey standard.\n\nHere's a beautiful version of this tune by Alasdair Fraser and Natalie Haas: https://www.youtube.com/watch?v=SE6HqAQehTE"
+        "desc": "Notes: \"Michael Ferrie wrote this tune after watching the family\u2019s new kitten playing in the garden. The kitten bravely decided to tackle a large skorie (Herring Gull) and jumped on it\u2019s back. The skorie not much impressed, took flight with the kitten aboard. Luckily for the kitten it managed to escape but not until the bird had flown several hundred yards down the field.\" Notes from the album Da Farder Ben Da Welcomer\" by Fiddler\u2019s Bid.\n\nI played it here on two banjos - Goldtone cello banjo and Ramsey standard.\n\nHere's a beautiful version of this tune by Alasdair Fraser and Natalie Haas: <a href=\"https://www.youtube.com/watch?v=SE6HqAQehTE\" target=\"_blank\">https://www.youtube.com/watch?v=SE6HqAQehTE</a>"
     }, 
     {
         "play": {
@@ -62943,7 +62943,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-opus-36---class-17893-5136196102012.pdf"
             ]
         }, 
-        "desc": "Notes: Based on the playing of John McEuen.  Recorded source:  Nitty Gritty Dirt Band 'Uncle Charlie & His Dog Teddy'"
+        "desc": "Notes: Based on the playing of John McEuen.  Recorded source:  Nitty Gritty Dirt Band 'Uncle Charlie &amp; His Dog Teddy'"
     }, 
     {
         "download": {
@@ -63106,7 +63106,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-orange-blossom--14967-451121542011.tef"
             ]
         }, 
-        "desc": "Notes: The tenor banjo is tuned to open G tuning DGdg, there is capo on the 2nd fret. The first part (in the concert key of E) is played in D (chords D=0202, G=0000, A=2222), the second part (in the concert key of A) is played in G (chords G=0000, C=5520, D=0202). Feel free to change the rolls, as well as the filll-in licks/walking bass connecting parts (anyway, the vocal version has shorter connection between the words in the first part - adjust the number of walking bass measures by yourself).\nThis is just one of possible versions how to play the melody in the first part and how to roll the harmony in the second part. The third part (also in the concert key of A, played thanks to capo in G) is missing but you are supposed to play some fill-in lick under the fiddle or harmonica solo - find them e.g. at http://banjosessions.com/?p=109 .\nThe melody over the dominant A chord (concert B chord) in the first part is compromised - however if you have big hands, you can reach the actual melody note on the 6th fret (counted with capo) with your pinky while holding the barre with your index finger on the 2nd fret."
+        "desc": "Notes: The tenor banjo is tuned to open G tuning DGdg, there is capo on the 2nd fret. The first part (in the concert key of E) is played in D (chords D=0202, G=0000, A=2222), the second part (in the concert key of A) is played in G (chords G=0000, C=5520, D=0202). Feel free to change the rolls, as well as the filll-in licks/walking bass connecting parts (anyway, the vocal version has shorter connection between the words in the first part - adjust the number of walking bass measures by yourself).\nThis is just one of possible versions how to play the melody in the first part and how to roll the harmony in the second part. The third part (also in the concert key of A, played thanks to capo in G) is missing but you are supposed to play some fill-in lick under the fiddle or harmonica solo - find them e.g. at <a href=\"http://banjosessions.com/?p=109\" target=\"_blank\">http://banjosessions.com/?p=109</a> .\nThe melody over the dominant A chord (concert B chord) in the first part is compromised - however if you have big hands, you can reach the actual melody note on the 6th fret (counted with capo) with your pinky while holding the barre with your index finger on the 2nd fret."
     }, 
     {
         "play": {
@@ -63175,7 +63175,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-osage-catnap-20643-24407382014.pdf"
             ]
         }, 
-        "desc": "Notes: Tab for Robert Palomo's original tune as requested by several on the Hangout. Here are 2 videos from Robert: http://youtu.be/k8ksya0uahQ and http://youtu.be/oGxcS1iyAJ4"
+        "desc": "Notes: Tab for Robert Palomo's original tune as requested by several on the Hangout. Here are 2 videos from Robert: <a href=\"http://youtu.be/k8ksya0uahQ\" target=\"_blank\">http://youtu.be/k8ksya0uahQ</a> and <a href=\"http://youtu.be/oGxcS1iyAJ4\" target=\"_blank\">http://youtu.be/oGxcS1iyAJ4</a>"
     }, 
     {
         "download": {
@@ -63378,7 +63378,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/o/tab-over-the-rainbo-21821-564111732016.tef"
             ]
         }, 
-        "desc": "Notes: A simple version of (Somewhere) Over The Rainbow as I played it many years ago when I was 15. https://www.youtube.com/watch?v=mF7PDuKOOhA"
+        "desc": "Notes: A simple version of (Somewhere) Over The Rainbow as I played it many years ago when I was 15. <a href=\"https://www.youtube.com/watch?v=mF7PDuKOOhA\" target=\"_blank\">https://www.youtube.com/watch?v=mF7PDuKOOhA</a>"
     }, 
     {
         "download": {
@@ -64523,7 +64523,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/p/tab-peelers-jacket-21871-112482542016.tef"
             ]
         }, 
-        "desc": "Notes: I learned this from Dave Hum, so it's similar to how he plays it.\nhttps://www.youtube.com/watch?v=HbIppVUJGiU"
+        "desc": "Notes: I learned this from Dave Hum, so it's similar to how he plays it.\n<a href=\"https://www.youtube.com/watch?v=HbIppVUJGiU\" target=\"_blank\">https://www.youtube.com/watch?v=HbIppVUJGiU</a>"
     }, 
     {
         "last_updated": "2015-05-26T05:26:00", 
@@ -64851,7 +64851,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/p/tab-petticoat-junct-17570-262192272012.tef"
             ]
         }, 
-        "desc": "Notes: this too was a great show & the tune is awesome!"
+        "desc": "Notes: this too was a great show &amp; the tune is awesome!"
     }, 
     {
         "last_updated": "2012-08-17T00:13:00", 
@@ -64992,7 +64992,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/p/tab-pickaway---vic--22539-3124152342017.pdf"
             ]
         }, 
-        "desc": "Notes: How I hear Vic Jordan playing this great tune from the Pickaway LP. I have Tabbed out both breaks and the backup. Also I have included the chords so you can play with your guitar buddy. Have fun. Here is the sound source: https://www.youtube.com/watch?v=r3o0hHAWX7Y"
+        "desc": "Notes: How I hear Vic Jordan playing this great tune from the Pickaway LP. I have Tabbed out both breaks and the backup. Also I have included the chords so you can play with your guitar buddy. Have fun. Here is the sound source: <a href=\"https://www.youtube.com/watch?v=r3o0hHAWX7Y\" target=\"_blank\">https://www.youtube.com/watch?v=r3o0hHAWX7Y</a>"
     }, 
     {
         "play": {
@@ -65333,7 +65333,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/p/tab-pike-county-bre-13067-2125232010.tef"
             ]
         }, 
-        "desc": "Notes: View instruction video on YouTube. Enter Keywords: banjo peter noorman.\nOr visit my website for tabs and instruction videos: www.peternoorman.nl/banjo"
+        "desc": "Notes: View instruction video on YouTube. Enter Keywords: banjo peter noorman.\nOr visit my website for tabs and instruction videos: <a href=\"http://www.peternoorman.nl/banjo\" target=\"_blank\">www.peternoorman.nl/banjo</a>"
     }, 
     {
         "download": {
@@ -66344,7 +66344,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/p/tab-prelude-in-e-mi-22526-111141742017.pdf"
             ]
         }, 
-        "desc": "Notes: This tune is an arrangement for 5-string banjo based on this video: https://www.youtube.com/watch?v=ef-4Bv5Ng0w\nnote: the slurs represent the melody line (the highest note is the melody) and the slurs are extended to the value of time that the notes would be written out on a melody line in Standard notation. Listen to the tune if you don't know it to get a feel for how it goes. It's a great one, and will get you chicks at parties. Good luck."
+        "desc": "Notes: This tune is an arrangement for 5-string banjo based on this video: <a href=\"https://www.youtube.com/watch?v=ef-4Bv5Ng0w\" target=\"_blank\">https://www.youtube.com/watch?v=ef-4Bv5Ng0w</a>\nnote: the slurs represent the melody line (the highest note is the melody) and the slurs are extended to the value of time that the notes would be written out on a melody line in Standard notation. Listen to the tune if you don't know it to get a feel for how it goes. It's a great one, and will get you chicks at parties. Good luck."
     }, 
     {
         "last_updated": "2009-08-30T13:15:00", 
@@ -66730,7 +66730,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/p/tab-problem-tab-20663-445991882014.tef"
             ]
         }, 
-        "desc": "Notes: This tab has errors in it that I am not able to correct as a beginner (I'm learning TablEdit).  If I move the cursor to the second string and press 0, then move to the right and press 2, then move to the first string and press 0, it shows up as 7-5-7 on the tab vice 0-2-0.  The notes on the staff above are correct, and when played it sounds correct.  Does anybody know what the problem is with the numbers shown on the strings?  I'm sure it must be a mistake I made with some finger fumble on the keyboard, etc.  See my post at:  http://www.banjohangout.org/topic/289870/#3655135"
+        "desc": "Notes: This tab has errors in it that I am not able to correct as a beginner (I'm learning TablEdit).  If I move the cursor to the second string and press 0, then move to the right and press 2, then move to the first string and press 0, it shows up as 7-5-7 on the tab vice 0-2-0.  The notes on the staff above are correct, and when played it sounds correct.  Does anybody know what the problem is with the numbers shown on the strings?  I'm sure it must be a mistake I made with some finger fumble on the keyboard, etc.  See my post at:  <a href=\"http://www.banjohangout.org/topic/289870/#3655135\" target=\"_blank\">http://www.banjohangout.org/topic/289870/#3655135</a>"
     }, 
     {
         "last_updated": "2012-01-15T00:50:00", 
@@ -66787,7 +66787,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/p/tab-puff-the-magic--12079-2022111112009.tef"
             ]
         }, 
-        "desc": "Notes: This was arranged by Bill Knopf, the recording is played by him.\nThanks to Don (docmhc) for the TablEdit version.\nYou can hear this song played on my homepage:  http://www.banjohangout.org/myhangout/music.asp?id=408"
+        "desc": "Notes: This was arranged by Bill Knopf, the recording is played by him.\nThanks to Don (docmhc) for the TablEdit version.\nYou can hear this song played on my homepage:  <a href=\"http://www.banjohangout.org/myhangout/music.asp?id=408\" target=\"_blank\">http://www.banjohangout.org/myhangout/music.asp?id=408</a>"
     }, 
     {
         "download": {
@@ -67139,7 +67139,7 @@ var TABS = [
             "tuning": "aDGBD", 
             "key": "D"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "download": {
@@ -67239,7 +67239,7 @@ var TABS = [
     }, 
     {
         "posted_by": "Duc7", 
-        "desc": "Notes: Here's my arrangement of a popular old fiddle tune played out of C & F positions in standard G tuning, with the capo on the 2nd fret. I've added a 3rd part that many fiddlers play. Enjoy!", 
+        "desc": "Notes: Here's my arrangement of a popular old fiddle tune played out of C &amp; F positions in standard G tuning, with the capo on the 2nd fret. I've added a 3rd part that many fiddlers play. Enjoy!", 
         "last_updated": "2009-10-02T06:16:00", 
         "meta": {
             "genre": "Fiddle/Celtic/Irish", 
@@ -67302,7 +67302,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-ragtime-annie-f-13065-3271232010.tef"
             ]
         }, 
-        "desc": "Notes: View instruction video on YouTube. Enter Keywords: banjo peter noorman.\nOr visit my website for tabs and instruction videos: www.peternoorman.nl/banjo"
+        "desc": "Notes: View instruction video on YouTube. Enter Keywords: banjo peter noorman.\nOr visit my website for tabs and instruction videos: <a href=\"http://www.peternoorman.nl/banjo\" target=\"_blank\">www.peternoorman.nl/banjo</a>"
     }, 
     {
         "play": {
@@ -67611,7 +67611,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-ramblin-guy--th-11699-71072982009.pdf"
             ]
         }, 
-        "desc": "Notes: This wild & crazy arrangement is from the playing of Steve Martin, and can be found on Steve's old stand-up comedy album Let's Get Small."
+        "desc": "Notes: This wild &amp; crazy arrangement is from the playing of Steve Martin, and can be found on Steve's old stand-up comedy album Let's Get Small."
     }, 
     {
         "download": {
@@ -67698,7 +67698,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-ramnee-ceilidh-21820-1520101792016.jpg"
             ]
         }, 
-        "desc": "Notes: Tuning is f#DGBD (open G with the 5th string tuned down a half-step to f#). Played on the cello banjo. Composed by Gordon Duncan. The sheet music is available on thesession.org. It's the second tune in this medley by Alasdair Fraser and Natalie Haas: https://www.youtube.com/watch?v=BhBT0V5V5Fg"
+        "desc": "Notes: Tuning is f#DGBD (open G with the 5th string tuned down a half-step to f#). Played on the cello banjo. Composed by Gordon Duncan. The sheet music is available on <a href=\"http://thesession.org\" target=\"_blank\">thesession.org</a>. It's the second tune in this medley by Alasdair Fraser and Natalie Haas: <a href=\"https://www.youtube.com/watch?v=BhBT0V5V5Fg\" target=\"_blank\">https://www.youtube.com/watch?v=BhBT0V5V5Fg</a>"
     }, 
     {
         "download": {
@@ -67809,7 +67809,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-rawhide-22531-728112042017.pdf"
             ]
         }, 
-        "desc": "Notes: This is how I hear Marshall Brickman's breaks from the Deliverance soundtrack, with chords for your guitar buddy,  horrible ending and all, but otherwise a great rendition. It is in Open G Tuning, capo to 5th fret and 5th string is spiked at 9 and tuned up a half step to 'c' and the tab reflects this tuning (5th string). If you spike at 10(or if you play in B, A, or G) you must raise the 5th string tab by 1 fret (except the open ones). Here is a reference video: https://www.youtube.com/watch?v=X7evFA9FVCk\nPlay it really fast and have fun"
+        "desc": "Notes: This is how I hear Marshall Brickman's breaks from the Deliverance soundtrack, with chords for your guitar buddy,  horrible ending and all, but otherwise a great rendition. It is in Open G Tuning, capo to 5th fret and 5th string is spiked at 9 and tuned up a half step to 'c' and the tab reflects this tuning (5th string). If you spike at 10(or if you play in B, A, or G) you must raise the 5th string tab by 1 fret (except the open ones). Here is a reference video: <a href=\"https://www.youtube.com/watch?v=X7evFA9FVCk\" target=\"_blank\">https://www.youtube.com/watch?v=X7evFA9FVCk</a>\nPlay it really fast and have fun"
     }, 
     {
         "download": {
@@ -68181,7 +68181,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-red-haired-boy-20228-193215732014.tef"
             ]
         }, 
-        "desc": "Notes: For the TOTW http://www.banjohangout.org/topic/281008 from Jack Baker"
+        "desc": "Notes: For the TOTW <a href=\"http://www.banjohangout.org/topic/281008\" target=\"_blank\">http://www.banjohangout.org/topic/281008</a> from Jack Baker"
     }, 
     {
         "download": {
@@ -68265,7 +68265,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-red-haired-boy--20766-321312102014.pdf"
             ]
         }, 
-        "desc": "Notes: RedHairedBoy.tg"
+        "desc": "Notes: <a href=\"http://RedHairedBoy.tg\" target=\"_blank\">RedHairedBoy.tg</a>"
     }, 
     {
         "last_updated": "2010-08-09T15:04:00", 
@@ -68660,7 +68660,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-reeds-hornpipe-17846-51282392012.tef"
             ]
         }, 
-        "desc": "Notes: This tab is based on Jim Reed's YouTube performance of his original tune - Reed's Hornpipe which can be found here: http://www.youtube.com/watch?v=o1l5Hn3GEio&feature=plcp\n\nI downloaded the video, re-synced the audio and then extracted the audio to a separate file.  The Amazing Slow Downer was used on the audio track while observing the video.  This should be a pretty accurate transcription of Jim's performance.\n\nChord shapes and fingerings are noted when appropriate.\n\nThe style of this tune is Melodic Bluegrass.\n\nEnjoy!\n\n- Ric"
+        "desc": "Notes: This tab is based on Jim Reed's YouTube performance of his original tune - Reed's Hornpipe which can be found here: <a href=\"http://www.youtube.com/watch?v=o1l5Hn3GEio&amp;feature=plcp\" target=\"_blank\">http://www.youtube.com/watch?v=o1l5Hn3GEio&amp;feature=plcp</a>\n\nI downloaded the video, re-synced the audio and then extracted the audio to a separate file.  The Amazing Slow Downer was used on the audio track while observing the video.  This should be a pretty accurate transcription of Jim's performance.\n\nChord shapes and fingerings are noted when appropriate.\n\nThe style of this tune is Melodic Bluegrass.\n\nEnjoy!\n\n- Ric"
     }, 
     {
         "last_updated": "2013-11-30T11:55:00", 
@@ -68694,7 +68694,7 @@ var TABS = [
             "tuning": "Standard Open G (gDGBD)", 
             "key": "A"
         }, 
-        "desc": "Notes: Played on a cello banjo, a French-Canadian crooked reel, from the repertoire of Guy Bouchard. Tab by Tom Faux available at this link:\n\nhttp://www.banjohangout.org/tab/browse.asp?m=detail&v=19849&ie6fix=1"
+        "desc": "Notes: Played on a cello banjo, a French-Canadian crooked reel, from the repertoire of Guy Bouchard. Tab by Tom Faux available at this link:\n\n<a href=\"http://www.banjohangout.org/tab/browse.asp?m=detail&amp;v=19849&amp;ie6fix=1\" target=\"_blank\">http://www.banjohangout.org/tab/browse.asp?m=detail&amp;v=19849&amp;ie6fix=1</a>"
     }, 
     {
         "play": {
@@ -68753,7 +68753,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-reel-des-nouvea-22324-5918201412017.pdf"
             ]
         }, 
-        "desc": "Notes: From the repertoire of Louis Beaudoin, collected by Lisa Ornstein. Sheet music is at http://www.mustrad.udenap.org/partitions/TQ491.jpg along with a recording by La Bottine Souriante.\nTuning is open G. Sounds better with the fifth string tuned to f#. Andres Brunet playes the A part four times, La Bottine Sourinte play it three times. Here I play the A part four times. Here is Andres Brunet playing it on the fiddle: https://youtu.be/a9KOtSPnpos"
+        "desc": "Notes: From the repertoire of Louis Beaudoin, collected by Lisa Ornstein. Sheet music is at <a href=\"http://www.mustrad.udenap.org/partitions/TQ491.jpg\" target=\"_blank\">http://www.mustrad.udenap.org/partitions/TQ491.jpg</a> along with a recording by La Bottine Souriante.\nTuning is open G. Sounds better with the fifth string tuned to f#. Andres Brunet playes the A part four times, La Bottine Sourinte play it three times. Here I play the A part four times. Here is Andres Brunet playing it on the fiddle: <a href=\"https://youtu.be/a9KOtSPnpos\" target=\"_blank\">https://youtu.be/a9KOtSPnpos</a>"
     }, 
     {
         "play": {
@@ -69071,7 +69071,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-reverie-22449-4140101742017.pdf"
             ]
         }, 
-        "desc": "Notes: This is how I hear the Bela Fleck Solo Banjo Tune Reverie from the Deviation LP, here is a web address for this version : https://www.youtube.com/watch?v=xYLbXSbDvYA\nThis Tab is similar to the previous versions added to the archive but it has slides and a few things the others don't have. Enjoy."
+        "desc": "Notes: This is how I hear the Bela Fleck Solo Banjo Tune Reverie from the Deviation LP, here is a web address for this version : <a href=\"https://www.youtube.com/watch?v=xYLbXSbDvYA\" target=\"_blank\">https://www.youtube.com/watch?v=xYLbXSbDvYA</a>\nThis Tab is similar to the previous versions added to the archive but it has slides and a few things the others don't have. Enjoy."
     }, 
     {
         "play": {
@@ -69094,7 +69094,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-reverie---bela--12105-1950172112009.tef"
             ]
         }, 
-        "desc": "Notes: This is from the Deviation and Places (compilation) albums. I took the original tab that was posted here and fixed a few things. I think it's pretty close to the original now.\n\nThere's a video of Bela playing this (back in the New Grass Revival days) at youtube:\nhttp://www.youtube.com/watch?v=N4hSqg6xkrw"
+        "desc": "Notes: This is from the Deviation and Places (compilation) albums. I took the original tab that was posted here and fixed a few things. I think it's pretty close to the original now.\n\nThere's a video of Bela playing this (back in the New Grass Revival days) at youtube:\n<a href=\"http://www.youtube.com/watch?v=N4hSqg6xkrw\" target=\"_blank\">http://www.youtube.com/watch?v=N4hSqg6xkrw</a>"
     }, 
     {
         "download": {
@@ -69136,7 +69136,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-richard-dauntle-15765-26527482011.tef"
             ]
         }, 
-        "desc": "Notes: This is from the Gilbert & Sullivan operetta \"Ruddigore\"."
+        "desc": "Notes: This is from the Gilbert &amp; Sullivan operetta \"Ruddigore\"."
     }, 
     {
         "download": {
@@ -69415,7 +69415,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-ring-of-fire-12326-37382122112009.tef"
             ]
         }, 
-        "desc": "Notes: Here is an example of what I offer from my site at http://www.leemarcusmusic.webs.com/"
+        "desc": "Notes: Here is an example of what I offer from my site at <a href=\"http://www.leemarcusmusic.webs.com/\" target=\"_blank\">http://www.leemarcusmusic.webs.com/</a>"
     }, 
     {
         "last_updated": "2012-10-23T00:13:00", 
@@ -69663,7 +69663,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-road-to-rosetow-17613-5327152352016.tef"
             ]
         }, 
-        "desc": "Notes: I wrote this tune in late 2009 and named it after one of my favorite paintings by my favorite artist, who I happen to be married to.  (For a glimpse of her art, go to www.jancorcoran.com).  The tune wrote itself as I fiddled -- okay, \"banjoed\" -- with the chord progression, and I managed to incorporate the use of Keith tuners.  I hope you like it."
+        "desc": "Notes: I wrote this tune in late 2009 and named it after one of my favorite paintings by my favorite artist, who I happen to be married to.  (For a glimpse of her art, go to <a href=\"http://www.jancorcoran.com\" target=\"_blank\">www.jancorcoran.com</a>).  The tune wrote itself as I fiddled -- okay, \"banjoed\" -- with the chord progression, and I managed to incorporate the use of Keith tuners.  I hope you like it."
     }, 
     {
         "download": {
@@ -70575,7 +70575,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-ronbishline-tag-16773-454311222012.tef"
             ]
         }, 
-        "desc": "Notes: TamZeb - I posted the tab files on the tab archive at;\nSorry for the repost.  User error.\nhttp://direct.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-ronbishline-tag-16773-454311222012.tef\n"
+        "desc": "Notes: TamZeb - I posted the tab files on the tab archive at;\nSorry for the repost.  User error.\n<a href=\"http://direct.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-ronbishline-tag-16773-454311222012.tef\" target=\"_blank\">http://direct.hangoutstorage.com/banjohangout.org/storage/tabs/r/tab-ronbishline-tag-16773-454311222012.tef</a>\n"
     }, 
     {
         "download": {
@@ -71524,7 +71524,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sailor-song-fro-16777-3238101322012.pdf"
             ]
         }, 
-        "desc": "Notes: This is a song from a video game called Black & White. The song is also known as Missionary or Missionaries."
+        "desc": "Notes: This is a song from a video game called Black &amp; White. The song is also known as Missionary or Missionaries."
     }, 
     {
         "download": {
@@ -71674,7 +71674,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-saint-annes-ree-14705-3242142722011.tef"
             ]
         }, 
-        "desc": "Notes: More Tabs at www.davehum.com"
+        "desc": "Notes: More Tabs at <a href=\"http://www.davehum.com\" target=\"_blank\">www.davehum.com</a>"
     }, 
     {
         "download": {
@@ -72026,7 +72026,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sally-goodin-ba-19504-3333166102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "play": {
@@ -72085,7 +72085,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sally-in-the-ga-21355-38852252015.pdf"
             ]
         }, 
-        "desc": "Notes: Aren't the lyrics to that other tune, \"Sally in the garden, sifting sand\"? Either someone had a sense of humour changing that to \"assisting Sam\", or some hearing problems. I suspect it's the former. My source for this is \"The Old-Time Fiddler's Repertory\", - 245 Traditional Tunes, Compiled and edited by R.P.Christeson.  This is mountain minor tuning capoed up two frets to match the fiddle. It's a departure for me since I normally arrange Irish tunes so I can play them at sessions, but I love old-timey music too. I don't think I had to change much for the banjo other than notate in cut-time instead of 2/4. Oh, and here is a cool link with the fiddler playing the tune. http://slippery-hill.com/RP/008-Sally.mp3\nCheers!"
+        "desc": "Notes: Aren't the lyrics to that other tune, \"Sally in the garden, sifting sand\"? Either someone had a sense of humour changing that to \"assisting Sam\", or some hearing problems. I suspect it's the former. My source for this is \"The Old-Time Fiddler's Repertory\", - 245 Traditional Tunes, Compiled and edited by R.P.Christeson.  This is mountain minor tuning capoed up two frets to match the fiddle. It's a departure for me since I normally arrange Irish tunes so I can play them at sessions, but I love old-timey music too. I don't think I had to change much for the banjo other than notate in cut-time instead of 2/4. Oh, and here is a cool link with the fiddler playing the tune. <a href=\"http://slippery-hill.com/RP/008-Sally.mp3\" target=\"_blank\">http://slippery-hill.com/RP/008-Sally.mp3</a>\nCheers!"
     }, 
     {
         "download": {
@@ -72743,7 +72743,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sandy-boys-15990-4034128102011.tef"
             ]
         }, 
-        "desc": "Notes: Sandy Boys is a great old-timey tune associated with the playing of a renowned fiddler from West Virginia, Edden Hammons.  But its origins are probably in the minstrel shows of the 19th century.  I became familiar with the tune from a tab that Don Borchelt posted on his web page (http://www.banjr.com/tablatures.htm) some time ago, and I have since encountered it in jams.  The version I have posted here is very much for the bluegrass banjo, with both Scruggs-ish and melodic elements."
+        "desc": "Notes: Sandy Boys is a great old-timey tune associated with the playing of a renowned fiddler from West Virginia, Edden Hammons.  But its origins are probably in the minstrel shows of the 19th century.  I became familiar with the tune from a tab that Don Borchelt posted on his web page (<a href=\"http://www.banjr.com/tablatures.htm\" target=\"_blank\">http://www.banjr.com/tablatures.htm</a>) some time ago, and I have since encountered it in jams.  The version I have posted here is very much for the bluegrass banjo, with both Scruggs-ish and melodic elements."
     }, 
     {
         "last_updated": "2015-06-26T14:07:00", 
@@ -73470,7 +73470,7 @@ var TABS = [
     }, 
     {
         "posted_by": "Adgardad", 
-        "desc": "Notes: This song is from Bobby Hicks album \"Texas Crapshooter\" (available @ Amazon.com).  The banjo break is very well put together, not too terribly hard to play and just fun to put under your fingers.  Key of G capoed at the 2nd fret to put it in A.", 
+        "desc": "Notes: This song is from Bobby Hicks album \"Texas Crapshooter\" (available @ <a href=\"http://Amazon.com\" target=\"_blank\">Amazon.com</a>).  The banjo break is very well put together, not too terribly hard to play and just fun to put under your fingers.  Key of G capoed at the 2nd fret to put it in A.", 
         "last_updated": "2010-03-17T18:38:00", 
         "meta": {
             "genre": "Bluegrass", 
@@ -74188,7 +74188,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-she-left-me-sta-16185-857827102011.tef"
             ]
         }, 
-        "desc": "Notes: This is Allen Sheltons break from Jim & Jesse\u00b4s version of the song"
+        "desc": "Notes: This is Allen Sheltons break from Jim &amp; Jesse\u00b4s version of the song"
     }, 
     {
         "download": {
@@ -74402,7 +74402,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sheik-of-araby-12941-432820822010.tef"
             ]
         }, 
-        "desc": "Notes: Here's an old pop tune & jazz standard from the 20's, the \"Sheik Of Araby\" (\"The Sheik\"). Makes a great banjo and \"jam\" tune, not too complicated a progression and not a difficult melody, though it sounds really cool. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here's an old pop tune &amp; jazz standard from the 20's, the \"Sheik Of Araby\" (\"The Sheik\"). Makes a great banjo and \"jam\" tune, not too complicated a progression and not a difficult melody, though it sounds really cool. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2014-06-07T20:54:00", 
@@ -74442,7 +74442,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-shenandoah-19090-47339982013.pdf"
             ]
         }, 
-        "desc": "Notes: Here's an intermediate level clawhammer arrangement of the sea shanty \"Shenandoah.\" Hope you like it.\n-Glenn Weiser, www.celticguitarmusic.com"
+        "desc": "Notes: Here's an intermediate level clawhammer arrangement of the sea shanty \"Shenandoah.\" Hope you like it.\n-Glenn Weiser, <a href=\"http://www.celticguitarmusic.com\" target=\"_blank\">www.celticguitarmusic.com</a>"
     }, 
     {
         "download": {
@@ -74549,7 +74549,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-shenandoah-fall-14381-3301515122010.jpg"
             ]
         }, 
-        "desc": "Notes: My version of Shenandoah Falls.\nDoes anyone know the origins of this tune?\nThanks Dennis Havlena  dhavlena@gmail.com\nwww.DennisHavlena.com"
+        "desc": "Notes: My version of Shenandoah Falls.\nDoes anyone know the origins of this tune?\nThanks Dennis Havlena  dhavlena@gmail.com\n<a href=\"http://www.DennisHavlena.com\" target=\"_blank\">www.DennisHavlena.com</a>"
     }, 
     {
         "last_updated": "2012-06-06T04:59:00", 
@@ -74567,7 +74567,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-shenandoah-fall-17397-1735662012.jpg"
             ]
         }, 
-        "desc": "Notes: My version of Shenandoah Falls based upon the ABC notation found here: http://abcnotation.com/tunePage?a=www.math.dartmouth.edu/~doyle/docs/waugh/w1/0073\n\nFeedback and changes welcome."
+        "desc": "Notes: My version of Shenandoah Falls based upon the ABC notation found here: <a href=\"http://abcnotation.com/tunePage?a=www.math.dartmouth.edu/~doyle/docs/waugh/w1/0073\" target=\"_blank\">http://abcnotation.com/tunePage?a=www.math.dartmouth.edu/~doyle/docs/waugh/w1/0073</a>\n\nFeedback and changes welcome."
     }, 
     {
         "download": {
@@ -74858,7 +74858,7 @@ var TABS = [
     }, 
     {
         "posted_by": "Buxton", 
-        "desc": "Notes: Video of the tabbed song is here: http://www.youtube.com/watch?v=0FgpQyk5ibw&feature=related\n\nNotes are accurate, timing may be a little off.", 
+        "desc": "Notes: Video of the tabbed song is here: <a href=\"http://www.youtube.com/watch?v=0FgpQyk5ibw&amp;feature=related\" target=\"_blank\">http://www.youtube.com/watch?v=0FgpQyk5ibw&amp;feature=related</a>\n\nNotes are accurate, timing may be a little off.", 
         "last_updated": "2010-10-05T22:55:00", 
         "meta": {
             "genre": "Bluegrass", 
@@ -74883,7 +74883,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-shortnin-bread-19557-4848917102013.pdf"
             ]
         }, 
-        "desc": "Notes: This tab goes with this lesson: http://www.banjohangout.org/blog/30853"
+        "desc": "Notes: This tab goes with this lesson: <a href=\"http://www.banjohangout.org/blog/30853\" target=\"_blank\">http://www.banjohangout.org/blog/30853</a>"
     }, 
     {
         "download": {
@@ -75052,7 +75052,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-shto-mi-e-milo-16685-4132102612012.pdf"
             ]
         }, 
-        "desc": "Notes: Here's the Yale Women's Slavic Chorus singing this at the Parents' Weekend concert in the fall of 2010. I was \"there\" for this, but as we were running late, I dropped off Madame and spent the next 45 minutes driving around New Haven looking for a parking spot, then running around campus asking for directions, finally dashing up just as everyone was leaving!\n\nhttp://youtu.be/4jV6rNuorxM"
+        "desc": "Notes: Here's the Yale Women's Slavic Chorus singing this at the Parents' Weekend concert in the fall of 2010. I was \"there\" for this, but as we were running late, I dropped off Madame and spent the next 45 minutes driving around New Haven looking for a parking spot, then running around campus asking for directions, finally dashing up just as everyone was leaving!\n\n<a href=\"http://youtu.be/4jV6rNuorxM\" target=\"_blank\">http://youtu.be/4jV6rNuorxM</a>"
     }, 
     {
         "download": {
@@ -75125,7 +75125,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-shuckin-the-cor-20833-34153112014.tef"
             ]
         }, 
-        "desc": "Notes: For our TOTW (http://www.banjohangout.org/topic/293881) from Jack Baker."
+        "desc": "Notes: For our TOTW (<a href=\"http://www.banjohangout.org/topic/293881\" target=\"_blank\">http://www.banjohangout.org/topic/293881</a>) from Jack Baker."
     }, 
     {
         "last_updated": "2014-11-03T15:03:00", 
@@ -75143,7 +75143,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-shuckin-the-cor-20832-283153112014.tef"
             ]
         }, 
-        "desc": "Notes: For our TOTW (http://www.banjohangout.org/topic/293881/) from Jack Baker."
+        "desc": "Notes: For our TOTW (<a href=\"http://www.banjohangout.org/topic/293881/\" target=\"_blank\">http://www.banjohangout.org/topic/293881/</a>) from Jack Baker."
     }, 
     {
         "last_updated": "2010-11-26T14:58:00", 
@@ -75214,7 +75214,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sift-the-meal-a-21859-274014942016.gpx"
             ]
         }, 
-        "desc": "Notes: This is my Bluegrass version of an old fiddle tune I learned from my friend Wilson Mabe. There's more information in this archived topic here: http://www.banjohangout.org/archive/287141"
+        "desc": "Notes: This is my Bluegrass version of an old fiddle tune I learned from my friend Wilson Mabe. There's more information in this archived topic here: <a href=\"http://www.banjohangout.org/archive/287141\" target=\"_blank\">http://www.banjohangout.org/archive/287141</a>"
     }, 
     {
         "download": {
@@ -76601,7 +76601,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-snake-chapmans--22065-315481482016.tef"
             ]
         }, 
-        "desc": "Notes: This tune was re-named from Home with the Girls in the Morning, popularized by the great Texas fiddler and band leader Bob Wills.  Interesting history is found on the old-time Tune of the Week on Banjo Hangout:  http://www.banjohangout.org/topic/321609.\n\nAnother title is Won't Come Home Until Morning as played by Greg Hooven."
+        "desc": "Notes: This tune was re-named from Home with the Girls in the Morning, popularized by the great Texas fiddler and band leader Bob Wills.  Interesting history is found on the old-time Tune of the Week on Banjo Hangout:  <a href=\"http://www.banjohangout.org/topic/321609\" target=\"_blank\">http://www.banjohangout.org/topic/321609</a>.\n\nAnother title is Won't Come Home Until Morning as played by Greg Hooven."
     }, 
     {
         "download": {
@@ -76697,7 +76697,7 @@ var TABS = [
                 "http://www.taterjoes.com/banjo/SnoutsAndEarsOfAmerica.pdf"
             ]
         }, 
-        "desc": "Notes: www.taterjoes.com"
+        "desc": "Notes: <a href=\"http://www.taterjoes.com\" target=\"_blank\">www.taterjoes.com</a>"
     }, 
     {
         "play": {
@@ -76886,7 +76886,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sockeye-12328-59412122112009.tef"
             ]
         }, 
-        "desc": "Notes: Here is an example of what I offer from my site at http://www.leemarcusmusic.webs.com/"
+        "desc": "Notes: Here is an example of what I offer from my site at <a href=\"http://www.leemarcusmusic.webs.com/\" target=\"_blank\">http://www.leemarcusmusic.webs.com/</a>"
     }, 
     {
         "last_updated": "2011-10-25T06:59:00", 
@@ -77048,7 +77048,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-soldiers-joy-11775-233115692009.tef"
             ]
         }, 
-        "desc": "Notes: I was messing around, playing fiddle tunes in the wrong keys, and I figured out that Soldier's Joy works very well in the key of \"F\". So here it is. Careful at jams :P Complete with Rhythm Guitar & Bass backup tracks. Uses a couple unorthodox techniques, such as \"cross-picking\" (crossing one right-hand finger over another) & dropping the middle finger inside. Have fun!"
+        "desc": "Notes: I was messing around, playing fiddle tunes in the wrong keys, and I figured out that Soldier's Joy works very well in the key of \"F\". So here it is. Careful at jams :P Complete with Rhythm Guitar &amp; Bass backup tracks. Uses a couple unorthodox techniques, such as \"cross-picking\" (crossing one right-hand finger over another) &amp; dropping the middle finger inside. Have fun!"
     }, 
     {
         "download": {
@@ -77340,7 +77340,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-somebody-touche-12327-11412122112009.tef"
             ]
         }, 
-        "desc": "Notes: Here is an example of what I offer from my site at http://www.leemarcusmusic.webs.com/"
+        "desc": "Notes: Here is an example of what I offer from my site at <a href=\"http://www.leemarcusmusic.webs.com/\" target=\"_blank\">http://www.leemarcusmusic.webs.com/</a>"
     }, 
     {
         "last_updated": "2013-07-18T10:48:00", 
@@ -77643,7 +77643,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-somewhere-over--21822-5010111732016.tef"
             ]
         }, 
-        "desc": "Notes: A simple version of (Somewhere) Over The Rainbow as I played it many years ago when I was 15. https://www.youtube.com/watch?v=mF7PDuKOOhA"
+        "desc": "Notes: A simple version of (Somewhere) Over The Rainbow as I played it many years ago when I was 15. <a href=\"https://www.youtube.com/watch?v=mF7PDuKOOhA\" target=\"_blank\">https://www.youtube.com/watch?v=mF7PDuKOOhA</a>"
     }, 
     {
         "download": {
@@ -77915,7 +77915,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sourwood-mounta-21113-9912232015.tef"
             ]
         }, 
-        "desc": "Notes: Tab by Jack Baker, for our Scruggs TOTW: http://www.banjohangout.org/topic/300249/"
+        "desc": "Notes: Tab by Jack Baker, for our Scruggs TOTW: <a href=\"http://www.banjohangout.org/topic/300249/\" target=\"_blank\">http://www.banjohangout.org/topic/300249/</a>"
     }, 
     {
         "download": {
@@ -78333,7 +78333,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-splendid-isolat-22062-4849111282016.jpg"
             ]
         }, 
-        "desc": "Notes: Played here on a cello banjo. This tune was composed in the 1970s by Brendan McGlinchey in a pub in Dublin while drinking coffee waiting for a flight to London after a two week trip around Ireland with friends had gone very badly. Here is a video of McGlinchey playing it first as and air and next as a reel:  http://youtu.be/d9xnvijV7Y4"
+        "desc": "Notes: Played here on a cello banjo. This tune was composed in the 1970s by Brendan McGlinchey in a pub in Dublin while drinking coffee waiting for a flight to London after a two week trip around Ireland with friends had gone very badly. Here is a video of McGlinchey playing it first as and air and next as a reel:  <a href=\"http://youtu.be/d9xnvijV7Y4\" target=\"_blank\">http://youtu.be/d9xnvijV7Y4</a>"
     }, 
     {
         "play": {
@@ -78435,7 +78435,7 @@ var TABS = [
             "tuning": "aDGBD", 
             "key": "D"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "play": {
@@ -78594,7 +78594,7 @@ var TABS = [
                 "http://seanray.com/2012/squirrel-hunters/?category_name=blog"
             ]
         }, 
-        "desc": "Notes: (Free PDF & TablEdit)\n\nHere is my arrangement of this old fiddle tune which is not very popular amongst Scruggs style banjo players. This is probably due to the fact that it's a bit tricky to play. The harmonic structure over the A chords implies an Em tonality which creates an interesting tension.\n\n"
+        "desc": "Notes: (Free PDF &amp; TablEdit)\n\nHere is my arrangement of this old fiddle tune which is not very popular amongst Scruggs style banjo players. This is probably due to the fact that it's a bit tricky to play. The harmonic structure over the A chords implies an Em tonality which creates an interesting tension.\n\n"
     }, 
     {
         "last_updated": "2009-09-14T03:10:00", 
@@ -78744,7 +78744,7 @@ var TABS = [
             "tuning": "aDGBD", 
             "key": "D"
         }, 
-        "desc": "Notes: Visit my site at www.StewartTylerMay.com for more melodic clawhammer tabs."
+        "desc": "Notes: Visit my site at <a href=\"http://www.StewartTylerMay.com\" target=\"_blank\">www.StewartTylerMay.com</a> for more melodic clawhammer tabs."
     }, 
     {
         "play": {
@@ -78768,7 +78768,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-st-annes-reel-20454-534213952014.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for our BG TOTW: http://www.banjohangout.org/topic/284564"
+        "desc": "Notes: From Jack Baker, for our BG TOTW: <a href=\"http://www.banjohangout.org/topic/284564\" target=\"_blank\">http://www.banjohangout.org/topic/284564</a>"
     }, 
     {
         "last_updated": "2016-03-06T06:36:00", 
@@ -78953,7 +78953,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-star-of-county--15931-1035212092011.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "last_updated": "2011-11-14T08:08:00", 
@@ -79006,7 +79006,7 @@ var TABS = [
             "style": "Clawhammer and Old-Time", 
             "key": "Am"
         }, 
-        "desc": "Notes: Played as a waltz. Tuning is aEACE (Gm capo 2). Tab by Mike Iverson is available at http://www.bluesageband.com/Tabs.html"
+        "desc": "Notes: Played as a waltz. Tuning is aEACE (Gm capo 2). Tab by Mike Iverson is available at <a href=\"http://www.bluesageband.com/Tabs.html\" target=\"_blank\">http://www.bluesageband.com/Tabs.html</a>"
     }, 
     {
         "download": {
@@ -79160,7 +79160,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-stay-a-little-l-16178-29251426102011.tef"
             ]
         }, 
-        "desc": "Notes: A melodic break played by Allen Shelton with Jim & Jesse"
+        "desc": "Notes: A melodic break played by Allen Shelton with Jim &amp; Jesse"
     }, 
     {
         "last_updated": "2013-09-03T14:24:00", 
@@ -80338,7 +80338,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sunny-side-of-t-18661-294311552013.tef"
             ]
         }, 
-        "desc": "Notes: 2nd break (~3:18) by J.D. Crowe with the Grascals in this video: http://www.youtube.com/watch?v=_IE2gLELpBc"
+        "desc": "Notes: 2nd break (~3:18) by J.D. Crowe with the Grascals in this video: <a href=\"http://www.youtube.com/watch?v=_IE2gLELpBc\" target=\"_blank\">http://www.youtube.com/watch?v=_IE2gLELpBc</a>"
     }, 
     {
         "last_updated": "2014-11-10T09:43:00", 
@@ -80915,7 +80915,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-sweet-georgia-b-19948-146920122013.pdf"
             ]
         }, 
-        "desc": "Notes: This accompanies this tenor banjo lesson from Mike Currao: http://www.banjohangout.org/blog/31101"
+        "desc": "Notes: This accompanies this tenor banjo lesson from Mike Currao: <a href=\"http://www.banjohangout.org/blog/31101\" target=\"_blank\">http://www.banjohangout.org/blog/31101</a>"
     }, 
     {
         "download": {
@@ -81136,7 +81136,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/s/tab-swing-low-sweet-17185-1210152642012.tef"
             ]
         }, 
-        "desc": "Notes: Both High & Low breaks!"
+        "desc": "Notes: Both High &amp; Low breaks!"
     }, 
     {
         "last_updated": "2013-12-31T17:13:00", 
@@ -81359,7 +81359,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/d/tab-tab-down-beside-14647-555101922011.tef"
             ]
         }, 
-        "desc": "Notes: I have read that Obray plays a two figure style, but \"Down Beside The Ohio\" sounds closer to the recording when you use three finger rolls. I also love the way Obray just vamps on the verses allowing plenty of room for the vocal performance to shine through, and also allowing for the theme to used repetitively through out the song as solo breaks.  I have just tabbed the intro, partly cos I only have a demo version of tab edit, and partly cos the  instrumental breaks are just variations of this and he simply vamps the verses, using open G, D7 and C chords.\n\nTab featured on my UK blog : http://banjosarecool.blogspot.com/2011/01/tab-down-beside-ohio-as-recorded-by.html"
+        "desc": "Notes: I have read that Obray plays a two figure style, but \"Down Beside The Ohio\" sounds closer to the recording when you use three finger rolls. I also love the way Obray just vamps on the verses allowing plenty of room for the vocal performance to shine through, and also allowing for the theme to used repetitively through out the song as solo breaks.  I have just tabbed the intro, partly cos I only have a demo version of tab edit, and partly cos the  instrumental breaks are just variations of this and he simply vamps the verses, using open G, D7 and C chords.\n\nTab featured on my UK blog : <a href=\"http://banjosarecool.blogspot.com/2011/01/tab-down-beside-ohio-as-recorded-by.html\" target=\"_blank\">http://banjosarecool.blogspot.com/2011/01/tab-down-beside-ohio-as-recorded-by.html</a>"
     }, 
     {
         "last_updated": "2014-07-25T22:10:00", 
@@ -81391,7 +81391,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-tabledit-guitar-20263-55472452014.tef"
             ]
         }, 
-        "desc": "Notes: All Major minor and & 7th Chords"
+        "desc": "Notes: All Major minor and &amp; 7th Chords"
     }, 
     {
         "last_updated": "2010-11-18T17:55:00", 
@@ -81477,7 +81477,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-take-me-home--c-16560-145512612012.pdf"
             ]
         }, 
-        "desc": "Notes: This was a free download from the Jay Buckey site. www.jaybuckey.com\nI got it probably 6 or 7 years ago not long after I started.\nI can heartily recommend Jay's work as I have bought a few of his books over the years."
+        "desc": "Notes: This was a free download from the Jay Buckey site. <a href=\"http://www.jaybuckey.com\" target=\"_blank\">www.jaybuckey.com</a>\nI got it probably 6 or 7 years ago not long after I started.\nI can heartily recommend Jay's work as I have bought a few of his books over the years."
     }, 
     {
         "download": {
@@ -81515,7 +81515,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-take-me-in-a-li-20871-39221324112014.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for our TOTW: http://www.banjohangout.org/topic/294944"
+        "desc": "Notes: From Jack Baker, for our TOTW: <a href=\"http://www.banjohangout.org/topic/294944\" target=\"_blank\">http://www.banjohangout.org/topic/294944</a>"
     }, 
     {
         "last_updated": "2011-11-26T11:39:00", 
@@ -81623,7 +81623,7 @@ var TABS = [
                 "http://banjochrille.com/media/Take-Your-Pick-Banjochrille-Arrangment.pdf"
             ]
         }, 
-        "desc": "Notes: Chrille's Hot & Jazzy Melodies For The Tenor Banjo Vol. I is my first tenor banjo song book, in which I have arranged my favourite tenor banjo tunes. It is a sheet music book from a banjoist for other banjoists. These are the songs: Banjomania (Pete Madell), Bye Bye Blues (Traditional Jazz & Banjo Classic), I'll Get By (Turk & Ahlert), Marie (Irving Berlin), Pals, Just Pals (Dreyer & Ruby) & Take Your Pick (Pete Mandell). Here you have the chance to look inside the book and try to play an example page of \"Take Your Pick\".\n\nAs always you have a CD with jazzy piano accompaniments for every song in three different speed levels. The perfect rhythm partner to play a long.\n\nBanjopower!\n\nPlease visit: www.banjochrille.com\n\nContact: mail@banjochrille.com"
+        "desc": "Notes: Chrille's Hot &amp; Jazzy Melodies For The Tenor Banjo Vol. I is my first tenor banjo song book, in which I have arranged my favourite tenor banjo tunes. It is a sheet music book from a banjoist for other banjoists. These are the songs: Banjomania (Pete Madell), Bye Bye Blues (Traditional Jazz &amp; Banjo Classic), I'll Get By (Turk &amp; Ahlert), Marie (Irving Berlin), Pals, Just Pals (Dreyer &amp; Ruby) &amp; Take Your Pick (Pete Mandell). Here you have the chance to look inside the book and try to play an example page of \"Take Your Pick\".\n\nAs always you have a CD with jazzy piano accompaniments for every song in three different speed levels. The perfect rhythm partner to play a long.\n\nBanjopower!\n\nPlease visit: <a href=\"http://www.banjochrille.com\" target=\"_blank\">www.banjochrille.com</a>\n\nContact: mail@banjochrille.com"
     }, 
     {
         "download": {
@@ -81759,7 +81759,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-tarantella-22-22455-5849101742017.pdf"
             ]
         }, 
-        "desc": "Notes: This is a Melodic version of how I hear the tune Tarantella by Antonio Calsolaro inspired by this thread: http://www.banjohangout.org/topic/328414, from this video: https://www.youtube.com/watch?v=5FlNBuS7YgM. It is pretty difficult, not sure I would classify it Expert, but it's definitely not Intermediate. Have fun with it."
+        "desc": "Notes: This is a Melodic version of how I hear the tune Tarantella by Antonio Calsolaro inspired by this thread: <a href=\"http://www.banjohangout.org/topic/328414\" target=\"_blank\">http://www.banjohangout.org/topic/328414</a>, from this video: <a href=\"https://www.youtube.com/watch?v=5FlNBuS7YgM\" target=\"_blank\">https://www.youtube.com/watch?v=5FlNBuS7YgM</a>. It is pretty difficult, not sure I would classify it Expert, but it's definitely not Intermediate. Have fun with it."
     }, 
     {
         "download": {
@@ -82028,7 +82028,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-temperance-reel-12661-424115412010.tef"
             ]
         }, 
-        "desc": "Notes: Here is a popular Irish tune that enjoys remarkable popularity among Bluegrass & Old-time musicians as well, Temperance (Teetotaller's) Reel. Although a good portion of the tune is in E minor, both parts end on a G chord, thus follows that it is in G major. Not quite a straight-forward piece, as I strove to include some of the little fiddle \"rolls\" in the tune, consisting of very quick hammer-on & pull-offs, as well as some hammer-ons & pull-offs where the melody goes below the low G string. Melodic style, with a couple instances of single-string. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is a popular Irish tune that enjoys remarkable popularity among Bluegrass &amp; Old-time musicians as well, Temperance (Teetotaller's) Reel. Although a good portion of the tune is in E minor, both parts end on a G chord, thus follows that it is in G major. Not quite a straight-forward piece, as I strove to include some of the little fiddle \"rolls\" in the tune, consisting of very quick hammer-on &amp; pull-offs, as well as some hammer-ons &amp; pull-offs where the melody goes below the low G string. Melodic style, with a couple instances of single-string. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "last_updated": "2012-05-14T17:17:00", 
@@ -82136,7 +82136,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-teetotaller-20615-403461472014.jpg"
             ]
         }, 
-        "desc": "Notes: This transcription is pretty close to the setting I used for Mel Bay's Complete Book of Irish & Celtic 5-String Banjo (1998). The notes are the same, but the fingerings are slightly different."
+        "desc": "Notes: This transcription is pretty close to the setting I used for Mel Bay's Complete Book of Irish &amp; Celtic 5-String Banjo (1998). The notes are the same, but the fingerings are slightly different."
     }, 
     {
         "download": {
@@ -82999,7 +82999,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-broken-drou-21306-3545202742015.jpg"
             ]
         }, 
-        "desc": "Notes: I've been getting a lot of emails about this lately, so I've decided to upload my tab for Noam Pikelny's \"The Broken Drought.\"\n\nTab was made from this video: https://www.youtube.com/watch?v=Z9pBB-bcPME"
+        "desc": "Notes: I've been getting a lot of emails about this lately, so I've decided to upload my tab for Noam Pikelny's \"The Broken Drought.\"\n\nTab was made from this video: <a href=\"https://www.youtube.com/watch?v=Z9pBB-bcPME\" target=\"_blank\">https://www.youtube.com/watch?v=Z9pBB-bcPME</a>"
     }, 
     {
         "last_updated": "2017-04-28T16:59:00", 
@@ -83038,7 +83038,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-buffalo-rag-21691-47541212016.pdf"
             ]
         }, 
-        "desc": "Notes: This is a an arrangement of one of Tom Turpin's six published rags. There is a recording made in 1906 by Vess Osman available in the Library of Congress National Jukebox.\n\nhttp://adp.library.ucsb.edu/index.php/matrix/detail/200004556/B-3049-The_Buffalo_rag\n\nIt's written in classic banjo style an uses gCGBD tuning. It's also in standard notation as I don't use tab but I have added fret numbers in parts to make it easier to work out.\n\nI'll upload an mp3 or midi of this arrangement, I've used the piano voice as the electron banjo voice sounds pretty awful."
+        "desc": "Notes: This is a an arrangement of one of Tom Turpin's six published rags. There is a recording made in 1906 by Vess Osman available in the Library of Congress National Jukebox.\n\n<a href=\"http://adp.library.ucsb.edu/index.php/matrix/detail/200004556/B-3049-The_Buffalo_rag\" target=\"_blank\">http://adp.library.ucsb.edu/index.php/matrix/detail/200004556/B-3049-The_Buffalo_rag</a>\n\nIt's written in classic banjo style an uses gCGBD tuning. It's also in standard notation as I don't use tab but I have added fret numbers in parts to make it easier to work out.\n\nI'll upload an mp3 or midi of this arrangement, I've used the piano voice as the electron banjo voice sounds pretty awful."
     }, 
     {
         "last_updated": "2010-11-05T13:55:00", 
@@ -83449,7 +83449,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-crow-20667-474481982014.tef"
             ]
         }, 
-        "desc": "Notes: For our TOTW http://www.banjohangout.org/topic/289975/ from Jack Baker"
+        "desc": "Notes: For our TOTW <a href=\"http://www.banjohangout.org/topic/289975/\" target=\"_blank\">http://www.banjohangout.org/topic/289975/</a> from Jack Baker"
     }, 
     {
         "last_updated": "2016-09-27T10:07:00", 
@@ -83937,7 +83937,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-funs-all-ov-21985-3254131272016.gpx"
             ]
         }, 
-        "desc": "Notes: I came across this tune on YouTube while doing a search for Tennessee Wagoner. It shouldn't be confused with The Fiddler's Drunk And The Fun's All Over which is apparently a completely different tune. Here's link to the video\nhttps://www.youtube.com/watch?v=nduSWPoVJPc"
+        "desc": "Notes: I came across this tune on YouTube while doing a search for Tennessee Wagoner. It shouldn't be confused with The Fiddler's Drunk And The Fun's All Over which is apparently a completely different tune. Here's link to the video\n<a href=\"https://www.youtube.com/watch?v=nduSWPoVJPc\" target=\"_blank\">https://www.youtube.com/watch?v=nduSWPoVJPc</a>"
     }, 
     {
         "last_updated": "2015-04-27T07:11:00", 
@@ -84498,7 +84498,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-kruger-brot-22174-382562992016.gpx"
             ]
         }, 
-        "desc": "Notes: Not sure what this song is called. Only ever found it on Youtube:\n\nhttps://youtu.be/O8qqrnvYU0c?t=6m19s"
+        "desc": "Notes: Not sure what this song is called. Only ever found it on Youtube:\n\n<a href=\"https://youtu.be/O8qqrnvYU0c?t=6m19s\" target=\"_blank\">https://youtu.be/O8qqrnvYU0c?t=6m19s</a>"
     }, 
     {
         "last_updated": "2013-09-13T03:35:00", 
@@ -85049,7 +85049,7 @@ var TABS = [
                 "http://banjochrille.com/media/The-Monkey-Dance-Banjochrille-Arrangment.pdf"
             ]
         }, 
-        "desc": "Notes: In these special issue, you have fantastic monkey sounding tunes, like \"Down In Jungle Town\", \"Monkey Business\", \"The Monkey Dance\", \"Tiger Rag\" and many more... As always a piano accompaniment on CD in three different speed levels gives you wonderful backing tracks. Banjopower! To get to know what the \"Monkey Rhythm\" and \"Djungle Sound\" sounds like, you can try an example page of my favourite apesville tunes \"The Monkey Dance\".\n\nWith Piano accompaniments on CD in three different speed levels for each song.\n\nPlease visit: www.banjochrille.com\n\nContact: mail@banjochrille.com"
+        "desc": "Notes: In these special issue, you have fantastic monkey sounding tunes, like \"Down In Jungle Town\", \"Monkey Business\", \"The Monkey Dance\", \"Tiger Rag\" and many more... As always a piano accompaniment on CD in three different speed levels gives you wonderful backing tracks. Banjopower! To get to know what the \"Monkey Rhythm\" and \"Djungle Sound\" sounds like, you can try an example page of my favourite apesville tunes \"The Monkey Dance\".\n\nWith Piano accompaniments on CD in three different speed levels for each song.\n\nPlease visit: <a href=\"http://www.banjochrille.com\" target=\"_blank\">www.banjochrille.com</a>\n\nContact: mail@banjochrille.com"
     }, 
     {
         "download": {
@@ -85308,7 +85308,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-old-home-pl-13630-4212191472010.tef"
             ]
         }, 
-        "desc": "Notes: This is my first attempt at TablEdit. This is pretty close to J.D. Crowe's 1975 recording of The Old Home Place, with The New South. This is the first opening break. Standard open G tuning. (capo 3rd fret)\nEnjoy,\nJohn Pospischil, 2010\nwww.fellswoopband.com"
+        "desc": "Notes: This is my first attempt at TablEdit. This is pretty close to J.D. Crowe's 1975 recording of The Old Home Place, with The New South. This is the first opening break. Standard open G tuning. (capo 3rd fret)\nEnjoy,\nJohn Pospischil, 2010\n<a href=\"http://www.fellswoopband.com\" target=\"_blank\">www.fellswoopband.com</a>"
     }, 
     {
         "download": {
@@ -85806,7 +85806,7 @@ var TABS = [
                 "http://banjochrille.com/media/The-Savoy-Rag-Banjochrille-Arrangment.pdf"
             ]
         }, 
-        "desc": "Notes: \"The Plectrum Folio\" includes popular classics for the plectrum banjo. Songs, like \"Somebody Stale My Gal\", \"Take Your Pick\", \"The Savoy Rag\", \" I Cannot Give You Anything But Love\", \"Foochow's Shanghai\" and \"Banjomania\" are playable arranged. Here you can try an example page of \"The Savoy Rag\".\n\nAs always you have a piano accompaniment on CD in three different speed levels. Please visit: www.banjochrille.com Contact: mail@banjochrille.com"
+        "desc": "Notes: \"The Plectrum Folio\" includes popular classics for the plectrum banjo. Songs, like \"Somebody Stale My Gal\", \"Take Your Pick\", \"The Savoy Rag\", \" I Cannot Give You Anything But Love\", \"Foochow's Shanghai\" and \"Banjomania\" are playable arranged. Here you can try an example page of \"The Savoy Rag\".\n\nAs always you have a piano accompaniment on CD in three different speed levels. Please visit: <a href=\"http://www.banjochrille.com\" target=\"_blank\">www.banjochrille.com</a> Contact: mail@banjochrille.com"
     }, 
     {
         "last_updated": "2012-05-14T17:14:00", 
@@ -85842,7 +85842,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-silver-spir-20606-18498772014.jpg"
             ]
         }, 
-        "desc": "Notes: Here's the very popular reel which I played up-the-neck at slow speed for beginners on Easy Irish and Celtic Session Tunes for 5-String Banjo: Best-Loved Jigs and Reels. This tablature is slightly different from how it is transcribed and played in that collection, but the notes are the same. Please find my Mel Bay Celtic collections (200 tunes) here: http://www.melbay.com/Author/Default.aspx?AuthorId=37876"
+        "desc": "Notes: Here's the very popular reel which I played up-the-neck at slow speed for beginners on Easy Irish and Celtic Session Tunes for 5-String Banjo: Best-Loved Jigs and Reels. This tablature is slightly different from how it is transcribed and played in that collection, but the notes are the same. Please find my Mel Bay Celtic collections (200 tunes) here: <a href=\"http://www.melbay.com/Author/Default.aspx?AuthorId=37876\" target=\"_blank\">http://www.melbay.com/Author/Default.aspx?AuthorId=37876</a>"
     }, 
     {
         "play": {
@@ -85906,7 +85906,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-south-wind--15943-543202392011.pdf"
             ]
         }, 
-        "desc": null
+        "desc": "None"
     }, 
     {
         "play": {
@@ -85978,7 +85978,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-star-of-mun-15175-266151652011.jpg"
             ]
         }, 
-        "desc": "Notes: This classic Irish reel is in A Dorian mode, not A minor.  It's from my first self-published book, 25 Traditional Irish & Celtic Tunes for the Bluegrass Banjo Player (1994)."
+        "desc": "Notes: This classic Irish reel is in A Dorian mode, not A minor.  It's from my first self-published book, 25 Traditional Irish &amp; Celtic Tunes for the Bluegrass Banjo Player (1994)."
     }, 
     {
         "play": {
@@ -86099,7 +86099,7 @@ var TABS = [
                 "http://www.heathjoyce.com/free-tabs-videos/"
             ]
         }, 
-        "desc": "Notes: Melodic version in standard tuning. Video lesson can be viewed here: https://www.youtube.com/watch?v=CWbZBXTLQVk&list=PLCjqFknWF4yGXhT_xx2mB1VTJ1TiVjIi-"
+        "desc": "Notes: Melodic version in standard tuning. Video lesson can be viewed here: <a href=\"https://www.youtube.com/watch?v=CWbZBXTLQVk&amp;list=PLCjqFknWF4yGXhT_xx2mB1VTJ1TiVjIi-\" target=\"_blank\">https://www.youtube.com/watch?v=CWbZBXTLQVk&amp;list=PLCjqFknWF4yGXhT_xx2mB1VTJ1TiVjIi-</a>"
     }, 
     {
         "download": {
@@ -86514,7 +86514,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-the-world-is-wa-12855-4514132612010.tef"
             ]
         }, 
-        "desc": "Notes: Here's an old pop/jazz standard from the 40's (me thinks?), \"The World Is Waiting For The Sunrise\" arranged for \u2014 wait for it... \u2014 Twin Banjos! There are two breaks, on both breaks Banjo #1 plays the melody, and Banjo #2 does harmony. But on the first, the harmony part is a low harmony \u2014 Baritone banjo, if you will \u2014 and on the second, there's a high harmony, or \"tenor\" banjo (not the 4 string kind with 17 or 19 frets!). I would say that the melody part can be played admirably as a single banjo piece. If doing \"The World Is Waiting For The Sunrise\" as a duet, make sure you follow the tab *exactly* for the best possible sound. If you improvise a little, the banjos can clash. Hopefully this will also inspire more banjo duets with harmony. If you're feeling really bold, try getting your buddies to do lead, baritone, AND tenor \u2014 TRIPLE banjos! It does work, and sounds cool, although the melody gets buried in the harmony. The second Tabledit file has the Triple banjo parts. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here's an old pop/jazz standard from the 40's (me thinks?), \"The World Is Waiting For The Sunrise\" arranged for \u2014 wait for it... \u2014 Twin Banjos! There are two breaks, on both breaks Banjo #1 plays the melody, and Banjo #2 does harmony. But on the first, the harmony part is a low harmony \u2014 Baritone banjo, if you will \u2014 and on the second, there's a high harmony, or \"tenor\" banjo (not the 4 string kind with 17 or 19 frets!). I would say that the melody part can be played admirably as a single banjo piece. If doing \"The World Is Waiting For The Sunrise\" as a duet, make sure you follow the tab *exactly* for the best possible sound. If you improvise a little, the banjos can clash. Hopefully this will also inspire more banjo duets with harmony. If you're feeling really bold, try getting your buddies to do lead, baritone, AND tenor \u2014 TRIPLE banjos! It does work, and sounds cool, although the melody gets buried in the harmony. The second Tabledit file has the Triple banjo parts. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "download": {
@@ -86607,7 +86607,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-theme-time-20609-321216972014.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for our TOTW: http://www.banjohangout.org/topic/287532/"
+        "desc": "Notes: From Jack Baker, for our TOTW: <a href=\"http://www.banjohangout.org/topic/287532/\" target=\"_blank\">http://www.banjohangout.org/topic/287532/</a>"
     }, 
     {
         "last_updated": "2015-08-27T10:00:00", 
@@ -86733,7 +86733,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-therell-never-b-21023-3636182212015.pdf"
             ]
         }, 
-        "desc": "Notes: This is the tablature for my banjo intro for the song \"There'll Never Be Another You,\" which was co-written by me and my dad, and is on the 2014 Bluegrass Express project \"In Our Own Words.\"  I felt like this song could've been on the \"Jim & Jesse Today\" album, so I made use of some of my favorite Allen Shelton licks.\n\n\"The Road Ends,\" which is the first single from the project, can be heard in my mp3 archive.  The full album can be ordered at www.bluegrassexpressband.com."
+        "desc": "Notes: This is the tablature for my banjo intro for the song \"There'll Never Be Another You,\" which was co-written by me and my dad, and is on the 2014 Bluegrass Express project \"In Our Own Words.\"  I felt like this song could've been on the \"Jim &amp; Jesse Today\" album, so I made use of some of my favorite Allen Shelton licks.\n\n\"The Road Ends,\" which is the first single from the project, can be heard in my mp3 archive.  The full album can be ordered at <a href=\"http://www.bluegrassexpressband.com\" target=\"_blank\">www.bluegrassexpressband.com</a>."
     }, 
     {
         "last_updated": "2011-08-20T15:02:00", 
@@ -86936,7 +86936,7 @@ var TABS = [
                 "http://banjoteacher.com/tablature/index.html"
             ]
         }, 
-        "desc": "Notes: An easy version of This Land is Your Land from the free tab page at BanjoTeacher.com\n"
+        "desc": "Notes: An easy version of This Land is Your Land from the free tab page at <a href=\"http://BanjoTeacher.com\" target=\"_blank\">BanjoTeacher.com</a>\n"
     }, 
     {
         "last_updated": "2013-08-08T07:50:00", 
@@ -86954,7 +86954,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-this-land-is-yo-19088-27507882013.pdf"
             ]
         }, 
-        "desc": "Notes: A simplified version of Woody Gutherie's classic. A more complex version can be heard, along with midi file, and a backup version @ Mike Iverson's Free Tab page:\nhttp://www.bluesageband.com/Tabs.html. I have no idea which key he plays in, but it's in the standard G tuning and it sounds good in any key."
+        "desc": "Notes: A simplified version of Woody Gutherie's classic. A more complex version can be heard, along with midi file, and a backup version @ Mike Iverson's Free Tab page:\n<a href=\"http://www.bluesageband.com/Tabs.html\" target=\"_blank\">http://www.bluesageband.com/Tabs.html</a>. I have no idea which key he plays in, but it's in the standard G tuning and it sounds good in any key."
     }, 
     {
         "last_updated": "2014-02-15T13:02:00", 
@@ -87109,7 +87109,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-through-the-gat-21498-53342792015.tef"
             ]
         }, 
-        "desc": "Notes: This is my melodic arrangement of a lovely tune by Russ Barenberg, which has recently been the theme tune for \"The Transatlantic Sessions\". It's a transcription of Russ Barenberg's initial guitar break, but due to the limited range of the banjo, it has to be played an octave higher. It's a trifle tricky in places and I have put the right hand fingering in the places where I feel one might struggle. This arrangement uses all of the neck, reaching the 19th fret in the B part. Very satisfying when it starts to flow! This tune is gaining a lot of popularity in the West Country (Devon & Cornwall) so let's get it out to the world to widen its appeal! Have fun!\nPS, it's in D and don't forget to spike the 5th to A!"
+        "desc": "Notes: This is my melodic arrangement of a lovely tune by Russ Barenberg, which has recently been the theme tune for \"The Transatlantic Sessions\". It's a transcription of Russ Barenberg's initial guitar break, but due to the limited range of the banjo, it has to be played an octave higher. It's a trifle tricky in places and I have put the right hand fingering in the places where I feel one might struggle. This arrangement uses all of the neck, reaching the 19th fret in the B part. Very satisfying when it starts to flow! This tune is gaining a lot of popularity in the West Country (Devon &amp; Cornwall) so let's get it out to the world to widen its appeal! Have fun!\nPS, it's in D and don't forget to spike the 5th to A!"
     }, 
     {
         "play": {
@@ -88007,7 +88007,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-train-45-backup-19505-4334166102013.tef"
             ]
         }, 
-        "desc": "Notes: Backup Tab for \"The Session Book\" - seanray.com"
+        "desc": "Notes: Backup Tab for \"The Session Book\" - <a href=\"http://seanray.com\" target=\"_blank\">seanray.com</a>"
     }, 
     {
         "download": {
@@ -88244,7 +88244,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-triplets-in-the-19426-312612792013.tef"
             ]
         }, 
-        "desc": "Notes: Supplementary TablEdit and MIDI file to the first post in the thread http://www.banjohangout.org/topic/270910"
+        "desc": "Notes: Supplementary TablEdit and MIDI file to the first post in the thread <a href=\"http://www.banjohangout.org/topic/270910\" target=\"_blank\">http://www.banjohangout.org/topic/270910</a>"
     }, 
     {
         "play": {
@@ -88263,7 +88263,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-triplets-in-the-19427-153412792013.tef"
             ]
         }, 
-        "desc": "Notes: Supplementary TablEdit and MIDI file to the second example (fourth post) in the thread http://www.banjohangout.org/topic/270910"
+        "desc": "Notes: Supplementary TablEdit and MIDI file to the second example (fourth post) in the thread <a href=\"http://www.banjohangout.org/topic/270910\" target=\"_blank\">http://www.banjohangout.org/topic/270910</a>"
     }, 
     {
         "last_updated": "2014-01-04T09:30:00", 
@@ -88545,7 +88545,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/t/tab-turkey-in-the-s-11877-174611792009.pdf"
             ]
         }, 
-        "desc": "Notes: This is basically Dock Boggs' version of Turkey in the Straw as played in his recordings he made in the 60s. If you play this to start you off, and then listen to the record to finish up the last little flourishes, you'll be on your way. I haven't put the fingering in, but I use all 3 fingers, mainly leading with the thumb and first finger. if you're stuck mail me on jerometurner77 at gmail.com"
+        "desc": "Notes: This is basically Dock Boggs' version of Turkey in the Straw as played in his recordings he made in the 60s. If you play this to start you off, and then listen to the record to finish up the last little flourishes, you'll be on your way. I haven't put the fingering in, but I use all 3 fingers, mainly leading with the thumb and first finger. if you're stuck mail me on jerometurner77 at <a href=\"http://gmail.com\" target=\"_blank\">gmail.com</a>"
     }, 
     {
         "download": {
@@ -89431,7 +89431,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/u/tab-under-the-doubl-12940-33718822010.tef"
             ]
         }, 
-        "desc": "Notes: Here is an old Austrian March-turned-country instrumental, \"Under The Double Eagle\", arranged for Banjo solo (with accompaniment). I have included all the original parts (to my knowledge) in this version, with an intro and 4 parts. The intro and first 2 parts are in C, the 3rd part is in F, and the 4th part is in Bb, ending with a repeat of the 2nd part (in C). This is arranged in a Reno style, although not a tablature of his playing of the tune (which he did admirably!). It's fairly difficult, as one would expect with the key changes. Has a Rhythm Guitar & Bass rhythm track. Have fun!"
+        "desc": "Notes: Here is an old Austrian March-turned-country instrumental, \"Under The Double Eagle\", arranged for Banjo solo (with accompaniment). I have included all the original parts (to my knowledge) in this version, with an intro and 4 parts. The intro and first 2 parts are in C, the 3rd part is in F, and the 4th part is in Bb, ending with a repeat of the 2nd part (in C). This is arranged in a Reno style, although not a tablature of his playing of the tune (which he did admirably!). It's fairly difficult, as one would expect with the key changes. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun!"
     }, 
     {
         "download": {
@@ -90168,7 +90168,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-wabash-cannonba-20438-5488652014.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker for our TOTW: http://www.banjohangout.org/topic/284169"
+        "desc": "Notes: From Jack Baker for our TOTW: <a href=\"http://www.banjohangout.org/topic/284169\" target=\"_blank\">http://www.banjohangout.org/topic/284169</a>"
     }, 
     {
         "download": {
@@ -90426,7 +90426,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-waiting-for-the-14700-4057152522011.tef"
             ]
         }, 
-        "desc": "Notes: More tabs at www.davehum.com"
+        "desc": "Notes: More tabs at <a href=\"http://www.davehum.com\" target=\"_blank\">www.davehum.com</a>"
     }, 
     {
         "download": {
@@ -91044,7 +91044,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-washed-in-the-b-19140-37952082013.tef"
             ]
         }, 
-        "desc": "Notes: Jim Pankey recently posted a great version of Washed In The Blood Of The Lamb to the video archive.  I wanted to learn it, so I tabbed it out.  He gave me permission to share the tab.\n\nHighly recommend you listen closely to the video to really capture the way he plays it.  He has a great way of accenting the syncopated notes that make this version come alive.\n\nVersion is here on YouTube: http://www.youtube.com/watch?v=kVEq0-xqqX8\n"
+        "desc": "Notes: Jim Pankey recently posted a great version of Washed In The Blood Of The Lamb to the video archive.  I wanted to learn it, so I tabbed it out.  He gave me permission to share the tab.\n\nHighly recommend you listen closely to the video to really capture the way he plays it.  He has a great way of accenting the syncopated notes that make this version come alive.\n\nVersion is here on YouTube: <a href=\"http://www.youtube.com/watch?v=kVEq0-xqqX8\" target=\"_blank\">http://www.youtube.com/watch?v=kVEq0-xqqX8</a>\n"
     }, 
     {
         "last_updated": "2009-11-11T17:25:00", 
@@ -91062,7 +91062,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-washington--lee-12203-24251811112009.tef"
             ]
         }, 
-        "desc": "Notes: A much better version of Washington & Lee Swing than my last, which had a lot of mistakes in it. This one is a completely banjo version, with 4 breaks, the last being a slight variation on the first. It does NOT include the second part, which is a throw-over from Don Reno's recordings of the tune (my inspiration) in which the key changes to G and the fiddle does the second part. It is in the key of C, standard G tuning. Has some funky rolls that I like to throw in there just to mess up banjo players and to make listeners say \"huh?\". I've always felt the timing in this tune had to be especially accurate to get it to sound good, so make sure you listen to one of Don Reno's recordings of it, as well as a jazz/western swing or marching band take on it. Has a Rhythm Guitar & Bass rhythm track. Have fun"
+        "desc": "Notes: A much better version of Washington &amp; Lee Swing than my last, which had a lot of mistakes in it. This one is a completely banjo version, with 4 breaks, the last being a slight variation on the first. It does NOT include the second part, which is a throw-over from Don Reno's recordings of the tune (my inspiration) in which the key changes to G and the fiddle does the second part. It is in the key of C, standard G tuning. Has some funky rolls that I like to throw in there just to mess up banjo players and to make listeners say \"huh?\". I've always felt the timing in this tune had to be especially accurate to get it to sound good, so make sure you listen to one of Don Reno's recordings of it, as well as a jazz/western swing or marching band take on it. Has a Rhythm Guitar &amp; Bass rhythm track. Have fun"
     }, 
     {
         "download": {
@@ -91241,7 +91241,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-waterfall-17108-191115842012.pdf"
             ]
         }, 
-        "desc": "Notes: British 89/90 indie rock band from manchester, shouid,ve been the biggest band in the world but split up. http://www.youtube.com/watch?v=yjb8omsM_Lc&list=UUc02NWLqkTMjS_L0CEa7tzw&index=1&feature=plcp this is how the tab should sound altho the pitch has been slightly changed to speed it up. dont listen to the singing tho its terrible"
+        "desc": "Notes: British 89/90 indie rock band from manchester, shouid,ve been the biggest band in the world but split up. <a href=\"http://www.youtube.com/watch?v=yjb8omsM_Lc&amp;list=UUc02NWLqkTMjS_L0CEa7tzw&amp;index=1&amp;feature=plcp\" target=\"_blank\">http://www.youtube.com/watch?v=yjb8omsM_Lc&amp;list=UUc02NWLqkTMjS_L0CEa7tzw&amp;index=1&amp;feature=plcp</a> this is how the tab should sound altho the pitch has been slightly changed to speed it up. dont listen to the singing tho its terrible"
     }, 
     {
         "download": {
@@ -91339,7 +91339,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-way-down-the-ol-19016-1628122982013.pdf"
             ]
         }, 
-        "desc": "Notes: My first attempt at Grandpa Jones \"Down the old Plank Road\" which I play along with often. This is a beginner version which can be improvised to include a lot more strumming rather than single note as noted. Lyrics included. For the chorus I use a long 2-4 slide on the 3rd string to for the word \"Won't\". Grandpa played in key of A, so capo 2 to match, and play around with the strumming. Grandpa Jones version can be heard @:\n\nhttp://www.youtube.com/watch?v=bi1tkL1ML4Q"
+        "desc": "Notes: My first attempt at Grandpa Jones \"Down the old Plank Road\" which I play along with often. This is a beginner version which can be improvised to include a lot more strumming rather than single note as noted. Lyrics included. For the chorus I use a long 2-4 slide on the 3rd string to for the word \"Won't\". Grandpa played in key of A, so capo 2 to match, and play around with the strumming. Grandpa Jones version can be heard @:\n\n<a href=\"http://www.youtube.com/watch?v=bi1tkL1ML4Q\" target=\"_blank\">http://www.youtube.com/watch?v=bi1tkL1ML4Q</a>"
     }, 
     {
         "download": {
@@ -92253,7 +92253,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-what-a-friend-w-17087-58165242012.tef"
             ]
         }, 
-        "desc": "Notes: Posted by BanjoMaw63 with permission from BanjoTom2, alias Tom Arri, in honor of Jesus for Easter 2012.\n\nJackie, Marketing Director for www.banjotom2.com"
+        "desc": "Notes: Posted by BanjoMaw63 with permission from BanjoTom2, alias Tom Arri, in honor of Jesus for Easter 2012.\n\nJackie, Marketing Director for <a href=\"http://www.banjotom2.com\" target=\"_blank\">www.banjotom2.com</a>"
     }, 
     {
         "last_updated": "2009-09-16T19:14:00", 
@@ -92653,7 +92653,7 @@ var TABS = [
                 "http://banjoteacher.com/tablature/index.html"
             ]
         }, 
-        "desc": "Notes: This is one of the songs in my Banjo Songs For Beginners for Banjo Book/CD/DVD from the free tab page at BanjoTeacher.com. Thanks, Ross Nickerson\n\n"
+        "desc": "Notes: This is one of the songs in my Banjo Songs For Beginners for Banjo Book/CD/DVD from the free tab page at <a href=\"http://BanjoTeacher.com\" target=\"_blank\">BanjoTeacher.com</a>. Thanks, Ross Nickerson\n\n"
     }, 
     {
         "last_updated": "2016-12-19T09:21:00", 
@@ -93329,7 +93329,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-wisnants-rag-14373-36331313122010.tef"
             ]
         }, 
-        "desc": "Notes: This is my arrangement of Whisnant's Rag by Johnny Whisnant - there are 4 variations on the B part of this tune and a video to demonstrate here at the hangout - type \"Dave Hum - Whisnant's Rag\" in the search part of the video section. TablEdit or 3 JPEGS available. More Tabs at www.davehum.com"
+        "desc": "Notes: This is my arrangement of Whisnant's Rag by Johnny Whisnant - there are 4 variations on the B part of this tune and a video to demonstrate here at the hangout - type \"Dave Hum - Whisnant's Rag\" in the search part of the video section. TablEdit or 3 JPEGS available. More Tabs at <a href=\"http://www.davehum.com\" target=\"_blank\">www.davehum.com</a>"
     }, 
     {
         "last_updated": "2013-10-22T05:08:00", 
@@ -93892,7 +93892,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-why-dont-you-te-13072-59207632010.tef"
             ]
         }, 
-        "desc": "Notes: Here is Earl Scruggs' solo for \"Why Don't You Tell Me So?\", from Flatt & Scruggs' Mercury sessions. It is note for note, unless I made a mistake ;) The walking bass line is actually taken from the vocal break, not the banjo break, but I like the sound. The guitar part is not taken from Lester in any way; that's the way I play in an E position (capoed up 1) on the guitar with a thumb and finger. One of the classic banjo solos of all time, in my opinion. Have fun!"
+        "desc": "Notes: Here is Earl Scruggs' solo for \"Why Don't You Tell Me So?\", from Flatt &amp; Scruggs' Mercury sessions. It is note for note, unless I made a mistake ;) The walking bass line is actually taken from the vocal break, not the banjo break, but I like the sound. The guitar part is not taken from Lester in any way; that's the way I play in an E position (capoed up 1) on the guitar with a thumb and finger. One of the classic banjo solos of all time, in my opinion. Have fun!"
     }, 
     {
         "download": {
@@ -94292,7 +94292,7 @@ var TABS = [
                 "http://c305732.r32.cf1.rackcdn.com/Wildwood_Flower-Banjo.zip"
             ]
         }, 
-        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From LaynePublications.com"
+        "desc": "Notes: Comes with TAB, Chord Chart, MP3 and Backing Track MP3. From <a href=\"http://LaynePublications.com\" target=\"_blank\">LaynePublications.com</a>"
     }, 
     {
         "last_updated": "2012-04-09T15:26:00", 
@@ -94344,7 +94344,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-wildwood-flower-20254-2423161432014.tef"
             ]
         }, 
-        "desc": "Notes: From Jack Baker, for the TOTW: http://www.banjohangout.org/topic/281425"
+        "desc": "Notes: From Jack Baker, for the TOTW: <a href=\"http://www.banjohangout.org/topic/281425\" target=\"_blank\">http://www.banjohangout.org/topic/281425</a>"
     }, 
     {
         "last_updated": "2014-03-14T16:24:00", 
@@ -94362,7 +94362,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-wildwood-flower-20255-1724161432014.tef"
             ]
         }, 
-        "desc": "Notes: Allen Shelton's version, transcribed by Jack Baker for our TOTW: http://www.banjohangout.org/topic/281425"
+        "desc": "Notes: Allen Shelton's version, transcribed by Jack Baker for our TOTW: <a href=\"http://www.banjohangout.org/topic/281425\" target=\"_blank\">http://www.banjohangout.org/topic/281425</a>"
     }, 
     {
         "play": {
@@ -94578,7 +94578,7 @@ var TABS = [
                 "http://www.leemarcusmusic.com/tabs/will_the_circle_be_unbroken.gif"
             ]
         }, 
-        "desc": "Notes: As played by Lee Marcus on \"Grandpa's Pond\"\nhttp://www.leemarcusmusic.com"
+        "desc": "Notes: As played by Lee Marcus on \"Grandpa's Pond\"\n<a href=\"http://www.leemarcusmusic.com\" target=\"_blank\">http://www.leemarcusmusic.com</a>"
     }, 
     {
         "last_updated": "2014-09-27T13:52:00", 
@@ -95599,7 +95599,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-wreck-of-the-ol-20185-251792522014.tef"
             ]
         }, 
-        "desc": "Notes: For the TOTW: http://www.banjohangout.org/topic/277486, based on Earl's arrangement."
+        "desc": "Notes: For the TOTW: <a href=\"http://www.banjohangout.org/topic/277486\" target=\"_blank\">http://www.banjohangout.org/topic/277486</a>, based on Earl's arrangement."
     }, 
     {
         "last_updated": "2014-09-15T10:20:00", 
@@ -95656,7 +95656,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/w/tab-wreck-on-the-hi-18192-1632912013.tef"
             ]
         }, 
-        "desc": "Notes: This is a very basic accompaniment (with break) for Bruce Springsteen's \"Wreck on the Highway\" from \"The River\". It's really straightforward. It's also my first tab and my first arrangement. you can hear a recording of the arrangment at http://www.nelefa.org/2012/10/wreck-on-the-highway-revisited/"
+        "desc": "Notes: This is a very basic accompaniment (with break) for Bruce Springsteen's \"Wreck on the Highway\" from \"The River\". It's really straightforward. It's also my first tab and my first arrangement. you can hear a recording of the arrangment at <a href=\"http://www.nelefa.org/2012/10/wreck-on-the-highway-revisited/\" target=\"_blank\">http://www.nelefa.org/2012/10/wreck-on-the-highway-revisited/</a>"
     }, 
     {
         "play": {
@@ -96144,7 +96144,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/y/tab-you-are-my-suns-13658-2838223072010.pdf"
             ]
         }, 
-        "desc": "Notes: This famous country song by Oliver Hood was first recorded in 1939. The next year Jimmie Davis, later governor of Louisiana, waxed it, and was followed by Bing Crosby and Gene Autry, who made it famous. I arranged and performed this version for the wedding of novelist T Cooper, who requested the song for the processional. The usual key for the tune is C. - Glenn Weiser  www.celticguitarmusic.com"
+        "desc": "Notes: This famous country song by Oliver Hood was first recorded in 1939. The next year Jimmie Davis, later governor of Louisiana, waxed it, and was followed by Bing Crosby and Gene Autry, who made it famous. I arranged and performed this version for the wedding of novelist T Cooper, who requested the song for the processional. The usual key for the tune is C. - Glenn Weiser  <a href=\"http://www.celticguitarmusic.com\" target=\"_blank\">www.celticguitarmusic.com</a>"
     }, 
     {
         "download": {
@@ -96347,7 +96347,7 @@ var TABS = [
                 "http://www.hangoutstorage.com/banjohangout.org/storage/tabs/y/tab-you-could-hear--20625-58342172014.pdf"
             ]
         }, 
-        "desc": "Notes: This is a transcription of the Flatt & Scruggs recording of the song as heard on \"At Carnegie Hall\". I transcribed this because it was the slowest banjo playing I ever heard from Earl Scruggs and I wanted to practice some ear skills. The banjo intro and the two breaks are almost identical, so it really just is eight or nine measures worth of music.\n\nI guess I need to find a better way to typeset the bend in the sixth measure. The E note on the 4th string doesn't go up all the way to the F note, it really just is some quarter note bend. In some places I guess I haven't really got the rhythm right, especially the lick in measure 3 of the banjo break. Make sure to listen to the original a lot and play it as you hear it. Generally the whole piece has a very strong bounce to it, i.e. the first one of a pair of eighth notes is always longer than the second one."
+        "desc": "Notes: This is a transcription of the Flatt &amp; Scruggs recording of the song as heard on \"At Carnegie Hall\". I transcribed this because it was the slowest banjo playing I ever heard from Earl Scruggs and I wanted to practice some ear skills. The banjo intro and the two breaks are almost identical, so it really just is eight or nine measures worth of music.\n\nI guess I need to find a better way to typeset the bend in the sixth measure. The E note on the 4th string doesn't go up all the way to the F note, it really just is some quarter note bend. In some places I guess I haven't really got the rhythm right, especially the lick in measure 3 of the banjo break. Make sure to listen to the original a lot and play it as you hear it. Generally the whole piece has a very strong bounce to it, i.e. the first one of a pair of eighth notes is always longer than the second one."
     }, 
     {
         "download": {

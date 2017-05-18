@@ -1,7 +1,9 @@
 import json
+from bleach.linkifier import Linker
 from bs4 import BeautifulSoup, Tag
 from collections import defaultdict
 from datetime import datetime
+from urlparse import urlparse
 
 
 VALID_DOWNLOAD_FORMATS = [
@@ -113,7 +115,7 @@ def process_last_updated(row):
     return datetime.strptime(orig_time, '%m/%d/%Y %I:%M %p').isoformat()
 
 
-def process_row(row):
+def process_row(row, linker):
     '''Processes the information for a single tab.
 
     Args:
@@ -134,7 +136,7 @@ def process_row(row):
     # Optional attributes
 
     if len(row.find_all('i')) > 0:
-        data['desc'] = desc = row.find_all('i')[0].string
+        data['desc'] = linker.linkify(row.find_all('i')[0].string)
 
     meta = process_meta(row.find_all('span')[0].string)
     if meta:
@@ -151,14 +153,28 @@ def process_row(row):
     return data
 
 
+def set_target(attrs, new=False):
+    '''Makes the bleach linkifier create links that open in a new tab'''
+    p = urlparse(attrs[(None, u'href')])
+    attrs[(None, u'target')] = u'_blank'
+    return attrs
+
+
+HTML_FILE = 'all_tabs_table_20170503.html'
+#HTML_FILE = 'sometabs.html'
+
 def main():
-    soup = BeautifulSoup(open('all_tabs_table_20170503.html'), 'html.parser')
-    #soup = BeautifulSoup(open('sometabs.html'), 'html.parser')
+    print 'Parsing HTML from {}'.format(HTML_FILE)
+    soup = BeautifulSoup(open(HTML_FILE), 'html.parser')
     tab_table = soup.contents[0].contents[1].contents
     tabs = []
-    for row in tab_table:
+    linker = Linker(callbacks=[set_target])
+    print 'Processing tabs'
+    for i, row in enumerate(tab_table):
         if is_valid_row(row):
-            tabs.append(process_row(row))
+            tabs.append(process_row(row, linker))
+        if (i + 1) % 1000 == 0:
+            print '{} tabs processed'.format(i+1)
     with open('tabs.js', 'w+') as f:
         f.write('var TABS = {};'.format(json.dumps(tabs, indent=4)))
 
