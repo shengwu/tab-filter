@@ -28,22 +28,33 @@ function Tab(props) {
       //<Linkify tagName="p">{props.desc}</Linkify>
 }
 
+const filterTabs = filter => tab =>
+  tab.title.toLowerCase().indexOf(filter.toLowerCase()) !== -1;
+
 class TabFilter extends React.Component {
   constructor() {
     super();
     this.state = {
-      tabs: TABS
+      tabs: TABS,
+      filter: '',
     }
   }
 
   render() {
+    const filteredTabs = this.state.filter ?
+      this.state.tabs.filter(filterTabs(this.state.filter)) :
+      this.state.tabs.slice(0);
     return (
       <div>
-      <input
-        type="text"
+      <TextFilter
+        onFilter={ ({target: {value: filter}}) => this.setState({
+          tabs: this.state.tabs,
+          filter: filter
+        }) }
+        debounceTimeout="150"
         className="form-control"
         placeholder="Filter by tab name" />
-      {this.state.tabs.map(function(tab, i) {
+      {filteredTabs.map(function(tab, i) {
         return <Tab
           name={tab.title}
           desc={tab.desc}
