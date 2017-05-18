@@ -1,6 +1,7 @@
 import json
 from bs4 import BeautifulSoup, Tag
 from collections import defaultdict
+from datetime import datetime
 
 
 VALID_DOWNLOAD_FORMATS = [
@@ -102,15 +103,14 @@ def process_play_links(links):
 
 def process_posted_by(row):
     '''Returns the user who posted a tab'''
-    #poster = row.find_all('span')[1]
-    # TODO
-    pass
+    return row.find_all('span')[1].find_all('a')[0].string
 
 
 def process_last_updated(row):
     '''Returns the last updated timestamp for a tab'''
-    # TODO
-    pass
+    time_parts = row.find_all('span')[1].contents[2].split()[-3:]
+    orig_time = ' '.join(time_parts)
+    return datetime.strptime(orig_time, '%m/%d/%Y %I:%M %p').isoformat()
 
 
 def process_row(row):
@@ -123,8 +123,12 @@ def process_row(row):
       a dictionary containing information about a tab'''
 
     title = row.find_all('a')[0].string
+    posted_by = process_posted_by(row)
+    last_updated = process_last_updated(row)
     data = {
         'title': title,
+        'posted_by': posted_by,
+        'last_updated': last_updated,
     }
 
     # Optional attributes
