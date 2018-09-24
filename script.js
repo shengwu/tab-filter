@@ -43,6 +43,31 @@ function filterTabs(filter) {
   }
 }
 
+// Index-building functions
+
+var index = {};
+
+function tokenize(sentence) {
+  return sentence.toLowerCase().split(/[^\w]+/).filter(s => s !== '');
+}
+
+function addToIndex(key, tabIdx) {
+  if (!index.hasOwnProperty(key)) {
+    index[key] = [];
+  }
+  index[key].push(tabIdx);
+}
+
+function buildIndex() {
+  TABS.forEach((tab, tabIdx) => {
+    var parts = tokenize(tab.title);
+    parts.forEach(part => addToIndex(part, tabIdx));
+  });
+}
+buildIndex();
+console.log(index);
+
+
 var debounceMs = 200;
 var doFilterId = -1;
 
